@@ -43,9 +43,7 @@ Don't hesitate to explore these projects for a better understanding of my coding
 
 If you'd like to get in touch, feel free to reach out through one of the following methods:
 
-- [Email 📧](mailto:hachimaru@example.com)
-- [LinkedIn 💼](https://www.linkedin.com/in/xxxhachimaru)
-- [Twitter 🐦](https://twitter.com/xxxhachimaru)
+- [Telegram 🪽](https://t.me/xxspell)
 
 I would be more than happy to connect with other developers, collaborate on projects, or explore exciting opportunities.
 
