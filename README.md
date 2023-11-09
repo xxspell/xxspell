@@ -13,8 +13,6 @@
 
 
 [<img align="left" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.base.svg">](#)
-
-
 [<img align="right" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.languages.indepth.svg">](#)
 [<img align="right" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.wakatime.svg">](#)
 [<img align="right" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.achievements.compact.svg">](#)
