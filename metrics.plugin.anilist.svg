@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="199" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.anilist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px}.anilist .media{display:flex;margin-bottom:4px;width:450px}.anilist .media img{margin:0 10px;border-radius:7px}.anilist .media .about{flex-grow:1}.anilist .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.anilist .media .infos{font-size:12px;color:#666}.anilist .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.anilist .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.anilist .media .description{overflow:hidden;text-overflow:ellipsis;display:block;width:380px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M4.75 2.5a.25.25 0 00-.25.25v9.91l3.023-2.489a.75.75 0 01.954 0l3.023 2.49V2.75a.25.25 0 00-.25-.25h-6.5zM3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 01-1.227.579L8 11.722l-3.773 3.107A.75.75 0 013 14.25V2.75z"/>
+                    </svg>
+                    Anilist
+                </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                            </svg>
+                            Favorites genres:
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"/>
+                            </svg>
+                            0 minutes watched
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
+                            </svg>
+                            0 chapters read
+                        </div>
+                    </section>
+                </div>
+                <div class="row fill-width">
+                    <section>
+                        <div class="anilist">
+                            <h2 class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"/>
+                                </svg>
+                                Favorites animes
+                            </h2>
+                            <div class="medias largeable-flex-wrap">
+                                <div class="media largeable-width-half">
+                                    <img src="data:image/jpg;base64,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" width="48" height="72" alt="" />
+                                    <div class="about">
+                                        <div class="name">Natsu e no Tunnel, Sayonara no Deguchi</div>
+                                        <div class="infos">
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"/>
+                                                </svg>
+                                                Anime
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                                </svg>
+                                                2022
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M8.834.066C7.494-.087 6.5 1.048 6.5 2.25v.5c0 1.329-.647 2.124-1.318 2.614-.328.24-.66.403-.918.508A1.75 1.75 0 002.75 5h-1A1.75 1.75 0 000 6.75v7.5C0 15.216.784 16 1.75 16h1a1.75 1.75 0 001.662-1.201c.525.075 1.067.229 1.725.415.152.043.31.088.475.133 1.154.32 2.54.653 4.388.653 1.706 0 2.97-.153 3.722-1.14.353-.463.537-1.042.668-1.672.118-.56.208-1.243.313-2.033l.04-.306c.25-1.869.265-3.318-.188-4.316a2.418 2.418 0 00-1.137-1.2C13.924 5.085 13.353 5 12.75 5h-1.422l.015-.113c.07-.518.157-1.17.157-1.637 0-.922-.151-1.719-.656-2.3-.51-.589-1.247-.797-2.01-.884zM4.5 13.3c.705.088 1.39.284 2.072.478l.441.125c1.096.305 2.334.598 3.987.598 1.794 0 2.28-.223 2.528-.549.147-.193.276-.505.394-1.07.105-.502.188-1.124.295-1.93l.04-.3c.25-1.882.189-2.933-.068-3.497a.922.922 0 00-.442-.48c-.208-.104-.52-.174-.997-.174H11c-.686 0-1.295-.577-1.206-1.336.023-.192.05-.39.076-.586.065-.488.13-.97.13-1.328 0-.809-.144-1.15-.288-1.316-.137-.158-.402-.304-1.048-.378C8.357 1.521 8 1.793 8 2.25v.5c0 1.922-.978 3.128-1.933 3.825a5.861 5.861 0 01-1.567.81V13.3zM2.75 6.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25h-1a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25h1z"/>
+                                                </svg>
+                                                77%
+                                            </div>
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
+                                                </svg>
+                                                1 episode
+                                            </div>
+                                        </div>
+                                        <div class="infos">
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                                </svg>
+                                                Drama, Romance, Supernatural
+                                            </div>
+                                        </div>
+                                        <div class="description">Urashima Tunnel - Once you enter that tunnel, you can get whatever you want, but at a price. Kaoru Tohno, who seems to have an elusive personality and traumatic past, and Anzu Hanashiro, who is struggling to reconcile her ideal image and true-to-heart attitude, team up to investigate the Urashima Tunnel and get what they want. This is an unforgettable summer story of nostalgia and sprinting in a remote countryside.  (Source: HIDIVE)</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
