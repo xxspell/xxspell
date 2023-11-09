@@ -16,7 +16,7 @@ jobs:
           with:
             filename: metrics.base.svg
             token: ${{ secrets.METRICS_TOKEN }}
-            base: header, activity, community, repositories, metadata
+            base: header, activity, community, repositories
       
         - name: Anilist - Favorites characters
           uses: lowlighter/metrics@latest
