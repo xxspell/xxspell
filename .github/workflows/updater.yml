@@ -25,18 +25,9 @@ jobs:
             token: NOT_NEEDED
             base: ""
             plugin_anilist: yes
-            plugin_anilist_sections: characters
+            plugin_anilist_sections: favorites, characters
             plugin_anilist_limit_characters: 22
 
-        - name: Favorites anime and currently watching
-          uses: lowlighter/metrics@latest
-          with:
-            filename: metrics.plugin.anilist.svg
-            token: NOT_NEEDED
-            base: ""
-            plugin_anilist: yes
-            plugin_anilist_sections: favorites
-            plugin_anilist_limit: 1
 
         - name: Youtube Music - Recently listed
           uses: lowlighter/metrics@latest
