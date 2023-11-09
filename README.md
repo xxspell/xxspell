@@ -17,4 +17,4 @@
 [<img align="left" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.achievements.compact.svg">](#)
 [<img align="left" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.anilist.characters.svg">](#)
 [<img align="left" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.youtubemusic.svg">](https://music.youtube.com/channel/UCB-K84gppIjbEO20zyiaNgQ?si=W3LHh4kLRuKGSgO1)
-[<img align="left" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/lastfm.svg">](https://www.last.fm/user/xxspell)
+[<img align="left" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.lastfm.svg">](https://www.last.fm/user/xxspell)
