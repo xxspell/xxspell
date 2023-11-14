@@ -43,17 +43,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ozon-GoogleSheets</span>
-                                <div class="bar" style="width: 35.744%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">45%</span>
+                                <div class="bar" style="width: 36.480000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">46%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">xxspell</span>
-                                <div class="bar" style="width: 25.816000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.391999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">BrowserAutomationToolkit</span>
-                                <div class="bar" style="width: 18.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 18.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">23%</span>
                             </div>
                         </div>
