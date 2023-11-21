@@ -32,13 +32,6 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Praise The Lord (Da Shine)</div>
-                                    <div class="artist">A$AP Rocky</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
                                     <div class="name">mimofr &amp; Cxdy - go!</div>
                                     <div class="artist">Bass Nation</div>
                                 </div>
@@ -48,6 +41,13 @@
                                 <div class="infos">
                                     <div class="name">Onna Come Up (Remix)</div>
                                     <div class="artist">Lil Eazzyy</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">On tha linë</div>
+                                    <div class="artist">Yeat</div>
                                 </div>
                             </div>
                         </div>
