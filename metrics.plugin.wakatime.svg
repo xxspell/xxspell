@@ -43,13 +43,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ozon-GoogleSheets</span>
-                                <div class="bar" style="width: 71.624%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">90%</span>
+                                <div class="bar" style="width: 70.584%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">88%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">validator-tg-bot</span>
-                                <div class="bar" style="width: 8.376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 9.416%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                         </div>
                     </section>
