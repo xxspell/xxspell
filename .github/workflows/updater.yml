@@ -82,19 +82,19 @@ jobs:
             plugin_achievements_threshold: X
 
 
-        - name: WakaTime
-          uses: lowlighter/metrics@latest
-          with:
-            filename: metrics.plugin.wakatime.svg
-            token: NOT_NEEDED
-            base: ""
-            plugin_wakatime: yes
-            plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
-            plugin_wakatime_days: 7                                   # Display last week stats
-            plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
-            plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-            plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
-            plugin_wakatime_user: .user.login
+        # - name: WakaTime
+        #   uses: lowlighter/metrics@latest
+        #   with:
+        #     filename: metrics.plugin.wakatime.svg
+        #     token: NOT_NEEDED
+        #     base: ""
+        #     plugin_wakatime: yes
+        #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
+        #     plugin_wakatime_days: 7                                   # Display last week stats
+        #     plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+        #     plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+        #     plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
+        #     plugin_wakatime_user: .user.login
 
 
 
