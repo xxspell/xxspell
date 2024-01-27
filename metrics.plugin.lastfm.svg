@@ -25,6 +25,20 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
+                                    <div class="name">Mo Bamba</div>
+                                    <div class="artist">Шек Уэс</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">a lot</div>
+                                    <div class="artist">21 Savage</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
                                     <div class="name">Don’t Come Out the House</div>
                                     <div class="artist">Metro Boomin</div>
                                 </div>
@@ -34,20 +48,6 @@
                                 <div class="infos">
                                     <div class="name">NO RULES!</div>
                                     <div class="artist">Mav3rich</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">SUPERNOVA</div>
-                                    <div class="artist">KXNVRA</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Songs that make you dance</div>
-                                    <div class="artist">SHAKE MUSIC</div>
                                 </div>
                             </div>
                         </div>
