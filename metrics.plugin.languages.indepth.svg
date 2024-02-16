@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 497kb of code in 186 edited files across 149 commits</small>
+                <small>estimation from 656kb of code in 208 edited files across 153 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.4047213114754" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="406.4047213114754" y="0" width="52.111213114754094" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.5159344262295" y="0" width="1.4840655737704918" height="8" fill="#15dcdc"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.4984825296361" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="433.4984825296361" y="0" width="25.7676843661643" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.2661668958004" y="0" width="0.7338331041996317" height="8" fill="#15dcdc"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>867 lines</div>
-                                <div>33.6 kB</div>
+                                <div>1.90k lines</div>
+                                <div>72.6 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
