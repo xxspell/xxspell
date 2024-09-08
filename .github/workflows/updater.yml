@@ -18,15 +18,15 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN }}
             base: header, activity, community, repositories
       
-        - name: Anilist - Favorites characters
-          uses: frieren-mage/metrics@master
-          with:
-            filename: metrics.plugin.anilist.characters.svg
-            token: NOT_NEEDED
-            base: ""
-            plugin_anilist: yes
-            plugin_anilist_sections: favorites, characters
-            plugin_anilist_limit_characters: 22
+        # - name: Anilist - Favorites characters
+        #   uses: frieren-mage/metrics@master
+        #   with:
+        #     filename: metrics.plugin.anilist.characters.svg
+        #     token: NOT_NEEDED
+        #     base: ""
+        #     plugin_anilist: yes
+        #     plugin_anilist_sections: favorites, characters
+        #     plugin_anilist_limit_characters: 22
 
 
         # - name: Last.fm  - Recently listed
@@ -41,16 +41,16 @@ jobs:
         #     plugin_music_provider: lastfm
         #     plugin_music_user: xxspell
 
-        - name: Youtube Music - Recently listed
-          uses: frieren-mage/metrics@master
-          with:
-            filename: metrics.plugin.youtubemusic.svg
-            token: NOT_NEEDED
-            base: ""
-            plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKEN }}
-            plugin_music: yes
-            plugin_music_mode: recent
-            plugin_music_provider: youtube
+        # - name: Youtube Music - Recently listed
+        #   uses: frieren-mage/metrics@master
+        #   with:
+        #     filename: metrics.plugin.youtubemusic.svg
+        #     token: NOT_NEEDED
+        #     base: ""
+        #     plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKEN }}
+        #     plugin_music: yes
+        #     plugin_music_mode: recent
+        #     plugin_music_provider: youtube
 
         - name: Indepth analysis
           uses: frieren-mage/metrics@master
