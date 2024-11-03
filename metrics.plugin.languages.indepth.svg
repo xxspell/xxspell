@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.02mb of code in 304 edited files across 175 commits</small>
+                <small>estimation from 1.32mb of code in 325 edited files across 176 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.6810924110721" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.6810924110721" y="0" width="18.722150298995132" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="447.40324271006716" y="0" width="12.247950188027865" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.6511928980951" y="0" width="0.348807101904938" height="8" fill="#15dcdc"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.87595379804816" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.87595379804816" y="0" width="15.541828938143222" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="448.4177827361914" y="0" width="10.167397634632017" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.5851803708234" y="0" width="1.4148196291766248" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +37,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>3.89k lines</div>
-                                <div>151 kB</div>
+                                <div>4.89k lines</div>
+                                <div>183 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -70,13 +70,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#15dcdc" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7e858d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                VBScript
+                                Mako
                             </div>
                             <small>
-                                <div>3 lines</div>
-                                <div>123 bytes</div>
+                                <div>18 lines</div>
+                                <div>601 bytes</div>
                             </small>
                         </div>
                     </section>
