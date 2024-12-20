@@ -68,7 +68,7 @@ jobs:
             plugin_languages_analysis_timeout: 15
 
 
-        - name: Compact display
+        - name: Display
           uses: frieren-mage/metrics@master
           with:
             filename: metrics.plugin.achievements.compact.svg
@@ -78,7 +78,7 @@ jobs:
             plugin_achievements_only: >-
               polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
               scripter, packager, explorer, infographile, manager
-            plugin_achievements_display: compact
+            plugin_achievements_display: detailed
             plugin_achievements_threshold: X
 
 
