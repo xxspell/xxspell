@@ -64,8 +64,8 @@ jobs:
               gnuplot
             plugin_languages_indepth: yes
             plugin_languages_details: lines, bytes-size
-            plugin_languages_limit: 4
-            plugin_languages_analysis_timeout: 15
+            plugin_languages_limit: 10
+            plugin_languages_analysis_timeout: 50
 
 
         - name: Display
