@@ -18,4 +18,4 @@
 [<img align="right" width="390" alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.lastfm.svg">](https://www.last.fm/user/xxspell)
 [<img alt="❄️" src="https://raw.githubusercontent.com/xxspell/xxspell/main/metrics.plugin.achievements.compact.svg">](#)
 
-
+//Lots of unnecessary information that confuses the program
