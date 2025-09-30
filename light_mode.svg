@@ -16,7 +16,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii"> 
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii">
     <tspan x="15" y="30">                             ,cf;</tspan>
     <tspan x="15" y="50">      :;,                    iLLLt,</tspan>
     <tspan x="15" y="70">    .tLL:                    :LLLLi</tspan>
