@@ -5,97 +5,22 @@ on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+
 jobs:
-  github-metrics:
-      #runs-on: ubuntu-latest
-      runs-on: self-hosted
-      permissions:
-        contents: write
-      steps:
-        - name: Default metrics
-          uses: frieren-mage/metrics@master
-          with:
-            filename: metrics.base.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: header, activity, community, repositories
-      
-        # - name: Anilist - Favorites characters
-        #   uses: frieren-mage/metrics@master
-        #   with:
-        #     filename: metrics.plugin.anilist.characters.svg
-        #     token: NOT_NEEDED
-        #     base: ""
-        #     plugin_anilist: yes
-        #     plugin_anilist_sections: favorites, characters
-        #     plugin_anilist_limit_characters: 22
-
-
-        # - name: Last.fm  - Recently listed
-        #   uses: lowlighter/metrics@latest
-        #   with:
-        #     filename: metrics.plugin.lastfm.svg
-        #     token: NOT_NEEDED
-        #     base: ""
-        #     plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
-        #     plugin_music: yes
-        #     plugin_music_mode: recent
-        #     plugin_music_provider: lastfm
-        #     plugin_music_user: xxspell
-
-        # - name: Youtube Music - Recently listed
-        #   uses: frieren-mage/metrics@master
-        #   with:
-        #     filename: metrics.plugin.youtubemusic.svg
-        #     token: NOT_NEEDED
-        #     base: ""
-        #     plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKEN }}
-        #     plugin_music: yes
-        #     plugin_music_mode: recent
-        #     plugin_music_provider: youtube
-
-        - name: Indepth analysis
-          uses: frieren-mage/metrics@master
-          with:
-            filename: metrics.plugin.languages.indepth.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_languages: yes
-            plugin_languages_ignored: >-
-              html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-              gnuplot
-            plugin_languages_indepth: yes
-            plugin_languages_details: lines, bytes-size
-            plugin_languages_limit: 10
-            plugin_languages_analysis_timeout: 50
-
-
-        - name: Display
-          uses: frieren-mage/metrics@master
-          with:
-            filename: metrics.plugin.achievements.compact.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_achievements: yes
-            plugin_achievements_only: >-
-              polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-              scripter, packager, explorer, infographile, manager
-            plugin_achievements_display: detailed
-            plugin_achievements_threshold: X
-
-
-        # - name: WakaTime
-        #   uses: lowlighter/metrics@latest
-        #   with:
-        #     filename: metrics.plugin.wakatime.svg
-        #     token: NOT_NEEDED
-        #     base: ""
-        #     plugin_wakatime: yes
-        #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
-        #     plugin_wakatime_days: 7                                   # Display last week stats
-        #     plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
-        #     plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-        #     plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
-        #     plugin_wakatime_user: .user.login
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate and commit metrics
+        uses: your-username/metrics-generator/action.yml@main
+        with:
+          target_repository: your-username/repo
+          target_branch: main
+          access_token: ${{ secrets.METRICS_ACCESS_TOKEN }}
+          user_name: ${{ secrets.METRICS_USER_NAME }}
+          proxy: ${{ secrets.METRICS_PROXY }}
+          excluded_repos: ${{ secrets.METRICS_EXCLUDED_REPOS }}
+          git_user_name: ${{ secrets.METRICS_GIT_USER_NAME }}
+          git_user_email: ${{ secrets.METRICS_GIT_USER_EMAIL }}
 
 
 
