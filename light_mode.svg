@@ -19,28 +19,28 @@ text, tspan {white-space: pre;}
 <text x="15" y="30" fill="#24292f" class="ascii" id="ascii">
     <tspan x="15" y="30"/>
     <tspan x="15" y="50"/>
-    <tspan x="15" y="70">                  TSNJJJJJJJJJKTTY</tspan>
-    <tspan x="15" y="90">                WHQQW         ZQLISZ</tspan>
-    <tspan x="15" y="110">               WMM                KK</tspan>
-    <tspan x="15" y="130">              OHW     VDCKOTWXRCCHIIIS</tspan>
-    <tspan x="15" y="150">              NH      SAAHCJOFARNLLPXRJTY</tspan>
-    <tspan x="15" y="170">              NH      WMAAKUOAAKMX    TLIU</tspan>
-    <tspan x="15" y="190">              NEQ        Z QFAAAAGPOOU ZQEK</tspan>
-    <tspan x="15" y="210">            VKCAAGUY       NFFEAEFCAADQQXJK</tspan>
-    <tspan x="15" y="230">         ZYKBAAACQBSZ         ZQKWUQMCBCPIL</tspan>
-    <tspan x="15" y="250">        WLAAAIHI   OMT          NMU     PU</tspan>
-    <tspan x="15" y="270">       WMAAHILOY    KL           FP</tspan>
-    <tspan x="15" y="290">      YMAABXWGDMWY  KK          LPLP</tspan>
-    <tspan x="15" y="310">      KAAAELBAAACR QMS          ETKK</tspan>
-    <tspan x="15" y="330">     HAAFKAAABACK RKU          RKNGK</tspan>
-    <tspan x="15" y="350">    GBAAAAALEDLVUKRY          YBLFMW</tspan>
-    <tspan x="15" y="370">  YLAAAAAAANX SMP            UHBCU</tspan>
-    <tspan x="15" y="390"> SAAAAAAAAANCGQ            TLFBAV</tspan>
-    <tspan x="15" y="410">PDAAAAACGGGAALV XEJLNW   THBAFGVZ</tspan>
-    <tspan x="15" y="430">VMBBBBKV   QBADJHAABAFEFGAAAFLJJJJSZ</tspan>
-    <tspan x="15" y="450">           CAAACJMMNLHHZAAAAAETLBLGK</tspan>
-    <tspan x="15" y="470">           XKHEAAEQDGIL XXKHHIJAHHRY</tspan>
-    <tspan x="15" y="490">              WSSSSSX         ZSZ</tspan>
+    <tspan x="15" y="70">               TSNJJJJJJJJJKT</tspan>
+    <tspan x="15" y="90">             WHQQ         ZQLIS</tspan>
+    <tspan x="15" y="110">            WM                KK</tspan>
+    <tspan x="15" y="130">           OH     VDCKOTWXRCCHIII</tspan>
+    <tspan x="15" y="150">           N      SAAHCJOFARNLLPXRJT</tspan>
+    <tspan x="15" y="170">           N      WMAAKUOAAKMX    TLI</tspan>
+    <tspan x="15" y="190">           NE        Z QFAAAAGPOOU ZQE</tspan>
+    <tspan x="15" y="210">         VKCAAGU       NFFEAEFCAADQQXJ</tspan>
+    <tspan x="15" y="230">      ZYKBAAACQBS         ZQKWUQMCBCPI</tspan>
+    <tspan x="15" y="250">     WLAAAIHI   OM          NMU    PU</tspan>
+    <tspan x="15" y="270">    WMAAHILOY    K           FP</tspan>
+    <tspan x="15" y="290">   YMAABXWGDMWY  K          LPLP</tspan>
+    <tspan x="15" y="310">   KAAAELBAAACR QM          ETKK</tspan>
+    <tspan x="15" y="330">  HAAFKAAABACK RK          RKNGK</tspan>
+    <tspan x="15" y="350"> GBAAAAALEDLVUKR          YBLFMW</tspan>
+    <tspan x="15" y="370">LAAAAAAANX SM            UHBCU</tspan>
+    <tspan x="15" y="390">AAAAAAAANCG            TLFBAV</tspan>
+    <tspan x="15" y="410">AAAACGGGAALV XEJLN   THBAFGVZ</tspan>
+    <tspan x="15" y="430">BBBKV   QBADJHAABAFEFGAAAFLJJJJS</tspan>
+    <tspan x="15" y="450">        CAAACJMMNLHHZAAAAAETLBLGK</tspan>
+    <tspan x="15" y="470">        XKHEAAEQDGIL XXKHHIJAHHRY</tspan>
+    <tspan x="15" y="490">           WSSSSSX         ZSZ</tspan>
     <tspan x="15" y="510"/>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
@@ -74,7 +74,7 @@ text, tspan {white-space: pre;}
 
     <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
     <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">79</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">81</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">53</tspan>
-    <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,433</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">375</tspan>
-    <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">695,871</tspan> ( <tspan class="addColor" id="loc_add">854,901</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">159,030</tspan><tspan class="delColor">--</tspan> )
+    <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,435</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">375</tspan>
+    <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">695,868</tspan> ( <tspan class="addColor" id="loc_add">854,985</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">159,117</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
