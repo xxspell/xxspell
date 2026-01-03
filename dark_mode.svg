@@ -17,33 +17,37 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/38.txt">
-    <tspan x="15" y="30">      |    |              _.-7</tspan>
-    <tspan x="15" y="50">      |\.-.|             ( ,(_</tspan>
-    <tspan x="15" y="70">      | a a|              \\  \,</tspan>
-    <tspan x="15" y="90">      ) ["||          _.--' \  \\</tspan>
-    <tspan x="15" y="110">   .-'  '-''-..____.-'    ___)  )\</tspan>
-    <tspan x="15" y="130">  F   _/-``-.__;-.-.--`--' . .' \_L_</tspan>
-    <tspan x="15" y="150"> |   l  {~~} ,_\  '.'.      ` __.' )\</tspan>
-    <tspan x="15" y="170"> (    -.;___,;  | '- _       :__.'( /</tspan>
-    <tspan x="15" y="190"> | -.__ _/_.'.-'      '-._ .'      \\</tspan>
-    <tspan x="15" y="210"> |     .'   |  -- _                 '\,</tspan>
-    <tspan x="15" y="230"> |  \ /--,--{ .    '---.__.       .'  .'</tspan>
-    <tspan x="15" y="250"> J  ;/ __;__]. '.-.            .-' )_/</tspan>
-    <tspan x="15" y="270"> J  (-.     '\'. '. '-._.-.-'--._ /</tspan>
-    <tspan x="15" y="290"> |  |  '. .' | \'. '.    ._       \</tspan>
-    <tspan x="15" y="310"> |   \   T   |  \  '. '._  '-._    '.</tspan>
-    <tspan x="15" y="330"> F   J   |   |  '.    .  '._   '-,_.--`</tspan>
-    <tspan x="15" y="350"> F   \   \   F .  \    '.   '.  /</tspan>
-    <tspan x="15" y="370">J     \  |  J   \  '.   '.    '/</tspan>
-    <tspan x="15" y="390">J      '.L__|    .   \    '    |</tspan>
-    <tspan x="15" y="410">|   .    \  |     \   '.   '. /</tspan>
-    <tspan x="15" y="430">|    '    '.|      |    ,-.  (</tspan>
-    <tspan x="15" y="450">F   | ' ___  ',._   .  /   '. \</tspan>
-    <tspan x="15" y="470">F   (.'`|| (-._\ '.  \-      '-\</tspan>
-    <tspan x="15" y="490">\ .-'  ( L `._ '\ '._ (</tspan>
-    <tspan x="15" y="510">/'  |  /  '-._\      ''\</tspan>
-    <tspan x="15" y="530">    `-'</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/43.txt">
+    <tspan x="15" y="30">Skeleton</tspan>
+    <tspan x="15" y="50">                                           /  _</tspan>
+    <tspan x="15" y="70">                                       a/  )\/ f</tspan>
+    <tspan x="15" y="90">                                        )?\/ ] ]</tspan>
+    <tspan x="15" y="110">                                           )/ \]</tspan>
+    <tspan x="15" y="130">                                         _  )6 Q</tspan>
+    <tspan x="15" y="150">                                          ?\/ P]</tspan>
+    <tspan x="15" y="170">                             _jQQQa         ?aa]6</tspan>
+    <tspan x="15" y="190">                             ]QQQQQQ/     aa/ 4Q6]6</tspan>
+    <tspan x="15" y="210">                           _6 4QQQQQ6       )??''a]6</tspan>
+    <tspan x="15" y="230">                           jQQajQQQQQ/         )?4f ?a</tspan>
+    <tspan x="15" y="250">                           QQQQQQQQQQf            46 )6</tspan>
+    <tspan x="15" y="270">                           Q]QQQQQQQQ              )6 )4/</tspan>
+    <tspan x="15" y="290">                           P]QQQQP?4Q               )6  4/</tspan>
+    <tspan x="15" y="310">                            ]' 4Q'  Q                )6  4/</tspan>
+    <tspan x="15" y="330">                            Q   ?f _Qf                )6  4/</tspan>
+    <tspan x="15" y="350">                           )W6aJ )WQQf                  4/ 4/</tspan>
+    <tspan x="15" y="370">                           _4?4f_ QP?]                   4/ 4</tspan>
+    <tspan x="15" y="390">                           4a QQQQQ af                    ?a</tspan>
+    <tspan x="15" y="410">                            ?f)" ' ]P                      )gja/</tspan>
+    <tspan x="15" y="430"> f                           4/]]_6Q                       )')?'</tspan>
+    <tspan x="15" y="450"> \                            QQQQQf           _             Qaa/</tspan>
+    <tspan x="15" y="470"> ]                            )WQQ?            4/     _aaaaWWP??</tspan>
+    <tspan x="15" y="490"> ]  ]                             _           4)4QQQQWP????'</tspan>
+    <tspan x="15" y="510"> ]  ]                          )a?'/          ]PJW</tspan>
+    <tspan x="15" y="530">  f ]  /                       _aaP'         JQf</tspan>
+    <tspan x="15" y="550">\ ] ]  f                          aQ /_    aaW?'</tspan>
+    <tspan x="15" y="570">)/ 6 f /                       )??? /  _a?'  QQf</tspan>
+    <tspan x="15" y="590"> )/)/4 '                      a??]QQ/Q?'/  f ?</tspan>
+    <tspan x="15" y="610">_ ),\]6/                )???_aaaa'QQ6  a' _'</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -58,7 +62,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">....................... </tspan><tspan class="value">In Constant Sorrow - </tspan><tspan class="artistColor">$uicideboy$</tspan>
 <tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">......................................... </tspan><tspan class="value">Хочу еще - </tspan><tspan class="artistColor">Guf</tspan>
 <tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................... </tspan><tspan class="value">Neoperreo - </tspan><tspan class="artistColor">Secret Society &amp; ALIC3E</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">27167</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">... </tspan><tspan class="value">10</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">27167</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">... </tspan><tspan class="value">11</tspan> <tspan class="value">hours ago</tspan>
 </text><text x="390" y="280" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">72.0%</tspan><tspan fill="#3572A5" class="artistColor"> (6.5MB)</tspan>
