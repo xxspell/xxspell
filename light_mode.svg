@@ -16,29 +16,31 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/28.txt">
-    <tspan x="15" y="30">    ,__                   __</tspan>
-    <tspan x="15" y="50">    '~~****Nm_    _mZ*****~~</tspan>
-    <tspan x="15" y="70">            _8@mm@K_</tspan>
-    <tspan x="15" y="90">           W~@`  '@~W</tspan>
-    <tspan x="15" y="110">          ][][    ][][</tspan>
-    <tspan x="15" y="130">    gz    'W'W.  ,W`W`    es</tspan>
-    <tspan x="15" y="150">  ,Wf    gZ****MA****Ns    VW.</tspan>
-    <tspan x="15" y="170"> gA`   ,Wf     ][     VW.   'Ms</tspan>
-    <tspan x="15" y="190">Wf    ,@`      ][      '@.    VW</tspan>
-    <tspan x="15" y="210">M.    W`  _mm_ ][ _mm_  'W    ,A</tspan>
-    <tspan x="15" y="230">'W   ][  i@@@@i][i@@@@i  ][   W`</tspan>
-    <tspan x="15" y="250"> !b  @   !@@@@!][!@@@@!   @  d!</tspan>
-    <tspan x="15" y="270">  VWmP    ~**~ ][ ~**~    YmWf</tspan>
-    <tspan x="15" y="290">    ][         ][         ][</tspan>
-    <tspan x="15" y="310">  ,mW[         ][         ]Wm.</tspan>
-    <tspan x="15" y="330"> ,A` @  ,gms.  ][  ,gms.  @ 'M.</tspan>
-    <tspan x="15" y="350"> W`  Yi W@@@W  ][  W@@@W iP  'W</tspan>
-    <tspan x="15" y="370">d!   'W M@@@A  ][  M@@@A W`   !b</tspan>
-    <tspan x="15" y="390">@.    !b'V*f`  ][  'V*f`d!    ,@</tspan>
-    <tspan x="15" y="410">'Ms    VW.     ][     ,Wf    gA`</tspan>
-    <tspan x="15" y="430">  VW.   'Ms.   ][   ,gA`   ,Wf</tspan>
-    <tspan x="15" y="450">   'Ms    'V*mmWWmm*f`    gA`</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/39.txt">
+    <tspan x="15" y="30">              .andAHHAbnn.</tspan>
+    <tspan x="15" y="50">           .aAHHHAAUUAAHHHAn.</tspan>
+    <tspan x="15" y="70">          dHP^~"        "~^THb.</tspan>
+    <tspan x="15" y="90">    .   .AHF                YHA.   .</tspan>
+    <tspan x="15" y="110">    |  .AHHb.              .dHHA.  |</tspan>
+    <tspan x="15" y="130">    |  HHAUAAHAbn      adAHAAUAHA  |</tspan>
+    <tspan x="15" y="150">    I  HF~"_____        ____ ]HHH  I</tspan>
+    <tspan x="15" y="170">   HHI HAPK""~^YUHb  dAHHHHHHHHHH IHH</tspan>
+    <tspan x="15" y="190">   HHI HHHD&gt; .andHH  HHUUP^~YHHHH IHH</tspan>
+    <tspan x="15" y="210">   YUI ]HHP     "~Y  P~"     THH[ IUP</tspan>
+    <tspan x="15" y="230">    "  `HK                   ]HH'  "</tspan>
+    <tspan x="15" y="250">        THAn.  .d.aAAn.b.  .dHHP</tspan>
+    <tspan x="15" y="270">        ]HHHHAAUP" ~~ "YUAAHHHH[</tspan>
+    <tspan x="15" y="290">        `HHP^~"  .annn.  "~^YHH'</tspan>
+    <tspan x="15" y="310">         YHb    ~" "" "~    dHF</tspan>
+    <tspan x="15" y="330">          "YAb..abdHHbndbndAP"</tspan>
+    <tspan x="15" y="350">            THHAAb.  .adAHHF</tspan>
+    <tspan x="15" y="370">            "UHHHHHHHHHHU"      -Row</tspan>
+    <tspan x="15" y="390">              ]HHUUHHHHHH[</tspan>
+    <tspan x="15" y="410">            .adHHb "HHHHHbn.</tspan>
+    <tspan x="15" y="430">     ..andAAHHHHHHb.AHHHHHHHAAbnn..</tspan>
+    <tspan x="15" y="450">.ndAAHHHHHHUUHHHHHHHHHHUP^~"~^YUHHHAAbn.</tspan>
+    <tspan x="15" y="470">  "~^YUHHP"   "~^YUHHUP"        "^YUP^"</tspan>
+    <tspan x="15" y="490">       ""         "~~"</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -48,12 +50,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.................... </tspan><tspan class="value">Green Island - </tspan><tspan class="artistColor">Shakhbanov &amp; BAGANZO</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">. </tspan><tspan class="value">NO REPLY (Slowed) - </tspan><tspan class="artistColor">NTPV &amp; Sei Lean &amp; Goddamn &amp; pho...</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">... </tspan><tspan class="value">Return to Zero Beztebya - </tspan><tspan class="artistColor">Marc Acardipane &amp; Dayerteq</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............................ </tspan><tspan class="value">MONTAGEM CONFORTO - </tspan><tspan class="artistColor">kamiya?</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................. </tspan><tspan class="value">BET YOU NEVER - </tspan><tspan class="artistColor">SBTRKT</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">....................... </tspan><tspan class="value">In My Veins (Slowed) - </tspan><tspan class="artistColor">Aver King</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................ </tspan><tspan class="value">Phonk Circuit - </tspan><tspan class="artistColor">KALUCKIY &amp; Фонк Для Игр</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............... </tspan><tspan class="value">In The Bible - </tspan><tspan class="artistColor">Drake &amp; Lil Durk &amp; Giveon</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">. </tspan><tspan class="value">ASTRO - </tspan><tspan class="artistColor">Slowboy &amp; zaichkou888 &amp; IVOXYGEN &amp; nocap beats</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">. </tspan><tspan class="value">SaintLaurentYSL - </tspan><tspan class="artistColor">Lil Yachty &amp; Lil Baby &amp; The Marti...</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">. </tspan><tspan class="value">NO REPLY (Slowed) - </tspan><tspan class="artistColor">NTPV &amp; Sei Lean &amp; Goddamn &amp; pho...</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">27255</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.... </tspan><tspan class="value">5</tspan> <tspan class="value">hours ago</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">71.4%</tspan><tspan fill="#3572A5" class="artistColor"> (6.6MB)</tspan>
