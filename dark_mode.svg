@@ -17,31 +17,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/39.txt">
-    <tspan x="15" y="30">              .andAHHAbnn.</tspan>
-    <tspan x="15" y="50">           .aAHHHAAUUAAHHHAn.</tspan>
-    <tspan x="15" y="70">          dHP^~"        "~^THb.</tspan>
-    <tspan x="15" y="90">    .   .AHF                YHA.   .</tspan>
-    <tspan x="15" y="110">    |  .AHHb.              .dHHA.  |</tspan>
-    <tspan x="15" y="130">    |  HHAUAAHAbn      adAHAAUAHA  |</tspan>
-    <tspan x="15" y="150">    I  HF~"_____        ____ ]HHH  I</tspan>
-    <tspan x="15" y="170">   HHI HAPK""~^YUHb  dAHHHHHHHHHH IHH</tspan>
-    <tspan x="15" y="190">   HHI HHHD&gt; .andHH  HHUUP^~YHHHH IHH</tspan>
-    <tspan x="15" y="210">   YUI ]HHP     "~Y  P~"     THH[ IUP</tspan>
-    <tspan x="15" y="230">    "  `HK                   ]HH'  "</tspan>
-    <tspan x="15" y="250">        THAn.  .d.aAAn.b.  .dHHP</tspan>
-    <tspan x="15" y="270">        ]HHHHAAUP" ~~ "YUAAHHHH[</tspan>
-    <tspan x="15" y="290">        `HHP^~"  .annn.  "~^YHH'</tspan>
-    <tspan x="15" y="310">         YHb    ~" "" "~    dHF</tspan>
-    <tspan x="15" y="330">          "YAb..abdHHbndbndAP"</tspan>
-    <tspan x="15" y="350">            THHAAb.  .adAHHF</tspan>
-    <tspan x="15" y="370">            "UHHHHHHHHHHU"      -Row</tspan>
-    <tspan x="15" y="390">              ]HHUUHHHHHH[</tspan>
-    <tspan x="15" y="410">            .adHHb "HHHHHbn.</tspan>
-    <tspan x="15" y="430">     ..andAAHHHHHHb.AHHHHHHHAAbnn..</tspan>
-    <tspan x="15" y="450">.ndAAHHHHHHUUHHHHHHHHHHUP^~"~^YUHHHAAbn.</tspan>
-    <tspan x="15" y="470">  "~^YUHHP"   "~^YUHHUP"        "^YUP^"</tspan>
-    <tspan x="15" y="490">       ""         "~~"</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/3.txt">
+    <tspan x="15" y="30">                            :,,,,.</tspan>
+    <tspan x="15" y="50">                            :,,,,,</tspan>
+    <tspan x="15" y="70">                           :,,,:</tspan>
+    <tspan x="15" y="90">                         ,:,,:,</tspan>
+    <tspan x="15" y="110">                       ,:::,:,</tspan>
+    <tspan x="15" y="130">                     .,,::,:,</tspan>
+    <tspan x="15" y="150">                    ,:ii:,,</tspan>
+    <tspan x="15" y="170">                   ,;t1i,,</tspan>
+    <tspan x="15" y="190">                 ,::;ti,,</tspan>
+    <tspan x="15" y="210">                ::;:t1,.</tspan>
+    <tspan x="15" y="230">               ,:i;;,,:</tspan>
+    <tspan x="15" y="250">             ,::1;;::</tspan>
+    <tspan x="15" y="270">            ,::;;;;;;::::::::</tspan>
+    <tspan x="15" y="290">           :;;:;;:;i111iiiii:,</tspan>
+    <tspan x="15" y="310">          :;1;;::,:::::::::,:</tspan>
+    <tspan x="15" y="330">          :1ii::,,,</tspan>
+    <tspan x="15" y="350">         ,,:;;it;,.</tspan>
+    <tspan x="15" y="370">         ,:i:,:i1;,</tspan>
+    <tspan x="15" y="390">       .,:ti,  ,:;,,</tspan>
+    <tspan x="15" y="410">      .,;t1:,</tspan>
+    <tspan x="15" y="430">     .,itti,</tspan>
+    <tspan x="15" y="450">    ,,ift1,,</tspan>
+    <tspan x="15" y="470">    ,:1tti,</tspan>
+    <tspan x="15" y="490">     ,,,:,,</tspan>
+    <tspan x="15" y="510"/>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -51,12 +52,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">........................ </tspan><tspan class="value">No Time - </tspan><tspan class="artistColor">Playboi Carti &amp; Gunna</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">. </tspan><tspan class="value">Walk Em Down (Don't Kill Civilians) - </tspan><tspan class="artistColor">Metro Boomin ...</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Century - </tspan><tspan class="artistColor">EsDeeKid</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............................... </tspan><tspan class="value">Days in the East - </tspan><tspan class="artistColor">Drake</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">........................... </tspan><tspan class="value">Lyfestylë - </tspan><tspan class="artistColor">Yeat &amp; Lil Wayne</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">. </tspan><tspan class="value">Ande Livre (Ultra Slowed) - </tspan><tspan class="artistColor">Scythermane &amp; DJ LYVIXR...</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">. </tspan><tspan class="value">Melodia Do Argentino Funk - </tspan><tspan class="artistColor">DJ Raulipues &amp; SEKIMANE...</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">........................ </tspan><tspan class="value">No Time - </tspan><tspan class="artistColor">Playboi Carti &amp; Gunna</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">. </tspan><tspan class="value">Walk Em Down (Don't Kill Civilians) - </tspan><tspan class="artistColor">Metro Boomin ...</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Century - </tspan><tspan class="artistColor">EsDeeKid</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................... </tspan><tspan class="value">Days in the East - </tspan><tspan class="artistColor">Drake</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">27319</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.... </tspan><tspan class="value">7</tspan> <tspan class="value">hours ago</tspan>
 </text><text x="390" y="280" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">71.4%</tspan><tspan fill="#3572A5" class="artistColor"> (6.6MB)</tspan>
