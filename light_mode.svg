@@ -16,31 +16,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/35.txt">
-    <tspan x="15" y="30">     ------------..</tspan>
-    <tspan x="15" y="50">       ''........$$$$.</tspan>
-    <tspan x="15" y="70">        /'.' $;$   '$$.</tspan>
-    <tspan x="15" y="90">       !./'..$;$..  '$$</tspan>
-    <tspan x="15" y="110">       !'.$;;;;;;;$. $$</tspan>
-    <tspan x="15" y="130">       ' $;;;;;;;;;$ $$</tspan>
-    <tspan x="15" y="150">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="170">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="190">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="210">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="230">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="250">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="270">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="290">         $;; ;;;;;;$ $$.</tspan>
-    <tspan x="15" y="310">         $;; ;;;;;;$ '$$</tspan>
-    <tspan x="15" y="330">         $;; ;;;;;;$</tspan>
-    <tspan x="15" y="350">         $;; ;;;;;;$</tspan>
-    <tspan x="15" y="370">         $;;;;;;;;;$</tspan>
-    <tspan x="15" y="390">         dp;;;;;;;;$</tspan>
-    <tspan x="15" y="410">          '$$$$$$$'</tspan>
-    <tspan x="15" y="430">..................................</tspan>
-    <tspan x="15" y="450">!    Pull pin, Press lever,      !</tspan>
-    <tspan x="15" y="470">! Direct spray at base of flames !</tspan>
-    <tspan x="15" y="490">!.................................</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/9.txt">
+    <tspan x="15" y="30">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="50"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="70"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="90">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="110">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <tspan x="15" y="130">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="150"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="170"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="190">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="210">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <tspan x="15" y="230">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="250"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="270"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="290">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="310">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <tspan x="15" y="330">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="350"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="370"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="390">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="410">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <tspan x="15" y="430">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="450"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="470"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="490">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="510">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -50,12 +51,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">............ </tspan><tspan class="value">Feel What You Want - </tspan><tspan class="artistColor">Phonique feat. Rebecca</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............. </tspan><tspan class="value">MONTAGEM FOREST - </tspan><tspan class="artistColor">Tsk.4 &amp; EMERA emzzz-sira</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">ULT - </tspan><tspan class="artistColor">Denzel Curry</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">. </tspan><tspan class="value">Money On My Mind (Feat. Kurupt) - </tspan><tspan class="artistColor">Daz Dillinger &amp; K...</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">...................... </tspan><tspan class="value">Огород - </tspan><tspan class="artistColor">Gorilla Glue &amp; LIL NAKUR</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">30784</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">... </tspan><tspan class="value">10</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................. </tspan><tspan class="value">club bizarre - </tspan><tspan class="artistColor">Velours</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............. </tspan><tspan class="value">Glass Flowers - </tspan><tspan class="artistColor">KIRXSHA &amp; yumix &amp; Envacity</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">............ </tspan><tspan class="value">360 kmh to u - </tspan><tspan class="artistColor">mad arieri &amp; i wxnt to slxxp</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">......... </tspan><tspan class="value">Run, Think, Shoot, Live - </tspan><tspan class="artistColor">sadance &amp; violetssky</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">..................... </tspan><tspan class="value">Luxxid Pearls - </tspan><tspan class="artistColor">QKReign &amp; VaporGod</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">. </tspan><tspan class="value">MONTAGEM HYPNOSAES ESPECTRAL 3 - </tspan><tspan class="artistColor">gala_prod &amp; SXLLX ...</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.3%</tspan><tspan fill="#3572A5" class="artistColor"> (4.9MB)</tspan>
