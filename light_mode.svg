@@ -16,31 +16,23 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/35.txt">
-    <tspan x="15" y="30">     ------------..</tspan>
-    <tspan x="15" y="50">       ''........$$$$.</tspan>
-    <tspan x="15" y="70">        /'.' $;$   '$$.</tspan>
-    <tspan x="15" y="90">       !./'..$;$..  '$$</tspan>
-    <tspan x="15" y="110">       !'.$;;;;;;;$. $$</tspan>
-    <tspan x="15" y="130">       ' $;;;;;;;;;$ $$</tspan>
-    <tspan x="15" y="150">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="170">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="190">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="210">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="230">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="250">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="270">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="290">         $;; ;;;;;;$ $$.</tspan>
-    <tspan x="15" y="310">         $;; ;;;;;;$ '$$</tspan>
-    <tspan x="15" y="330">         $;; ;;;;;;$</tspan>
-    <tspan x="15" y="350">         $;; ;;;;;;$</tspan>
-    <tspan x="15" y="370">         $;;;;;;;;;$</tspan>
-    <tspan x="15" y="390">         dp;;;;;;;;$</tspan>
-    <tspan x="15" y="410">          '$$$$$$$'</tspan>
-    <tspan x="15" y="430">..................................</tspan>
-    <tspan x="15" y="450">!    Pull pin, Press lever,      !</tspan>
-    <tspan x="15" y="470">! Direct spray at base of flames !</tspan>
-    <tspan x="15" y="490">!.................................</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/23.txt">
+    <tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="50">⠀⣿⠛⠛⠛⠛⠛⠛⢻⡇⠀⣀⠛⠁⠈⠛⣀⠀⢸⡟⠛⠛⠛⠛⠛⠛⣿</tspan>
+    <tspan x="15" y="70">⠀⣿⠀⢰⣶⣶⣶⠀⢸⡇⠀⠀⣶⣄⣠⣶⣿⠀⢸⡇⠀⣶⣶⣶⡆⠀⣿</tspan>
+    <tspan x="15" y="90">⠀⣿⠀⢸⣿⣿⣿⠀⢸⡇⠀⣤⣿⡟⢻⣿⠋⠀⢸⡇⠀⣿⣿⣿⡇⠀⣿</tspan>
+    <tspan x="15" y="110">⠀⣿⣀⣀⣀⣀⣀⣀⣸⡇⠀⣀⠀⢸⡇⠀⣷⠀⢸⣇⣀⣀⣀⣀⣀⣀⣿</tspan>
+    <tspan x="15" y="130">⠀⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠉⣤⣼⡇⠀⠉⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉</tspan>
+    <tspan x="15" y="150">⠀⠀⠀⢸⡇⠀⣿⣿⡟⠃⣤⣿⣿⣿⡟⠛⣿⠛⠀⢠⣤⣿⠀⠀⠀⠃⠀</tspan>
+    <tspan x="15" y="170">⠀⠀⠰⠾⠇⠀⠿⢉⠰⠶⠿⠿⣿⣿⡇⠀⠿⢀⣰⡆⠉⠿⠶⢆⣀⣆⣀</tspan>
+    <tspan x="15" y="190">⠀⠀⢠⣤⡄⠀⣤⣿⣧⣤⡄⠀⠛⢻⡇⠀⠀⠘⢻⡇⠀⠀⢤⡜⠛⣿⣿</tspan>
+    <tspan x="15" y="210">⠀⣀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠒⣶⣾⡗⠒⠒⢀⠘⠛⠒⠒⠀⠀⠀⠛⠛</tspan>
+    <tspan x="15" y="230">⠀⣿⠉⠉⠉⠉⠉⠉⢹⡇⠀⣶⣿⡏⠁⠀⠀⠈⠀⢰⣦⠀⣴⡆⠀⠀⣶</tspan>
+    <tspan x="15" y="250">⠀⣿⠀⢸⣿⣿⣿⠀⢸⡇⠀⠛⣿⣿⡟⠛⠀⢸⠛⠛⠛⠛⣿⡟⠃⡄⠛</tspan>
+    <tspan x="15" y="270">⠀⣿⠀⠸⠿⠿⠿⠀⢸⡇⠀⠶⠉⠹⠇⠀⠀⠈⠀⠀⠀⠀⣿⡇⠀⠁⠀</tspan>
+    <tspan x="15" y="290">⠀⣿⣤⣤⣤⣤⣤⣤⣼⡇⠀⠀⠉⠁⠀⠀⣤⠀⠈⢹⣿⠉⣿⡇⠀⠀⣤</tspan>
+    <tspan x="15" y="310">⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="330"> SCAN ME!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -50,12 +42,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan class="value">MULHE - </tspan><tspan class="artistColor">Atic &amp; Astxr</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">40800062 (slowed) - </tspan><tspan class="artistColor">Medatanai</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">......... </tspan><tspan class="value">ECLIPSE - Extreme Slowed - </tspan><tspan class="artistColor">N!GHTvisiøn &amp; Nxxkz</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">................................. </tspan><tspan class="value">ROTINAS ROSA - </tspan><tspan class="artistColor">HEAPPER</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................... </tspan><tspan class="value">Catwalk (Slowed) - </tspan><tspan class="artistColor">juhvahn &amp; pavlos</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">30930</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">... </tspan><tspan class="value">13</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................. </tspan><tspan class="value">Montagem Kepler - </tspan><tspan class="artistColor">Chagrin &amp; Crazy Mano</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">................. </tspan><tspan class="value">MELODIA DA STAR (Super Slowed) - </tspan><tspan class="artistColor">MIARX</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">MONTAGEM OLD CURRENTS - </tspan><tspan class="artistColor">Tsk.4</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............ </tspan><tspan class="value">MANOPLA DETERMINADA - </tspan><tspan class="artistColor">DJ VIC ORIGINAL &amp; JXM</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">. </tspan><tspan class="value">Sequência Do Criminus (Super Slowed) - </tspan><tspan class="artistColor">MXZI &amp; trusteki</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.......... </tspan><tspan class="value">Funk Molecular - </tspan><tspan class="artistColor">h6itam &amp; nikenmar &amp; DJ MFAWS</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.4%</tspan><tspan fill="#3572A5" class="artistColor"> (4.9MB)</tspan>
