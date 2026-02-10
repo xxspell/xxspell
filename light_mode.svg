@@ -16,30 +16,34 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/41.txt">
-    <tspan x="15" y="30"/>
-    <tspan x="15" y="50">                 ___ _ _  _ ____</tspan>
-    <tspan x="15" y="70">                  |  | |\/| |___</tspan>
-    <tspan x="15" y="90">   ...            |  | |  | |___</tspan>
-    <tspan x="15" y="110"> ,'   '.            ___ ____</tspan>
-    <tspan x="15" y="130">;       ;            |  |  |</tspan>
-    <tspan x="15" y="150">|       |            |  |__|</tspan>
-    <tspan x="15" y="170">|       |      _ _ _ ____ ____ _  _</tspan>
-    <tspan x="15" y="190">| _, ,_ |      | | | |  | |__/ |_/</tspan>
-    <tspan x="15" y="210">'´ | | `'      |_|_| |__| |  \ | \_</tspan>
-    <tspan x="15" y="230">   | |    _    _</tspan>
-    <tspan x="15" y="250">   | |  .|_|_,' |         ,--.</tspan>
-    <tspan x="15" y="270">   | |  |       |        :   |</tspan>
-    <tspan x="15" y="290">   | |  `|`'`-._|        :   |</tspan>
-    <tspan x="15" y="310">   | |   | |             :   |</tspan>
-    <tspan x="15" y="330">   | |   | |             :   |</tspan>
-    <tspan x="15" y="350">   | |   | |  .-------.  :   |</tspan>
-    <tspan x="15" y="370">   | |   | | ,|   _O  |  :   |</tspan>
-    <tspan x="15" y="390">   | |   | | ||_,'    |  :   |</tspan>
-    <tspan x="15" y="410">   | |   | | `|       |  ;...:</tspan>
-    <tspan x="15" y="430">   | |   | |  |       | /.--. \</tspan>
-    <tspan x="15" y="450">   | |  |` |  |       | |'--' |</tspan>
-    <tspan x="15" y="470">   '-'  `--'  '-------' '-----'</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/37.txt">
+    <tspan x="15" y="30">         .     .</tspan>
+    <tspan x="15" y="50">    ..   8"=,,88,   _.</tspan>
+    <tspan x="15" y="70">     8""=""8'  "88a88'</tspan>
+    <tspan x="15" y="90">.. .;88m a8   ,8"" "8</tspan>
+    <tspan x="15" y="110"> "8"'  "88"  A"     8;</tspan>
+    <tspan x="15" y="130">   "8,  "8   8       "8,</tspan>
+    <tspan x="15" y="150">    "8   8,  8,       "8</tspan>
+    <tspan x="15" y="170">     8,  "8, "8,    ___8,</tspan>
+    <tspan x="15" y="190">     "8,  "8, "8mm""""""8m.</tspan>
+    <tspan x="15" y="210">      "8,am888i"'   ,mm"</tspan>
+    <tspan x="15" y="230">      ,8"  _8"  .m888"</tspan>
+    <tspan x="15" y="250">     ,88P"""""I888888</tspan>
+    <tspan x="15" y="270">     "'         "I888</tspan>
+    <tspan x="15" y="290">                  "I8,</tspan>
+    <tspan x="15" y="310">                   "I8</tspan>
+    <tspan x="15" y="330">                    "I8_</tspan>
+    <tspan x="15" y="350">        ,mmeem.m""i, I8""  ,mmeem,'.</tspan>
+    <tspan x="15" y="370">       m""    . "8.8 I8  ,8"   .  "88</tspan>
+    <tspan x="15" y="390">      i8  . '  ,mi""8I8 ,8 . '  ,8" 88</tspan>
+    <tspan x="15" y="410">      88.' ,mm""    "8I88"m,,mm'"    8</tspan>
+    <tspan x="15" y="430">      "8_m""         "I8   ""'</tspan>
+    <tspan x="15" y="450">       "8             I8</tspan>
+    <tspan x="15" y="470">                      I8_</tspan>
+    <tspan x="15" y="490">                      I8""</tspan>
+    <tspan x="15" y="510">                      I8</tspan>
+    <tspan x="15" y="530">                     _I8</tspan>
+    <tspan x="15" y="550">                    ""I8</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -49,12 +53,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................ </tspan><tspan class="value">sdp interlude - </tspan><tspan class="artistColor">Darrial</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">... </tspan><tspan class="value">Gangsta Shit - </tspan><tspan class="artistColor">Berner &amp; Curren$y &amp; Kokane &amp; G Perico</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.... </tspan><tspan class="value">Read My Mind (Slowed) - </tspan><tspan class="artistColor">TRXVELER &amp; IVOXYGEN &amp; da99y</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">........................ </tspan><tspan class="value">The Code - </tspan><tspan class="artistColor">The Game &amp; 21 Savage</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">........................... </tspan><tspan class="value">Resist The Temptation - </tspan><tspan class="artistColor">2Pac</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">........................................... </tspan><tspan class="value">Vess - </tspan><tspan class="artistColor">Orlem</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">............................ </tspan><tspan class="value">GLACIER PACK - </tspan><tspan class="artistColor">MAKAVELIGODD</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.............................. </tspan><tspan class="value">blank x mylancore - </tspan><tspan class="artistColor">Anjee</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................................... </tspan><tspan class="value">mandragora - </tspan><tspan class="artistColor">gunbaou</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">........................................ </tspan><tspan class="value">Endless - </tspan><tspan class="artistColor">Gunna</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">........... </tspan><tspan class="value">Fetty - </tspan><tspan class="artistColor">41 &amp; Kyle Richh &amp; Jenn Carter &amp; TaTa</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">....................... </tspan><tspan class="value">For My Dawgs - </tspan><tspan class="artistColor">Waka Flocka Flame</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">81.9%</tspan><tspan fill="#3572A5" class="artistColor"> (4.9MB)</tspan>
