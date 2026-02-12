@@ -17,33 +17,8 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/38.txt">
-    <tspan x="15" y="30">      |    |              _.-7</tspan>
-    <tspan x="15" y="50">      |\.-.|             ( ,(_</tspan>
-    <tspan x="15" y="70">      | a a|              \\  \,</tspan>
-    <tspan x="15" y="90">      ) ["||          _.--' \  \\</tspan>
-    <tspan x="15" y="110">   .-'  '-''-..____.-'    ___)  )\</tspan>
-    <tspan x="15" y="130">  F   _/-``-.__;-.-.--`--' . .' \_L_</tspan>
-    <tspan x="15" y="150"> |   l  {~~} ,_\  '.'.      ` __.' )\</tspan>
-    <tspan x="15" y="170"> (    -.;___,;  | '- _       :__.'( /</tspan>
-    <tspan x="15" y="190"> | -.__ _/_.'.-'      '-._ .'      \\</tspan>
-    <tspan x="15" y="210"> |     .'   |  -- _                 '\,</tspan>
-    <tspan x="15" y="230"> |  \ /--,--{ .    '---.__.       .'  .'</tspan>
-    <tspan x="15" y="250"> J  ;/ __;__]. '.-.            .-' )_/</tspan>
-    <tspan x="15" y="270"> J  (-.     '\'. '. '-._.-.-'--._ /</tspan>
-    <tspan x="15" y="290"> |  |  '. .' | \'. '.    ._       \</tspan>
-    <tspan x="15" y="310"> |   \   T   |  \  '. '._  '-._    '.</tspan>
-    <tspan x="15" y="330"> F   J   |   |  '.    .  '._   '-,_.--`</tspan>
-    <tspan x="15" y="350"> F   \   \   F .  \    '.   '.  /</tspan>
-    <tspan x="15" y="370">J     \  |  J   \  '.   '.    '/</tspan>
-    <tspan x="15" y="390">J      '.L__|    .   \    '    |</tspan>
-    <tspan x="15" y="410">|   .    \  |     \   '.   '. /</tspan>
-    <tspan x="15" y="430">|    '    '.|      |    ,-.  (</tspan>
-    <tspan x="15" y="450">F   | ' ___  ',._   .  /   '. \</tspan>
-    <tspan x="15" y="470">F   (.'`|| (-._\ '.  \-      '-\</tspan>
-    <tspan x="15" y="490">\ .-'  ( L `._ '\ '._ (</tspan>
-    <tspan x="15" y="510">/'  |  /  '-._\      ''\</tspan>
-    <tspan x="15" y="530">    `-'</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/27.txt">
+    <tspan x="15" y="30"/>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -53,12 +28,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">....................................... </tspan><tspan class="value">unison - </tspan><tspan class="artistColor">UdieNnx</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">........................ </tspan><tspan class="value">i hope you’re happy - </tspan><tspan class="artistColor">kyotobaby</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.................... </tspan><tspan class="value">gattoheven - </tspan><tspan class="artistColor">dj shizoid &amp; bbbernArD</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">....................... </tspan><tspan class="value">Jishin wo mune ni - </tspan><tspan class="artistColor">DJ UNIVXRSEL</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................... </tspan><tspan class="value">ENDERAGE 2 - </tspan><tspan class="artistColor">merunes</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................................. </tspan><tspan class="value">Frozen Away - </tspan><tspan class="artistColor">altopalo</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">........................... </tspan><tspan class="value">r u kissin any1? - </tspan><tspan class="artistColor">Joey Cash</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.... </tspan><tspan class="value">MONTAGEM GREEN RENITCH V1 - </tspan><tspan class="artistColor">Tsk.4 &amp; Fyex &amp; Dj Samir</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">........................... </tspan><tspan class="value">If I Wanted To - </tspan><tspan class="artistColor">Eem Triplin</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">almostderp - </tspan><tspan class="artistColor">LONOWN</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">20 Min - </tspan><tspan class="artistColor">Lil Uzi Vert</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">............ </tspan><tspan class="value">Lisp - </tspan><tspan class="artistColor">41 &amp; Kyle Richh &amp; Jenn Carter &amp; TaTa</tspan>
 </text><text x="390" y="280" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.2%</tspan><tspan fill="#3572A5" class="artistColor"> (5.0MB)</tspan>
