@@ -17,32 +17,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/24.txt">
-    <tspan x="15" y="30">⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="50">⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="70">⣿⣿⣿⣿⡏⣀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿</tspan>
-    <tspan x="15" y="90">⣿⣿⣿⢏⣴⣿⣷⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿</tspan>
-    <tspan x="15" y="110">⣿⣿⣟⣾⣿⡟⠁⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣷⢢⠀⠀⠀⠀⠀⠀⠀⢸⣿</tspan>
-    <tspan x="15" y="130">⣿⣿⣿⣿⣟⠀⡴⠄⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⣿</tspan>
-    <tspan x="15" y="150">⣿⣿⣿⠟⠻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⢴⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⣿</tspan>
-    <tspan x="15" y="170">⣿⣁⡀⠀⠀⢰⢠⣦⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⡄⠀⣴⣶⣿⡄⣿</tspan>
-    <tspan x="15" y="190">⣿⡋⠀⠀⠀⠎⢸⣿⡆⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠗⢘⣿⣟⠛⠿⣼</tspan>
-    <tspan x="15" y="210">⣿⣿⠋⢀⡌⢰⣿⡿⢿⡀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣧⢀⣼</tspan>
-    <tspan x="15" y="230">⣿⣿⣷⢻⠄⠘⠛⠋⠛⠃⠀⠀⠀⠀⠀⢿⣧⠈⠉⠙⠛⠋⠀⠀⠀⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="250">⣿⣿⣧⠀⠈⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠟⠀⠀⠀⠀⢀⢃⠀⠀⢸⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="270">⣿⣿⡿⠀⠴⢗⣠⣤⣴⡶⠶⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡸⠀⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="290">⣿⣿⣿⡀⢠⣾⣿⠏⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠉⠀⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="310">⣿⣿⣿⣧⠈⢹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="330">⣿⣿⣿⣿⡄⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="350">⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="370">⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="390">⣿⣿⣿⣿⣿⣦⣄⣀⣀⣀⣀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="410">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="430">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠙⣿⣿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="450">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠁⠀⠀⠹⣿⠃⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="470">⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
-    <tspan x="15" y="490">⣿⣿⣿⣿⠿⠛⠉⠉⠁⠀⢻⣿⡇⠀⠀⠀⠀⠀⠀⢀⠈⣿⣿⡿⠉⠛⠛⠛⠉⠉</tspan>
-    <tspan x="15" y="510">⣿⡿⠋⠁⠀⠀⢀⣀⣠⡴⣸⣿⣇⡄⠀⠀⠀⠀⢀⡿⠄⠙⠛⠀⣀⣠⣤⣤⠄</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/3.txt">
+    <tspan x="15" y="30">                            :,,,,.</tspan>
+    <tspan x="15" y="50">                            :,,,,,</tspan>
+    <tspan x="15" y="70">                           :,,,:</tspan>
+    <tspan x="15" y="90">                         ,:,,:,</tspan>
+    <tspan x="15" y="110">                       ,:::,:,</tspan>
+    <tspan x="15" y="130">                     .,,::,:,</tspan>
+    <tspan x="15" y="150">                    ,:ii:,,</tspan>
+    <tspan x="15" y="170">                   ,;t1i,,</tspan>
+    <tspan x="15" y="190">                 ,::;ti,,</tspan>
+    <tspan x="15" y="210">                ::;:t1,.</tspan>
+    <tspan x="15" y="230">               ,:i;;,,:</tspan>
+    <tspan x="15" y="250">             ,::1;;::</tspan>
+    <tspan x="15" y="270">            ,::;;;;;;::::::::</tspan>
+    <tspan x="15" y="290">           :;;:;;:;i111iiiii:,</tspan>
+    <tspan x="15" y="310">          :;1;;::,:::::::::,:</tspan>
+    <tspan x="15" y="330">          :1ii::,,,</tspan>
+    <tspan x="15" y="350">         ,,:;;it;,.</tspan>
+    <tspan x="15" y="370">         ,:i:,:i1;,</tspan>
+    <tspan x="15" y="390">       .,:ti,  ,:;,,</tspan>
+    <tspan x="15" y="410">      .,;t1:,</tspan>
+    <tspan x="15" y="430">     .,itti,</tspan>
+    <tspan x="15" y="450">    ,,ift1,,</tspan>
+    <tspan x="15" y="470">    ,:1tti,</tspan>
+    <tspan x="15" y="490">     ,,,:,,</tspan>
+    <tspan x="15" y="510"/>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -52,12 +52,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.... </tspan><tspan class="value">Read My Mind (Slowed) - </tspan><tspan class="artistColor">TRXVELER &amp; IVOXYGEN &amp; da99y</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">...................... </tspan><tspan class="value">Summer beach - </tspan><tspan class="artistColor">Sako Isoyan &amp; Ange</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">...... </tspan><tspan class="value">Memphis, Pt. 2 - </tspan><tspan class="artistColor">AG Club &amp; NLE Choppa &amp; A$AP Ferg</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">................. </tspan><tspan class="value">HVN ON EARTH - </tspan><tspan class="artistColor">Lil Tecca &amp; Kodak Black</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.............................. </tspan><tspan class="value">Alot - </tspan><tspan class="artistColor">Zaytoven &amp; Lil Uzi</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">31450</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">. </tspan><tspan class="value">39</tspan> <tspan class="value">minutes ago</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">............ </tspan><tspan class="value">angel tears (Slowed) - </tspan><tspan class="artistColor">SH3TLVIZ &amp; Nightwane</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................. </tspan><tspan class="value">The Dark - </tspan><tspan class="artistColor">Obskür &amp; Bklava</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">. </tspan><tspan class="value">OVEX (Super Slowed) - </tspan><tspan class="artistColor">RONVXER &amp; lakkerro &amp; Tribeat ...</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">........................... </tspan><tspan class="value">It Was A Good Day - </tspan><tspan class="artistColor">Ice Cube</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................ </tspan><tspan class="value">Come Back - </tspan><tspan class="artistColor">Flow &amp; Zeo &amp; Marcello V.O.R</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">............ </tspan><tspan class="value">Make It Jump - Slowed - </tspan><tspan class="artistColor">MCVERTT &amp; Project X</tspan>
 </text><text x="390" y="280" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.4%</tspan><tspan fill="#3572A5" class="artistColor"> (5.1MB)</tspan>
