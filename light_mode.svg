@@ -16,37 +16,30 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/43.txt">
-    <tspan x="15" y="30">Skeleton</tspan>
-    <tspan x="15" y="50">                                           /  _</tspan>
-    <tspan x="15" y="70">                                       a/  )\/ f</tspan>
-    <tspan x="15" y="90">                                        )?\/ ] ]</tspan>
-    <tspan x="15" y="110">                                           )/ \]</tspan>
-    <tspan x="15" y="130">                                         _  )6 Q</tspan>
-    <tspan x="15" y="150">                                          ?\/ P]</tspan>
-    <tspan x="15" y="170">                             _jQQQa         ?aa]6</tspan>
-    <tspan x="15" y="190">                             ]QQQQQQ/     aa/ 4Q6]6</tspan>
-    <tspan x="15" y="210">                           _6 4QQQQQ6       )??''a]6</tspan>
-    <tspan x="15" y="230">                           jQQajQQQQQ/         )?4f ?a</tspan>
-    <tspan x="15" y="250">                           QQQQQQQQQQf            46 )6</tspan>
-    <tspan x="15" y="270">                           Q]QQQQQQQQ              )6 )4/</tspan>
-    <tspan x="15" y="290">                           P]QQQQP?4Q               )6  4/</tspan>
-    <tspan x="15" y="310">                            ]' 4Q'  Q                )6  4/</tspan>
-    <tspan x="15" y="330">                            Q   ?f _Qf                )6  4/</tspan>
-    <tspan x="15" y="350">                           )W6aJ )WQQf                  4/ 4/</tspan>
-    <tspan x="15" y="370">                           _4?4f_ QP?]                   4/ 4</tspan>
-    <tspan x="15" y="390">                           4a QQQQQ af                    ?a</tspan>
-    <tspan x="15" y="410">                            ?f)" ' ]P                      )gja/</tspan>
-    <tspan x="15" y="430"> f                           4/]]_6Q                       )')?'</tspan>
-    <tspan x="15" y="450"> \                            QQQQQf           _             Qaa/</tspan>
-    <tspan x="15" y="470"> ]                            )WQQ?            4/     _aaaaWWP??</tspan>
-    <tspan x="15" y="490"> ]  ]                             _           4)4QQQQWP????'</tspan>
-    <tspan x="15" y="510"> ]  ]                          )a?'/          ]PJW</tspan>
-    <tspan x="15" y="530">  f ]  /                       _aaP'         JQf</tspan>
-    <tspan x="15" y="550">\ ] ]  f                          aQ /_    aaW?'</tspan>
-    <tspan x="15" y="570">)/ 6 f /                       )??? /  _a?'  QQf</tspan>
-    <tspan x="15" y="590"> )/)/4 '                      a??]QQ/Q?'/  f ?</tspan>
-    <tspan x="15" y="610">_ ),\]6/                )???_aaaa'QQ6  a' _'</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/44.txt">
+    <tspan x="15" y="30"/>
+    <tspan x="15" y="50">                 ~.</tspan>
+    <tspan x="15" y="70">          Ya...___|__..aab     .   .</tspan>
+    <tspan x="15" y="90">           Y88a  Y88o  Y88a   (     )</tspan>
+    <tspan x="15" y="110">            Y88b  Y88b  Y88b   `.oo'</tspan>
+    <tspan x="15" y="130">            :888  :888  :888  ( (`-'</tspan>
+    <tspan x="15" y="150">   .---.    d88P  d88P  d88P   `.`.</tspan>
+    <tspan x="15" y="170">  / .-._)  d8P'"""|"""'-Y8P      `.`.</tspan>
+    <tspan x="15" y="190"> ( (`._) .-.  .-. |.-.  .-.  .-.   ) )</tspan>
+    <tspan x="15" y="210">  \ `---( O )( O )( O )( O )( O )-' /</tspan>
+    <tspan x="15" y="230">   `.    `-'  `-'  `-'  `-'  `-'  .'</tspan>
+    <tspan x="15" y="250"/>
+    <tspan x="15" y="270">                  ~.</tspan>
+    <tspan x="15" y="290">           `-...___|__...`.     .   .</tspan>
+    <tspan x="15" y="310">            \  \  \  \  \  \   (     )</tspan>
+    <tspan x="15" y="330">             :  :  :  :  :  :   `.oo'</tspan>
+    <tspan x="15" y="350">             |  |  |  |  |  |  ( (`-'</tspan>
+    <tspan x="15" y="370">    .---.    ;  ;  ;  ;  ;  ;   `.`.</tspan>
+    <tspan x="15" y="390">   / .-._)  /_.-"""|"""'-._/      `.`.</tspan>
+    <tspan x="15" y="410">  ( (`._) .-.  .-. |.-.  .-.  .-.   ) )</tspan>
+    <tspan x="15" y="430">   \ `---( O )( O )( O )( O )( O )-' /</tspan>
+    <tspan x="15" y="450">    `.    `-'  `-'  `-'  `-'  `-'  .'</tspan>
+    <tspan x="15" y="470"/>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -61,7 +54,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">. </tspan><tspan class="value">B.O.T.A. (Baddest of Them All) - </tspan><tspan class="artistColor">Eliza Rose &amp; Inter...</tspan>
 <tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">. </tspan><tspan class="value">Toma de plain (slowed) - </tspan><tspan class="artistColor">NTLXSQ? &amp; ?VLNS? &amp; whysuff...</tspan>
 <tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">....................... </tspan><tspan class="value">jersey luv (turn me on) - </tspan><tspan class="artistColor">Groovy</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">31493</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.... </tspan><tspan class="value">4</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">31493</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.... </tspan><tspan class="value">5</tspan> <tspan class="value">hours ago</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.4%</tspan><tspan fill="#3572A5" class="artistColor"> (5.1MB)</tspan>
@@ -73,6 +66,6 @@ text, tspan {white-space: pre;}
 </text><text x="390" y="450" fill="#24292f" id="github_stats">
     <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
     <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">89</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">92</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">242</tspan>
-    <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,561</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,412</tspan>
+    <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,561</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,411</tspan>
     <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">533,825</tspan> ( <tspan class="addColor" id="loc_add">706,645</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"/><tspan class="delColor" id="loc_del">172,820</tspan><tspan class="delColor">--</tspan> )
 </text></svg>
