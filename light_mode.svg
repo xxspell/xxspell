@@ -16,32 +16,29 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/5.txt">
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/22.txt">
     <tspan x="15" y="30"/>
     <tspan x="15" y="50"/>
-    <tspan x="15" y="70">                  ::::</tspan>
-    <tspan x="15" y="90">                  :::,</tspan>
-    <tspan x="15" y="110">                  ::::</tspan>
-    <tspan x="15" y="130">                  ::::::</tspan>
-    <tspan x="15" y="150">                  ::::::::</tspan>
-    <tspan x="15" y="170">                  ::::::::::</tspan>
-    <tspan x="15" y="190">                  :::::::::::.</tspan>
-    <tspan x="15" y="210">                  ::::::::::::</tspan>
-    <tspan x="15" y="230">                  :::: .:::::::</tspan>
-    <tspan x="15" y="250">                  ::::   ,:::::</tspan>
-    <tspan x="15" y="270">                  ::::     ::::</tspan>
-    <tspan x="15" y="290">                  ::::      :::</tspan>
-    <tspan x="15" y="310">                  ::::</tspan>
-    <tspan x="15" y="330">            ::::::::::</tspan>
-    <tspan x="15" y="350">          ::::::::::::</tspan>
-    <tspan x="15" y="370">         :::::::::::::</tspan>
-    <tspan x="15" y="390">         :::::::::::::</tspan>
-    <tspan x="15" y="410">         ::::::::::::,</tspan>
-    <tspan x="15" y="430">          ::::::::::</tspan>
-    <tspan x="15" y="450">            ,:::,</tspan>
-    <tspan x="15" y="470"/>
-    <tspan x="15" y="490"/>
-    <tspan x="15" y="510"/>
+    <tspan x="15" y="70"/>
+    <tspan x="15" y="90"/>
+    <tspan x="15" y="110">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="130">⠀⠀⣴⠚⡄⢫⠉⢩⠃⠀⣰⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡄⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="150">⡞⠳⡜⠦⠚⠘⠒⠋⠀⢰⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="170">⠈⠚⠁⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="210">⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="230">⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣤⣄⣀⡀⣠⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="250">⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⢸⠉⠉⢰⠂</tspan>
+    <tspan x="15" y="270">⠀⠀⠀⠀⣾⣿⣿⠟⠛⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⡇⠀⡰⠃⠀</tspan>
+    <tspan x="15" y="290">⠀⠀⠀⢰⣿⣿⠃⠀⠀⢰⡆⢻⣿⣿⣿⣿⣿⡿⠛⠛⠻⣿⣿⣿⣿⠀⠀⠀⠀⢰⠁⡰⠁⠀⠀</tspan>
+    <tspan x="15" y="310">⣶⣦⣤⠘⣿⣿⣆⠀⠀⢿⠇⣼⣿⣿⣿⣿⠛⢸⡇⠀⠀⠙⣿⣿⣿⣇⠀⠀⠀⠈⠒⠁⠀⠀⠀</tspan>
+    <tspan x="15" y="330">⢀⣀⣁⠀⠻⣿⣿⣷⣦⣤⣶⣿⣿⣿⣿⣇⡀⣾⠃⠀⠀⢠⣿⣿⣿⡇⠀⡔⠒⠲⡄⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="350">⠛⠋⠉⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣤⣴⣾⣿⣿⠟⠀⠀⠱⠤⣀⠇⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="370">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⢀⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="390">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠀⠀⣀⡀⠀⠉⠙⠓⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="410"> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="430">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="450">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -51,12 +48,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................. </tspan><tspan class="value">Montagem Kepler - </tspan><tspan class="artistColor">Chagrin &amp; Crazy Mano</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">. </tspan><tspan class="value">Return to Zero Возвращайся Beztebya [Super Slowed R...</tspan><tspan class="artistColor"/>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">Fih Da Fogosa - </tspan><tspan class="artistColor">breezywhisper</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............ </tspan><tspan class="value">Браги два бидона - </tspan><tspan class="artistColor">Gorilla Glue &amp; LIL NAKUR</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................ </tspan><tspan class="value">ASTMA - </tspan><tspan class="artistColor">UdieNnx &amp; SLXUGHTER</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">........... </tspan><tspan class="value">Never let go of me - Slowed+Reverb - </tspan><tspan class="artistColor">Chiharu</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">....................... </tspan><tspan class="value">!!![AN.GELUS]!!! - </tspan><tspan class="artistColor">Nxxkz &amp; Yuumu</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">...................... </tspan><tspan class="value">intimacy - </tspan><tspan class="artistColor">Fraunhofer Diffraction</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">..................... </tspan><tspan class="value">99 percent of gamblers - </tspan><tspan class="artistColor">seawansia</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">...................................... </tspan><tspan class="value">Regera - </tspan><tspan class="artistColor">onimanxd</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................... </tspan><tspan class="value">ICE AGE - </tspan><tspan class="artistColor">Don Toliver &amp; Travis Scott</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">Top - </tspan><tspan class="artistColor">Playboi Carti</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.1%</tspan><tspan fill="#3572A5" class="artistColor"> (5.2MB)</tspan>
