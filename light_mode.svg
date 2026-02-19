@@ -16,32 +16,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/2.txt">
-    <tspan x="15" y="30"/>
-    <tspan x="15" y="50"/>
-    <tspan x="15" y="70"/>
-    <tspan x="15" y="90"/>
-    <tspan x="15" y="110">             ;;;;    :;;;</tspan>
-    <tspan x="15" y="130">             ;;;;;;;;;;;;</tspan>
-    <tspan x="15" y="150"> ;;;;;;;;;;;;    ;;;;   :;;;;;;;;;;;;</tspan>
-    <tspan x="15" y="170"> ;;ffffffffft;;;  ;;  ;;;ttffffffff;;</tspan>
-    <tspan x="15" y="190"> ;;fLctttttfcc1;;;ii;;;tccftttttcLf;;</tspan>
-    <tspan x="15" y="210">  ;iLf;ittt1;cL1;;XX;;1Lf;1ttti;cLi;</tspan>
-    <tspan x="15" y="230">  ;;tLf;tLLLi1Lf;1001;fL1iLLLt;fLt;;</tspan>
-    <tspan x="15" y="250">   ;;fLfiicLi1Lf;c00c;fL1iLfiicLf;;</tspan>
-    <tspan x="15" y="270">    ;;1cLfiii1Lf;C00C;fL1iiifLc1;;</tspan>
-    <tspan x="15" y="290">     ;;;tcLctfLf;X00X;fLftcLc1;;;</tspan>
-    <tspan x="15" y="310">       ;;;1cLLLf;fcXX;fLLLc1;;;</tspan>
-    <tspan x="15" y="330">       :;;tLLLLf;fcXC;fLLLLt;;:</tspan>
-    <tspan x="15" y="350">      ;;iccticLf;cX0C;fLcitcci;:</tspan>
-    <tspan x="15" y="370">      ;icLiifLLt;1L0f;tLLfiiLci;</tspan>
-    <tspan x="15" y="390">     ;;fLLfcLLf;;i00i;;fLLcfLLf;;</tspan>
-    <tspan x="15" y="410">     ;;ttttt1i;;;;ff;;;;itttttt;;</tspan>
-    <tspan x="15" y="430">     ;;;;;;;;;;  ;;;:  ;;;;;;;;;;</tspan>
-    <tspan x="15" y="450"/>
-    <tspan x="15" y="470"/>
-    <tspan x="15" y="490"/>
-    <tspan x="15" y="510"/>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/4.txt">
+    <tspan x="15" y="30">                             ,cf;</tspan>
+    <tspan x="15" y="50">      :;,                    iLLLt,</tspan>
+    <tspan x="15" y="70">    .tLL:                    :LLLLi</tspan>
+    <tspan x="15" y="90">    fLLL,          .          LLLLL;</tspan>
+    <tspan x="15" y="110">    1LLL;        ,i1:,..     .LLLLLf</tspan>
+    <tspan x="15" y="130">   :fLLL1    .;1tttttttt1,   :cLLLLc</tspan>
+    <tspan x="15" y="150">   iLLLLf,  .:tttttttttt1Lc; icLLLLf</tspan>
+    <tspan x="15" y="170">   :LLLLc. tLLttttttttticLLL1.LLLLL;</tspan>
+    <tspan x="15" y="190">    fLLLLi:cfcctttttttt;c,, ,;LLL:</tspan>
+    <tspan x="15" y="210">    iLLLLt; Lt:;ttt111t;i;L. ;fLLt:</tspan>
+    <tspan x="15" y="230">     ;cLLf     .i;;;;;;,.    i1Li</tspan>
+    <tspan x="15" y="250">       1L1i    ::;;;;;;;t   i1;:</tspan>
+    <tspan x="15" y="270">         :;t;.1i;;;;;;;1tt11tt.</tspan>
+    <tspan x="15" y="290">          ;;i1ti;i;;:,iticcti</tspan>
+    <tspan x="15" y="310">             . ;fLLLLf;:ci</tspan>
+    <tspan x="15" y="330">             itt1LL1LLLL;t1,</tspan>
+    <tspan x="15" y="350">            .1tt1LL1ccLf1tt;</tspan>
+    <tspan x="15" y="370">            .1ttiLLLcLLtttt,.</tspan>
+    <tspan x="15" y="390">            :1tt1LLLLLL1ttt;.</tspan>
+    <tspan x="15" y="410">          ..itttttLLLLL;ttt:;.</tspan>
+    <tspan x="15" y="430">      .:1:ititttt:LLLLc1ttt:tt1,</tspan>
+    <tspan x="15" y="450">     .1i;11111ttt.LLLL:ttttit;:t1i .</tspan>
+    <tspan x="15" y="470">     ,1;;11i1ittt.ifcc;ttt111i1;;i;</tspan>
+    <tspan x="15" y="490">      :;;;.;:.;ti  .,,.tti.;;:t111:</tspan>
+    <tspan x="15" y="510">              .</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -51,12 +51,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">......... </tspan><tspan class="value">Too Hotty - </tspan><tspan class="artistColor">Quality Control &amp; Migos &amp; Eurielle</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............. </tspan><tspan class="value">MONTAGEM REBOLANDO - </tspan><tspan class="artistColor">HOST1LE &amp; KUMUKI GANG</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">FEEL LIKE ME - </tspan><tspan class="artistColor">Notion</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.............................. </tspan><tspan class="value">Look Alive - </tspan><tspan class="artistColor">Rae Sremmurd</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">........................................... </tspan><tspan class="value">8PM - </tspan><tspan class="artistColor">Nemzzz</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................. </tspan><tspan class="value">Talent Show - </tspan><tspan class="artistColor">Snoop Dogg &amp; Wiz Khalifa</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................... </tspan><tspan class="value">Cornetada 3 - </tspan><tspan class="artistColor">DJ BRUNINHO 17 &amp; Vulki</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">MONTAGEM OLD CURRENTS - </tspan><tspan class="artistColor">Tsk.4</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">. </tspan><tspan class="value">OVEX (Super Slowed) - </tspan><tspan class="artistColor">RONVXER &amp; lakkerro &amp; Tribeat ...</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">......................................... </tspan><tspan class="value">Woa...! - </tspan><tspan class="artistColor">Yeat</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................. </tspan><tspan class="value">Разбойники - </tspan><tspan class="artistColor">Gorilla Glue &amp; LIL NAKUR</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.................. </tspan><tspan class="value">Разбойники - </tspan><tspan class="artistColor">Gorilla Glue &amp; LIL NAKUR</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.1%</tspan><tspan fill="#3572A5" class="artistColor"> (5.3MB)</tspan>
