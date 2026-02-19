@@ -16,32 +16,12 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/12.txt">
-    <tspan x="15" y="30">⠀⠀</tspan>
-    <tspan x="15" y="50"/>
-    <tspan x="15" y="70"/>
-    <tspan x="15" y="90"/>
-    <tspan x="15" y="110"/>
-    <tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⠤⠤⢤⣄⡀⠀⠀⢰⠿⢧⣿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⠁⠀⠀⠀⢀⣬⠽⠳⣤⢞⡴⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⢀⡀⠀⠠⠉⣠⣤⡄⠀⠸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="210">⠀⢀⣶⣤⡀⠀⢠⡷⠋⣁⣀⢰⡀⠀⠘⠓⠊⠁⠀⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="230">⠀⠸⣧⣇⡩⣟⡛⠀⠸⠯⠍⡻⠛⠉⠉⢉⣽⠠⠤⠤⡀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="250">⠀⠀⠈⠀⠀⠀⢸⠀⠀⠈⠀⢧⠤⠤⠖⢡⠀⠀⠀⣠⠄⠀⠸⣷⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="270">⠀⠀⠀⠀⠀⠀⠀⡇⠀⢀⠎⠀⠀⠘⠀⢀⣠⡴⠚⡙⠀⠀⠀⠇⠉⠻⣯⠙⠲⠶⠛⣆⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="290">⠀⠀⠀⠀⢀⣀⣠⣿⡀⠸⠄⠶⣖⠒⠚⢉⣠⣴⡞⠁⠀⠀⠀⡆⠀⠀⣿⡇⠀⠰⡀⢹⠉</tspan>
-    <tspan x="15" y="310">⠀⠀⠀⣰⠏⣔⢠⡿⢳⣄⠀⠀⠈⠉⠙⠛⠋⠁⠀⠀⠀⠀⡼⠀⠀⣼⡟⠀⢀⠀⣧⠸⡇</tspan>
-    <tspan x="15" y="330">⠀⣰⠞⡿⣸⣿⠻⣷⠀⠙⠷⣄⡀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⣠⣾⢏⢰⡿⢷⣅⢸⢠</tspan>
-    <tspan x="15" y="350"/>
-    <tspan x="15" y="370"/>
-    <tspan x="15" y="390"/>
-    <tspan x="15" y="410"/>
-    <tspan x="15" y="430"/>
-    <tspan x="15" y="450"/>
-    <tspan x="15" y="470"/>
-    <tspan x="15" y="490"/>
-    <tspan x="15" y="510"/>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/6.txt">
+    <tspan x="15" y="30">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="50"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="70"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="90">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="110">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -51,12 +31,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................. </tspan><tspan class="value">ECLIPSER - </tspan><tspan class="artistColor">PINKY SMASH</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................. </tspan><tspan class="value">NOT SURE - </tspan><tspan class="artistColor">WXCHSXN &amp; Astxr</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.................. </tspan><tspan class="value">#voyuitwaaien  (slowed) - </tspan><tspan class="artistColor">latex fruit</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">................................ </tspan><tspan class="value">You dancing - </tspan><tspan class="artistColor">homyakovv</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">....... </tspan><tspan class="value">silkgrave - </tspan><tspan class="artistColor">DJ Anemia &amp; DVRKLXGHT &amp; iwilldiehere</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">32326</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">... </tspan><tspan class="value">16</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.................. </tspan><tspan class="value">SOL TA - </tspan><tspan class="artistColor">HOST1LE &amp; Leenucch &amp; MAXPVNK</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">........................ </tspan><tspan class="value">WAITING - </tspan><tspan class="artistColor">NOTION &amp; Willow Kayne</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">. </tspan><tspan class="value">Montagem Temporada (Ultra Slowed) - </tspan><tspan class="artistColor">zarzour &amp; Zhanbxqq</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............................ </tspan><tspan class="value">Took Her To The O - </tspan><tspan class="artistColor">Kughuta</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">. </tspan><tspan class="value">Perplexing Pegasus - </tspan><tspan class="artistColor">Rae Sremmurd &amp; Swae Lee &amp; Slim...</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................................. </tspan><tspan class="value">ECLIPSER - </tspan><tspan class="artistColor">PINKY SMASH</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.1%</tspan><tspan fill="#3572A5" class="artistColor"> (5.3MB)</tspan>
