@@ -17,30 +17,23 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/41.txt">
-    <tspan x="15" y="30"/>
-    <tspan x="15" y="50">                 ___ _ _  _ ____</tspan>
-    <tspan x="15" y="70">                  |  | |\/| |___</tspan>
-    <tspan x="15" y="90">   ...            |  | |  | |___</tspan>
-    <tspan x="15" y="110"> ,'   '.            ___ ____</tspan>
-    <tspan x="15" y="130">;       ;            |  |  |</tspan>
-    <tspan x="15" y="150">|       |            |  |__|</tspan>
-    <tspan x="15" y="170">|       |      _ _ _ ____ ____ _  _</tspan>
-    <tspan x="15" y="190">| _, ,_ |      | | | |  | |__/ |_/</tspan>
-    <tspan x="15" y="210">'´ | | `'      |_|_| |__| |  \ | \_</tspan>
-    <tspan x="15" y="230">   | |    _    _</tspan>
-    <tspan x="15" y="250">   | |  .|_|_,' |         ,--.</tspan>
-    <tspan x="15" y="270">   | |  |       |        :   |</tspan>
-    <tspan x="15" y="290">   | |  `|`'`-._|        :   |</tspan>
-    <tspan x="15" y="310">   | |   | |             :   |</tspan>
-    <tspan x="15" y="330">   | |   | |             :   |</tspan>
-    <tspan x="15" y="350">   | |   | |  .-------.  :   |</tspan>
-    <tspan x="15" y="370">   | |   | | ,|   _O  |  :   |</tspan>
-    <tspan x="15" y="390">   | |   | | ||_,'    |  :   |</tspan>
-    <tspan x="15" y="410">   | |   | | `|       |  ;...:</tspan>
-    <tspan x="15" y="430">   | |   | |  |       | /.--. \</tspan>
-    <tspan x="15" y="450">   | |  |` |  |       | |'--' |</tspan>
-    <tspan x="15" y="470">   '-'  `--'  '-------' '-----'</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/23.txt">
+    <tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="50">⠀⣿⠛⠛⠛⠛⠛⠛⢻⡇⠀⣀⠛⠁⠈⠛⣀⠀⢸⡟⠛⠛⠛⠛⠛⠛⣿</tspan>
+    <tspan x="15" y="70">⠀⣿⠀⢰⣶⣶⣶⠀⢸⡇⠀⠀⣶⣄⣠⣶⣿⠀⢸⡇⠀⣶⣶⣶⡆⠀⣿</tspan>
+    <tspan x="15" y="90">⠀⣿⠀⢸⣿⣿⣿⠀⢸⡇⠀⣤⣿⡟⢻⣿⠋⠀⢸⡇⠀⣿⣿⣿⡇⠀⣿</tspan>
+    <tspan x="15" y="110">⠀⣿⣀⣀⣀⣀⣀⣀⣸⡇⠀⣀⠀⢸⡇⠀⣷⠀⢸⣇⣀⣀⣀⣀⣀⣀⣿</tspan>
+    <tspan x="15" y="130">⠀⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠉⣤⣼⡇⠀⠉⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉</tspan>
+    <tspan x="15" y="150">⠀⠀⠀⢸⡇⠀⣿⣿⡟⠃⣤⣿⣿⣿⡟⠛⣿⠛⠀⢠⣤⣿⠀⠀⠀⠃⠀</tspan>
+    <tspan x="15" y="170">⠀⠀⠰⠾⠇⠀⠿⢉⠰⠶⠿⠿⣿⣿⡇⠀⠿⢀⣰⡆⠉⠿⠶⢆⣀⣆⣀</tspan>
+    <tspan x="15" y="190">⠀⠀⢠⣤⡄⠀⣤⣿⣧⣤⡄⠀⠛⢻⡇⠀⠀⠘⢻⡇⠀⠀⢤⡜⠛⣿⣿</tspan>
+    <tspan x="15" y="210">⠀⣀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠒⣶⣾⡗⠒⠒⢀⠘⠛⠒⠒⠀⠀⠀⠛⠛</tspan>
+    <tspan x="15" y="230">⠀⣿⠉⠉⠉⠉⠉⠉⢹⡇⠀⣶⣿⡏⠁⠀⠀⠈⠀⢰⣦⠀⣴⡆⠀⠀⣶</tspan>
+    <tspan x="15" y="250">⠀⣿⠀⢸⣿⣿⣿⠀⢸⡇⠀⠛⣿⣿⡟⠛⠀⢸⠛⠛⠛⠛⣿⡟⠃⡄⠛</tspan>
+    <tspan x="15" y="270">⠀⣿⠀⠸⠿⠿⠿⠀⢸⡇⠀⠶⠉⠹⠇⠀⠀⠈⠀⠀⠀⠀⣿⡇⠀⠁⠀</tspan>
+    <tspan x="15" y="290">⠀⣿⣤⣤⣤⣤⣤⣤⣼⡇⠀⠀⠉⠁⠀⠀⣤⠀⠈⢹⣿⠉⣿⡇⠀⠀⣤</tspan>
+    <tspan x="15" y="310">⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="330"> SCAN ME!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -50,12 +43,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.............................. </tspan><tspan class="value">Need U (Pop It) - </tspan><tspan class="artistColor">4l Javi</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.............. </tspan><tspan class="value">VISION - </tspan><tspan class="artistColor">Tidiet &amp; Tidiet, Connor &amp; Connor</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................................ </tspan><tspan class="value">prince of egypt - </tspan><tspan class="artistColor">mofe.</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">...................... </tspan><tspan class="value">Under Your Spell - </tspan><tspan class="artistColor">Snow Strippers</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">......................... </tspan><tspan class="value">HIT (SUPER SLOWED) - </tspan><tspan class="artistColor">ABDUKXRIM</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">One Time - </tspan><tspan class="artistColor">klmketa</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">. </tspan><tspan class="value">Montagem Lunar Diamante - </tspan><tspan class="artistColor">DJ DYLANFK &amp; WXCHSXN &amp; MC...</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................. </tspan><tspan class="value">Fashion Killa - </tspan><tspan class="artistColor">A$AP Rocky</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................................ </tspan><tspan class="value">AcTuGmAtU3M.. - </tspan><tspan class="artistColor">AV3RN1X</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">......................... </tspan><tspan class="value">What You Saying - </tspan><tspan class="artistColor">Lil Uzi Vert</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................ </tspan><tspan class="value">MAZOK - </tspan><tspan class="artistColor">SHINE COLLECTOR</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.... </tspan><tspan class="value">MONTAGEM GREEN RENITCH V1 - </tspan><tspan class="artistColor">Tsk.4 &amp; Fyex &amp; Dj Samir</tspan>
 </text><text x="390" y="280" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.1%</tspan><tspan fill="#3572A5" class="artistColor"> (5.3MB)</tspan>
