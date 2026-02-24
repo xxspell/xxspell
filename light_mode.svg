@@ -16,32 +16,31 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/5.txt">
-    <tspan x="15" y="30"/>
-    <tspan x="15" y="50"/>
-    <tspan x="15" y="70">                  ::::</tspan>
-    <tspan x="15" y="90">                  :::,</tspan>
-    <tspan x="15" y="110">                  ::::</tspan>
-    <tspan x="15" y="130">                  ::::::</tspan>
-    <tspan x="15" y="150">                  ::::::::</tspan>
-    <tspan x="15" y="170">                  ::::::::::</tspan>
-    <tspan x="15" y="190">                  :::::::::::.</tspan>
-    <tspan x="15" y="210">                  ::::::::::::</tspan>
-    <tspan x="15" y="230">                  :::: .:::::::</tspan>
-    <tspan x="15" y="250">                  ::::   ,:::::</tspan>
-    <tspan x="15" y="270">                  ::::     ::::</tspan>
-    <tspan x="15" y="290">                  ::::      :::</tspan>
-    <tspan x="15" y="310">                  ::::</tspan>
-    <tspan x="15" y="330">            ::::::::::</tspan>
-    <tspan x="15" y="350">          ::::::::::::</tspan>
-    <tspan x="15" y="370">         :::::::::::::</tspan>
-    <tspan x="15" y="390">         :::::::::::::</tspan>
-    <tspan x="15" y="410">         ::::::::::::,</tspan>
-    <tspan x="15" y="430">          ::::::::::</tspan>
-    <tspan x="15" y="450">            ,:::,</tspan>
-    <tspan x="15" y="470"/>
-    <tspan x="15" y="490"/>
-    <tspan x="15" y="510"/>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/32.txt">
+    <tspan x="15" y="30">      _ _,---._</tspan>
+    <tspan x="15" y="50">   ,-','       `-.___</tspan>
+    <tspan x="15" y="70">  /-;'               `._</tspan>
+    <tspan x="15" y="90"> /\/          ._   _,'o \</tspan>
+    <tspan x="15" y="110">( /\       _,--'\,','"`. )</tspan>
+    <tspan x="15" y="130"> |\      ,'o     \'    //\</tspan>
+    <tspan x="15" y="150"> |      \        /   ,--'""`-.</tspan>
+    <tspan x="15" y="170"> :       \_    _/ ,-'         `-._</tspan>
+    <tspan x="15" y="190">  \        `--'  /                )</tspan>
+    <tspan x="15" y="210">   `.  \`._    ,'     ________,','</tspan>
+    <tspan x="15" y="230">     .--`     ,'  ,--` __\___,;'</tspan>
+    <tspan x="15" y="250">      \`.,-- ,' ,`_)--'  /`.,'</tspan>
+    <tspan x="15" y="270">       \( ;  | | )      (`-/</tspan>
+    <tspan x="15" y="290">         `--'| |)       |-/</tspan>
+    <tspan x="15" y="310">           | | |        | |</tspan>
+    <tspan x="15" y="330">           | | |,.,-.   | |_</tspan>
+    <tspan x="15" y="350">           | `./ /   )---`  )</tspan>
+    <tspan x="15" y="370">          _|  /    ,',   ,-'</tspan>
+    <tspan x="15" y="390">         ,'|_(    /-&lt;._,' |--,</tspan>
+    <tspan x="15" y="410">         |    `--'---.     \/ \</tspan>
+    <tspan x="15" y="430">         |          / \    /\  \</tspan>
+    <tspan x="15" y="450">       ,-^---._     |  \  /  \  \</tspan>
+    <tspan x="15" y="470">    ,-'        \----'   \/    \--`.</tspan>
+    <tspan x="15" y="490">   /            \              \   \</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -51,12 +50,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">......................... </tspan><tspan class="value">ERIS (SLOWED) - </tspan><tspan class="artistColor">Zynyx &amp; KREZUS</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................. </tspan><tspan class="value">Under Your Spell - </tspan><tspan class="artistColor">pxradox</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................................. </tspan><tspan class="value">club bizarre - </tspan><tspan class="artistColor">Velours</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">..................... </tspan><tspan class="value">Keep Their Heads Ringin' - </tspan><tspan class="artistColor">Dr. Dre</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................ </tspan><tspan class="value">Narod 2 - </tspan><tspan class="artistColor">BENZCOUNTGANG</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................... </tspan><tspan class="value">Walk in the cold (slowed) - </tspan><tspan class="artistColor">DAYERTEQ</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">....................................... </tspan><tspan class="value">falta - </tspan><tspan class="artistColor">spinarik</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.................. </tspan><tspan class="value">elysera - </tspan><tspan class="artistColor">sixnite &amp; Crier &amp; DJ Anemia</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.................... </tspan><tspan class="value">WISTED - </tspan><tspan class="artistColor">UdieNnx &amp; HXVSAGE &amp; DXNOHU</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.............. </tspan><tspan class="value">Mexilo Estranho - </tspan><tspan class="artistColor">dj mr3 &amp; RSFI &amp; DJ Zynx</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">........................ </tspan><tspan class="value">treasure _999 (Slowed) - </tspan><tspan class="artistColor">MXNERA</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">32911</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.. </tspan><tspan class="value">4</tspan> <tspan class="value">minutes ago</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.1%</tspan><tspan fill="#3572A5" class="artistColor"> (5.3MB)</tspan>
