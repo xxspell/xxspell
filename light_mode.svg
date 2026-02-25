@@ -16,8 +16,31 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/27.txt">
-    <tspan x="15" y="30"/>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/42.txt">
+    <tspan x="15" y="30">    __         __         __</tspan>
+    <tspan x="15" y="50">  &gt;(' )      &gt;(' )      &gt;(' )</tspan>
+    <tspan x="15" y="70">    )/   ,     )/   ,     )/   ,</tspan>
+    <tspan x="15" y="90">   /(____/\   /(____/\   /(____/\</tspan>
+    <tspan x="15" y="110">  /        ) /        ) /        )</tspan>
+    <tspan x="15" y="130">  \ `  =~~/  \ `  =~~/  \ `  =~~/</tspan>
+    <tspan x="15" y="150">   `---Y-'    `---Y-'    `---Y-'</tspan>
+    <tspan x="15" y="170">      ~~'        ~~'        ~~'</tspan>
+    <tspan x="15" y="190">    __         __         __</tspan>
+    <tspan x="15" y="210">  &gt;(' )      &gt;(' )      &gt;(' )</tspan>
+    <tspan x="15" y="230">    )/   ,     )/   ,     )/   ,</tspan>
+    <tspan x="15" y="250">   /(____/\   /(____/\   /(____/\</tspan>
+    <tspan x="15" y="270">  /        ) /        ) /        )</tspan>
+    <tspan x="15" y="290">  \ `  =~~/  \ `  =~~/  \ `  =~~/</tspan>
+    <tspan x="15" y="310">   `---Y-'    `---Y-'    `---Y-'</tspan>
+    <tspan x="15" y="330">      ~~'        ~~'        ~~'</tspan>
+    <tspan x="15" y="350">    __         __         __</tspan>
+    <tspan x="15" y="370">  &gt;(' )      &gt;(' )      &gt;(' )</tspan>
+    <tspan x="15" y="390">    )/   ,     )/   ,     )/   ,</tspan>
+    <tspan x="15" y="410">   /(____/\   /(____/\   /(____/\</tspan>
+    <tspan x="15" y="430">  /        ) /        ) /        )</tspan>
+    <tspan x="15" y="450">  \ `  =~~/  \ `  =~~/  \ `  =~~/</tspan>
+    <tspan x="15" y="470">   `---Y-'    `---Y-'    `---Y-'</tspan>
+    <tspan x="15" y="490">      ~~'        ~~'        ~~'</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -27,12 +50,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.............................. </tspan><tspan class="value">Heatwave - </tspan><tspan class="artistColor">Mereba &amp; 6LACK</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................. </tspan><tspan class="value">Hate Me - </tspan><tspan class="artistColor">Ian &amp; Lil Yachty</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">......................... </tspan><tspan class="value">Thootie - </tspan><tspan class="artistColor">Ice Spice &amp; Tokischa</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">........ </tspan><tspan class="value">SUA CAVALONA - </tspan><tspan class="artistColor">N9PXLUS &amp; SUCCESSXR &amp; REFRESHERX</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.............. </tspan><tspan class="value">The Way It Was - </tspan><tspan class="artistColor">Vienna I &amp; T3llz &amp; Money</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.............................................. </tspan><tspan class="value">fly - </tspan><tspan class="artistColor">WIV</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................ </tspan><tspan class="value">Her - </tspan><tspan class="artistColor">The American Dawn</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Empty - </tspan><tspan class="artistColor">Juice WRLD</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">......................................... </tspan><tspan class="value">LUMI - </tspan><tspan class="artistColor">UdieNnx</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">....... </tspan><tspan class="value">Serene (Super Slowed) - </tspan><tspan class="artistColor">KREZUS &amp; nost4gic &amp; Zori</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">Sad! - </tspan><tspan class="artistColor">XXXTENTACION</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">............................. </tspan><tspan class="value">BLUNTS - </tspan><tspan class="artistColor">BLONDE SUPPERMACY</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.2%</tspan><tspan fill="#3572A5" class="artistColor"> (5.3MB)</tspan>
