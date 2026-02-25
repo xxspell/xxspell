@@ -16,33 +16,30 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/38.txt">
-    <tspan x="15" y="30">      |    |              _.-7</tspan>
-    <tspan x="15" y="50">      |\.-.|             ( ,(_</tspan>
-    <tspan x="15" y="70">      | a a|              \\  \,</tspan>
-    <tspan x="15" y="90">      ) ["||          _.--' \  \\</tspan>
-    <tspan x="15" y="110">   .-'  '-''-..____.-'    ___)  )\</tspan>
-    <tspan x="15" y="130">  F   _/-``-.__;-.-.--`--' . .' \_L_</tspan>
-    <tspan x="15" y="150"> |   l  {~~} ,_\  '.'.      ` __.' )\</tspan>
-    <tspan x="15" y="170"> (    -.;___,;  | '- _       :__.'( /</tspan>
-    <tspan x="15" y="190"> | -.__ _/_.'.-'      '-._ .'      \\</tspan>
-    <tspan x="15" y="210"> |     .'   |  -- _                 '\,</tspan>
-    <tspan x="15" y="230"> |  \ /--,--{ .    '---.__.       .'  .'</tspan>
-    <tspan x="15" y="250"> J  ;/ __;__]. '.-.            .-' )_/</tspan>
-    <tspan x="15" y="270"> J  (-.     '\'. '. '-._.-.-'--._ /</tspan>
-    <tspan x="15" y="290"> |  |  '. .' | \'. '.    ._       \</tspan>
-    <tspan x="15" y="310"> |   \   T   |  \  '. '._  '-._    '.</tspan>
-    <tspan x="15" y="330"> F   J   |   |  '.    .  '._   '-,_.--`</tspan>
-    <tspan x="15" y="350"> F   \   \   F .  \    '.   '.  /</tspan>
-    <tspan x="15" y="370">J     \  |  J   \  '.   '.    '/</tspan>
-    <tspan x="15" y="390">J      '.L__|    .   \    '    |</tspan>
-    <tspan x="15" y="410">|   .    \  |     \   '.   '. /</tspan>
-    <tspan x="15" y="430">|    '    '.|      |    ,-.  (</tspan>
-    <tspan x="15" y="450">F   | ' ___  ',._   .  /   '. \</tspan>
-    <tspan x="15" y="470">F   (.'`|| (-._\ '.  \-      '-\</tspan>
-    <tspan x="15" y="490">\ .-'  ( L `._ '\ '._ (</tspan>
-    <tspan x="15" y="510">/'  |  /  '-._\      ''\</tspan>
-    <tspan x="15" y="530">    `-'</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/44.txt">
+    <tspan x="15" y="30"/>
+    <tspan x="15" y="50">                 ~.</tspan>
+    <tspan x="15" y="70">          Ya...___|__..aab     .   .</tspan>
+    <tspan x="15" y="90">           Y88a  Y88o  Y88a   (     )</tspan>
+    <tspan x="15" y="110">            Y88b  Y88b  Y88b   `.oo'</tspan>
+    <tspan x="15" y="130">            :888  :888  :888  ( (`-'</tspan>
+    <tspan x="15" y="150">   .---.    d88P  d88P  d88P   `.`.</tspan>
+    <tspan x="15" y="170">  / .-._)  d8P'"""|"""'-Y8P      `.`.</tspan>
+    <tspan x="15" y="190"> ( (`._) .-.  .-. |.-.  .-.  .-.   ) )</tspan>
+    <tspan x="15" y="210">  \ `---( O )( O )( O )( O )( O )-' /</tspan>
+    <tspan x="15" y="230">   `.    `-'  `-'  `-'  `-'  `-'  .'</tspan>
+    <tspan x="15" y="250"/>
+    <tspan x="15" y="270">                  ~.</tspan>
+    <tspan x="15" y="290">           `-...___|__...`.     .   .</tspan>
+    <tspan x="15" y="310">            \  \  \  \  \  \   (     )</tspan>
+    <tspan x="15" y="330">             :  :  :  :  :  :   `.oo'</tspan>
+    <tspan x="15" y="350">             |  |  |  |  |  |  ( (`-'</tspan>
+    <tspan x="15" y="370">    .---.    ;  ;  ;  ;  ;  ;   `.`.</tspan>
+    <tspan x="15" y="390">   / .-._)  /_.-"""|"""'-._/      `.`.</tspan>
+    <tspan x="15" y="410">  ( (`._) .-.  .-. |.-.  .-.  .-.   ) )</tspan>
+    <tspan x="15" y="430">   \ `---( O )( O )( O )( O )( O )-' /</tspan>
+    <tspan x="15" y="450">    `.    `-'  `-'  `-'  `-'  `-'  .'</tspan>
+    <tspan x="15" y="470"/>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -52,12 +49,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">............... </tspan><tspan class="value">Liverpool Street In The Rain - </tspan><tspan class="artistColor">Mall Grab</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">Lil Baby - </tspan><tspan class="artistColor">Young Thug</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">........................... </tspan><tspan class="value">Married To The Game - </tspan><tspan class="artistColor">Future</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">..... </tspan><tspan class="value">That Just isn't Empirically Possible - </tspan><tspan class="artistColor">$uicideboy$</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">. </tspan><tspan class="value">Montagem Lunar Diamante - </tspan><tspan class="artistColor">DJ DYLANFK &amp; WXCHSXN &amp; 7f...</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................. </tspan><tspan class="value">VISION - </tspan><tspan class="artistColor">UdieNnx &amp; HXVSAGE &amp; Duduzinho</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">...................................... </tspan><tspan class="value">Xtal - </tspan><tspan class="artistColor">Aphex Twin</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">......... </tspan><tspan class="value">EEYUH! x Fluxxwave - </tspan><tspan class="artistColor">Clovis Reyes &amp; HR &amp; Irokz</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">..................... </tspan><tspan class="value">killers - slowed - </tspan><tspan class="artistColor">Tidiet &amp; Connor</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">................................ </tspan><tspan class="value">Dreambeats - </tspan><tspan class="artistColor">Deep House</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................. </tspan><tspan class="value">Liverpool Street In The Rain - </tspan><tspan class="artistColor">Velours</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................................ </tspan><tspan class="value">Backends Fasho - </tspan><tspan class="artistColor">Offset</tspan>
 </text><text x="390" y="280" fill="#24292f" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">82.2%</tspan><tspan fill="#3572A5" class="artistColor"> (5.3MB)</tspan>
