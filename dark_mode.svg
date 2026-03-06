@@ -17,30 +17,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/7.txt">
-    <tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="50">⠀⠀</tspan>
-    <tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="90">⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="110">⠀⠀⠀</tspan>
-    <tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠂⠀⠢⠀⠀⠀⠐⠀⠀⠐⠀⠠⢰⠀⠀⢺⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="190">⠀⠀⠀⠠⠀⠀⡁⡀⠀⠂⢂⠀⠀⠡⠀⠀⠂⠀⠀⡂⢀⠁⠂⠀⢀⠃⠀⠀⠀⠆⠀⢠⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="210">⠀⠀⠀⠀⠁⡀⠐⠀⠄⠁⣠⡵⣶⣯⠿⠞⡟⢟⠛⣓⠿⡿⢷⣦⣅⡀⠀⠀⠌⠀⢀⠅⠀⠰⠁⠀</tspan>
-    <tspan x="15" y="230">⠀⣀⠀⠀⠀⠈⠠⣠⣖⢵⢿⠉⠙⠰⡚⠿⠿⠛⠀⠀⡞⠐⠤⠐⠉⢋⢛⢾⣤⠂⠁⠀⠈⠀⠀⡸⠀</tspan>
-    <tspan x="15" y="250">⠀⠀⢃⠄⠀⣔⡵⠿⡐⠧⡟⢄⡀⠀⠀⠀⠀⢀⣤⡞⠁⠀⠀⠀⠰⠄⠀⠀⠈⣻⣦⡆⠀⡠⠎⠀</tspan>
-    <tspan x="15" y="270">⡐⣀⠀⣸⣵⡧⣒⡳⣁⡀⠀⠉⠑⠛⠛⠫⠝⠚⠁⠀⠀⠀⠀⠀⢤⡸⠢⣄⡀⣘⡡⣿⡆⠀⠀</tspan>
-    <tspan x="15" y="290">⠀⠀⣹⣟⣉⣀⢀⢈⠀⣰⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠊⣉⠴⠪⡁⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="310">⠀⠀⠀⡁⡊⢦⣄⡈⠉⠁⠀⠀⠀⠀⠀⠀⠀⢀⣀⡠⠖⠒⢋⣉⠥⠆⠚⠋⠀⠀⠀⠀⠑⡀⠀⠀</tspan>
-    <tspan x="15" y="330">⠀⠀⠠⠁⠈⠐⠀⠁⠉⠋⠵⠖⣒⣒⣒⣉⠩⢤⠔⠒⢪⠉⠀⠀⠘⠆⠀⠀⠀⠁⢄⠀⠀⠈⠀⠀</tspan>
-    <tspan x="15" y="350">⠀⠀⢨⠀⠀⠁⠀⠀⠀⠄⠀⠀⠀⢀⠂⠀⠀⠀⠅⠀⠀⡊⠄⠀⠀⠀⢆⠀⠀⠀⠀⠁⠀⠀⠀</tspan>
-    <tspan x="15" y="370">⠀⠀⠀⠀⠀⠀⠀⠀⠈⡀⠀⠀⠀⢈⠀⠀⠀⠀⠐⠀⠀⠁⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="390">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="410">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="430">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="450">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="470">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/14.txt">
+    <tspan x="15" y="30">⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="50"/>
+    <tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="90">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⢀⣠⠤⣶⣶⣤⣀⡀⠀⠀</tspan>
+    <tspan x="15" y="110">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⠟⢦⣤⡄⠒⠋⠁⠀⠀⢻⡝⢧⠀</tspan>
+    <tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⢿⡏⠀⢀⡀⠀⠀⠀⠀⠀⢷⢸⡇</tspan>
+    <tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠘⠃⠀⠀⠀⠀⠀⣸⣸⠃</tspan>
+    <tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠃⠁⠉⢳⣴⢻⣽⣟⢦⠘⠃⠀⠀⠀⠀⠀⠀⠀⢀⡿⠃⠀</tspan>
+    <tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠋⠐⠉⠙⣿⢿⡇⠀⠀⣀⡀⠀⠀⢀⡴⣿⠃⠀⠀</tspan>
+    <tspan x="15" y="210">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢾⣄⠀⠀⠀⠀⠀⣰⠟⣽⠁⠀⣀⠓⠃⠀⢠⡞⣱⠃⠀⠀⠀</tspan>
+    <tspan x="15" y="230">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣾⣿⣧⣦⣤⣤⡔⢋⠈⠁⠀⠀⠀⠀⠀⠀⠏⡼⠃⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="250">⠀⠀⠀⠀⠀⠀⠀⠀⠶⠀⠀⠀⢸⣻⣿⣿⣯⠟⠋⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="270">⠀⠀⠀⠀⠀⠀⣞⣳⠀⠀⠀⠀⠀⠙⠛⠉⠀⠀⠀⢠⡀⢠⡄⠀⢀⡾⡯⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="290">⠀⠀⠀⠀⠀⠀⠈⠁⠀  ⢀⣇⠀⠀⠀⠀⠀⠀⠈⠀⠀⣡⡾⢋⡼⠃⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="310">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⢠⠄⠉⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="330">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣄⣸⢸⢠⡆⠀⠀⠀⠰⠞⠁⠰⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="350">⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⡽⠛⠘⢿⣥⣤⣤⣤⣀⠀⠤⠠⢤⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="370">⣠⠶⣿⡛⠁⠀⠉⠉⠉⠙⣿⣦⢠⣰⠚⣋⣉⣁⣀⣤⠤⣶⣫⡤⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="390">⠈⠓⠚⠿⠯⠭⠭⠭⠤⠼⠏⢹⢾⠿⠿⠟⠓⠒⠚⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="410">⠀⠀⠀⠀⠀⠀⠀⠀   ⢸⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="430">⠀⠀⠀⠀⠀⠀    ⠀⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="450">⠀⠀⠀⠀⠀    ⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="470">⠀⠀⠀⠀⠀   ⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="490">⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="510"/>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -50,12 +52,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">Enough for you - </tspan><tspan class="artistColor">Wisp</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">........................ </tspan><tspan class="value">Play Stupid - </tspan><tspan class="artistColor">Strick &amp; Swae Lee</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">............................. </tspan><tspan class="value">In Too Deep - </tspan><tspan class="artistColor">Trippie Redd</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">..................... </tspan><tspan class="value">hate will never win - </tspan><tspan class="artistColor">XXXTENTACION</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">Molly - </tspan><tspan class="artistColor">mikeeysmind</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">............. </tspan><tspan class="value">Void - </tspan><tspan class="artistColor">Artificial Intelligence Memory Disc</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">....................................... </tspan><tspan class="value">SD/MAD - </tspan><tspan class="artistColor">flansie</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">................ </tspan><tspan class="value">break it off - Slowed + Reverb - </tspan><tspan class="artistColor">Tidiet</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">......... </tspan><tspan class="value">changes x rinoplastika - </tspan><tspan class="artistColor">itgmqprod &amp; prodwhite</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">........ </tspan><tspan class="value">PIANO DE RITMO - </tspan><tspan class="artistColor">Dogus de Santa &amp; Ediz de Santa</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................ </tspan><tspan class="value">Walk in the cold - </tspan><tspan class="artistColor">DAYERTEQ</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">........... </tspan><tspan class="value">Temporary Friends - </tspan><tspan class="artistColor">Notion &amp; Charlotte Plank</tspan>
 </text><text x="390" y="280" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">79.1%</tspan><tspan fill="#3572A5" class="artistColor"> (5.4MB)</tspan>
