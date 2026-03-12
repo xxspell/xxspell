@@ -17,37 +17,12 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/43.txt">
-    <tspan x="15" y="30">Skeleton</tspan>
-    <tspan x="15" y="50">                                           /  _</tspan>
-    <tspan x="15" y="70">                                       a/  )\/ f</tspan>
-    <tspan x="15" y="90">                                        )?\/ ] ]</tspan>
-    <tspan x="15" y="110">                                           )/ \]</tspan>
-    <tspan x="15" y="130">                                         _  )6 Q</tspan>
-    <tspan x="15" y="150">                                          ?\/ P]</tspan>
-    <tspan x="15" y="170">                             _jQQQa         ?aa]6</tspan>
-    <tspan x="15" y="190">                             ]QQQQQQ/     aa/ 4Q6]6</tspan>
-    <tspan x="15" y="210">                           _6 4QQQQQ6       )??''a]6</tspan>
-    <tspan x="15" y="230">                           jQQajQQQQQ/         )?4f ?a</tspan>
-    <tspan x="15" y="250">                           QQQQQQQQQQf            46 )6</tspan>
-    <tspan x="15" y="270">                           Q]QQQQQQQQ              )6 )4/</tspan>
-    <tspan x="15" y="290">                           P]QQQQP?4Q               )6  4/</tspan>
-    <tspan x="15" y="310">                            ]' 4Q'  Q                )6  4/</tspan>
-    <tspan x="15" y="330">                            Q   ?f _Qf                )6  4/</tspan>
-    <tspan x="15" y="350">                           )W6aJ )WQQf                  4/ 4/</tspan>
-    <tspan x="15" y="370">                           _4?4f_ QP?]                   4/ 4</tspan>
-    <tspan x="15" y="390">                           4a QQQQQ af                    ?a</tspan>
-    <tspan x="15" y="410">                            ?f)" ' ]P                      )gja/</tspan>
-    <tspan x="15" y="430"> f                           4/]]_6Q                       )')?'</tspan>
-    <tspan x="15" y="450"> \                            QQQQQf           _             Qaa/</tspan>
-    <tspan x="15" y="470"> ]                            )WQQ?            4/     _aaaaWWP??</tspan>
-    <tspan x="15" y="490"> ]  ]                             _           4)4QQQQWP????'</tspan>
-    <tspan x="15" y="510"> ]  ]                          )a?'/          ]PJW</tspan>
-    <tspan x="15" y="530">  f ]  /                       _aaP'         JQf</tspan>
-    <tspan x="15" y="550">\ ] ]  f                          aQ /_    aaW?'</tspan>
-    <tspan x="15" y="570">)/ 6 f /                       )??? /  _a?'  QQf</tspan>
-    <tspan x="15" y="590"> )/)/4 '                      a??]QQ/Q?'/  f ?</tspan>
-    <tspan x="15" y="610">_ ),\]6/                )???_aaaa'QQ6  a' _'</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/6.txt">
+    <tspan x="15" y="30">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="50"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="70"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="90">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="110">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -62,7 +37,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.......................................... </tspan><tspan class="value">SERAPH - </tspan><tspan class="artistColor">XEOE</tspan>
 <tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">. </tspan><tspan class="value">MONTAGEM ASTRA MIRABILIS 2 - </tspan><tspan class="artistColor">Dj MH &amp; MC LOCKED &amp; MC...</tspan>
 <tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">...................... </tspan><tspan class="value">MONTAGEM TAGOS (SLOWED) - </tspan><tspan class="artistColor">Zarzour</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">34538</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.... </tspan><tspan class="value">5</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">34538</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.... </tspan><tspan class="value">6</tspan> <tspan class="value">hours ago</tspan>
 </text><text x="390" y="280" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">78.9%</tspan><tspan fill="#3572A5" class="artistColor"> (5.5MB)</tspan>
