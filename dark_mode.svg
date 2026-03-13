@@ -17,32 +17,30 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/9.txt">
-    <tspan x="15" y="30">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
-    <tspan x="15" y="50"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
-    <tspan x="15" y="70"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
-    <tspan x="15" y="90">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
-    <tspan x="15" y="110">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
-    <tspan x="15" y="130">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
-    <tspan x="15" y="150"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
-    <tspan x="15" y="170"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
-    <tspan x="15" y="190">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
-    <tspan x="15" y="210">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
-    <tspan x="15" y="230">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
-    <tspan x="15" y="250"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
-    <tspan x="15" y="270"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
-    <tspan x="15" y="290">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
-    <tspan x="15" y="310">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
-    <tspan x="15" y="330">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
-    <tspan x="15" y="350"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
-    <tspan x="15" y="370"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
-    <tspan x="15" y="390">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
-    <tspan x="15" y="410">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
-    <tspan x="15" y="430">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
-    <tspan x="15" y="450"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
-    <tspan x="15" y="470"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
-    <tspan x="15" y="490">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
-    <tspan x="15" y="510">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/41.txt">
+    <tspan x="15" y="30"/>
+    <tspan x="15" y="50">                 ___ _ _  _ ____</tspan>
+    <tspan x="15" y="70">                  |  | |\/| |___</tspan>
+    <tspan x="15" y="90">   ...            |  | |  | |___</tspan>
+    <tspan x="15" y="110"> ,'   '.            ___ ____</tspan>
+    <tspan x="15" y="130">;       ;            |  |  |</tspan>
+    <tspan x="15" y="150">|       |            |  |__|</tspan>
+    <tspan x="15" y="170">|       |      _ _ _ ____ ____ _  _</tspan>
+    <tspan x="15" y="190">| _, ,_ |      | | | |  | |__/ |_/</tspan>
+    <tspan x="15" y="210">'´ | | `'      |_|_| |__| |  \ | \_</tspan>
+    <tspan x="15" y="230">   | |    _    _</tspan>
+    <tspan x="15" y="250">   | |  .|_|_,' |         ,--.</tspan>
+    <tspan x="15" y="270">   | |  |       |        :   |</tspan>
+    <tspan x="15" y="290">   | |  `|`'`-._|        :   |</tspan>
+    <tspan x="15" y="310">   | |   | |             :   |</tspan>
+    <tspan x="15" y="330">   | |   | |             :   |</tspan>
+    <tspan x="15" y="350">   | |   | |  .-------.  :   |</tspan>
+    <tspan x="15" y="370">   | |   | | ,|   _O  |  :   |</tspan>
+    <tspan x="15" y="390">   | |   | | ||_,'    |  :   |</tspan>
+    <tspan x="15" y="410">   | |   | | `|       |  ;...:</tspan>
+    <tspan x="15" y="430">   | |   | |  |       | /.--. \</tspan>
+    <tspan x="15" y="450">   | |  |` |  |       | |'--' |</tspan>
+    <tspan x="15" y="470">   '-'  `--'  '-------' '-----'</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -52,12 +50,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="120" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="120">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.... </tspan><tspan class="value">KEKE - </tspan><tspan class="artistColor">6IX9INE &amp; Fetty Wap &amp; A Boogie Wit Da Hoodie</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................... </tspan><tspan class="value">In This Darkness - </tspan><tspan class="artistColor">amg s</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">............................... </tspan><tspan class="value">Most Of Us - </tspan><tspan class="artistColor">Wiz Khalifa</tspan>
-<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">...................... </tspan><tspan class="value">Unconditional - </tspan><tspan class="artistColor">NOTION &amp; Nate Sib</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................. </tspan><tspan class="value">eventually but - </tspan><tspan class="artistColor">enteernal</tspan>
-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">........................... </tspan><tspan class="value">back sippin - </tspan><tspan class="artistColor">Destroy Lonely</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">............................ </tspan><tspan class="value">Haunted House - </tspan><tspan class="artistColor">Kaito Shoma</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">................................... </tspan><tspan class="value">HOUSE DEALER - </tspan><tspan class="artistColor">slxmy</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................... </tspan><tspan class="value">Don't leave me - </tspan><tspan class="artistColor">seen twice &amp; nixony</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">SAUCE! - </tspan><tspan class="artistColor">XXXTENTACION</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">Man of the Year - </tspan><tspan class="artistColor">ScHoolboy Q</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">Never Let Go (Of Me) - </tspan><tspan class="artistColor">Baltra</tspan>
 </text><text x="390" y="280" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="280">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">78.8%</tspan><tspan fill="#3572A5" class="artistColor"> (5.5MB)</tspan>
