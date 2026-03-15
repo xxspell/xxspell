@@ -16,12 +16,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/6.txt">
-    <tspan x="15" y="30">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
-    <tspan x="15" y="50"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
-    <tspan x="15" y="70"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
-    <tspan x="15" y="90">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
-    <tspan x="15" y="110">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/11.txt">
+    <tspan x="15" y="30">⠀⠀⠀</tspan>
+    <tspan x="15" y="50"/>
+    <tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ⢀⠀⠊⠁⠈⢘⣒⣤⠠⠰⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="90">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠐⠀⢀⠀⠀⢐⡩⡽⣿⣟⡄⠉⣻⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="110">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢌⣴⡴⠊⣁⢔⣈⣰⡜⢉⣿⣿⡻⣤⣹⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣲⡿⢋⣤⣞⣵⣿⡟⣡⣔⣯⣿⣧⣯⣷⣿⣿⣿⣿⣿⣦⠐⠁⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣮⣞⣵⢿⣿⣿⣿⣷⣿⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠠⠐⢯⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢡⠉⠜⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⠀⡸⣾⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠂⠀⢈⣿⣷⣿⠀⣿⢻⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="210">⠀⠀⠀⠀⠀⠀⠀⠰⣿⣟⣻⣿⣿⣿⣿⣿⣿⣏⣀⠀⠀⠀⠸⣿⢿⡶⢀⡟⠈⣼⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="230">⠀⠀⠀⠀⠀⠀⢠⢃⣿⣭⣿⣿⣿⣿⣿⣿⡏⢍⣙⠛⠷⠦⡄⢻⣼⠋⣼⣁⣀⣹⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="250">⠀⠀⠀⠀⠀⠀⡎⢸⣿⣿⣿⣿⣿⣽⣿⠏⠻⠿⢿⣟⢦⢀⠀⠀⠉⠀⣉⣉⠉⢻⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="270">⠀⠀⠀⠀⠀⠀⠃⣸⣿⣿⣿⣿⣿⣿⡟⡈⠀⠀⠀⠀⢀⢮⠀⠀⠀⠚⡛⠃⠿⣾⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="290">⠀⠀⠀⠀⠀⣰⢳⣿⣿⣿⣿⣷⣿⣿⠱⠀⠁⠀⠀⠀⣨⠆⠃⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⢿⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="310">⠀⠀⠀⠀⢀⠃⢞⣿⣿⣿⣿⣿⣿⣟⠠⠁⠀⠀⠀⠘⠣⣼⠀⢀⠀⠀⠀⠀⠀⣼⣿⣿⣿⡻⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="330">⠀⠀⠀⠀⠀⢈⣼⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠈⢷⣤⡤⢤⣠⣀⣀⠨⠀⠀⣰⣿⣿⣿⠏⡇⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="350">⠀⠀⠀⠰⠀⢼⡟⣽⣿⣿⣿⣿⣿⣿⣿⣆⢀⠀⠈⠱⠡⠔⠨⠎⠀⠀⣀⣼⣿⣿⣿⣻⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="370">⠀⠀⠄⠀⢠⣿⢱⣿⣿⣿⣿⣿⣿⣿⣿⡜⠛⣧⡀⠀⠀⠀⠀⢀⢠⣾⣿⣿⣿⣿⣿⣯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="390">⠀⠀⠀⠀⢼⣥⡿⣼⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠉⠒⠀⠐⠀⠀⢸⢿⣿⣿⣿⣿⣿⡤⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="410">⠀⠀⠀⠘⠸⣼⠇⢸⣿⣿⣿⣿⣿⣿⢾⣯⡀⠀⠀⠀⠀⠀⠀⠀⠈⢸⣿⣟⣻⢟⣫⠥⠧⠤⠤⡀⠁⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="430">⠀⠀⡒⡀⠈⠻⡗⢹⣿⣿⣿⣿⣿⣿⣿⡇⣷⠀⠀⠀⠀⠀⣀⣀⣄⠾⠿⣷⠚⠉⠀⠘⡄⠣⠈⠔⠂⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="450">⠐⠈⠀⠀⢠⣤⡁⠉⢿⠿⣿⣿⣿⣿⣿⡟⠉⠂⠀⡐⠢⠁⠀⠀⠀⠀⠀⢿⡆⠀⠀⠐⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="470">⠤⠄⠂⠉⢫⡏⢷⣶⣷⣿⣿⣿⣿⣿⣟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢫⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="490">⠀⠀⠀⠀⢈⢲⠾⢿⣿⣿⣿⣿⣿⢶⡚⢁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣧⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="510">⠀⠀⠀⠀⠀⠀⠀</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -31,12 +51,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="60" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -——————————————————————————————————-—-
-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">......................... </tspan><tspan class="value">Glamour 2 (Slowed) - </tspan><tspan class="artistColor">Aver King</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">................................ </tspan><tspan class="value">HOLD ON - </tspan><tspan class="artistColor">Calmfy &amp; 2Ray</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">...................................... </tspan><tspan class="value">Play Boy - </tspan><tspan class="artistColor">PaFOSS</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............................. </tspan><tspan class="value">BE ALONE - </tspan><tspan class="artistColor">SHINING BREEZZE</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................. </tspan><tspan class="value">stress - </tspan><tspan class="artistColor">COMPUTER DATA</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">tired - </tspan><tspan class="artistColor">fadinglight</tspan>
+<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................ </tspan><tspan class="value">Take Away - </tspan><tspan class="artistColor">Gapto Fobia</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">................................ </tspan><tspan class="value">Take Away - </tspan><tspan class="artistColor">Gapto Fobia</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">............................... </tspan><tspan class="value">In Our Dreams - </tspan><tspan class="artistColor">Rezident</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">...................................... </tspan><tspan class="value">Too Late - </tspan><tspan class="artistColor">Shankz</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Love Me - </tspan><tspan class="artistColor">Sibewest</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................ </tspan><tspan class="value">LOVELESS - </tspan><tspan class="artistColor">HOST1LE &amp; HVRA &amp; KUMUKI GANG</tspan>
 </text><text x="390" y="220" fill="#24292f" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">78.6%</tspan><tspan fill="#3572A5" class="artistColor"> (5.5MB)</tspan>
@@ -48,7 +68,7 @@ text, tspan {white-space: pre;}
 </text><text x="390" y="390" fill="#24292f" id="github_stats">
     <tspan x="390" y="390">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
     <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">91</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">94</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">243</tspan>
-    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,645</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,423</tspan>
+    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,645</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,422</tspan>
     <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits (7d)</tspan>:<tspan class="cc" id="recent_commit_dots"> ................ </tspan><tspan class="value" id="recent_commit_data">16</tspan> | <tspan class="key">Streak</tspan>:<tspan class="cc" id="streak_dots"> ....... </tspan><tspan class="value" id="streak_data">0 days</tspan>
     <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">574,998</tspan> ( <tspan class="addColor" id="loc_add">753,217</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"/><tspan class="delColor" id="loc_del">178,219</tspan><tspan class="delColor">--</tspan> )
 </text></svg>
