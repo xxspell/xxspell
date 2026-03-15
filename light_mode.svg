@@ -16,32 +16,12 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/31.txt">
-    <tspan x="15" y="30">                           .-.</tspan>
-    <tspan x="15" y="50">                          {{@}}</tspan>
-    <tspan x="15" y="70">          &lt;&gt;               8@8</tspan>
-    <tspan x="15" y="90">        .::::.             888</tspan>
-    <tspan x="15" y="110">    @\\/W\/\/W\//@         8@8</tspan>
-    <tspan x="15" y="130">     \\/^\/\/^\//     _    )8(    _</tspan>
-    <tspan x="15" y="150">      \_O_&lt;&gt;_O_/     (@)__/8@8\__(@)</tspan>
-    <tspan x="15" y="170"> ____________________ `~"-=):(=-"~`</tspan>
-    <tspan x="15" y="190">|&lt;&gt;&lt;&gt;&lt;&gt;  |  |  &lt;&gt;&lt;&gt;&lt;&gt;|     |.|</tspan>
-    <tspan x="15" y="210">|&lt;&gt;      |  |      &lt;&gt;|     |S|</tspan>
-    <tspan x="15" y="230">|&lt;&gt;      |  |      &lt;&gt;|     |'|</tspan>
-    <tspan x="15" y="250">|&lt;&gt;   .--------.   &lt;&gt;|     |.|</tspan>
-    <tspan x="15" y="270">|     |   ()   |     |     |P|</tspan>
-    <tspan x="15" y="290">|_____| (O\/O) |_____|     |'|</tspan>
-    <tspan x="15" y="310">|     \   /\   /     |     |.|</tspan>
-    <tspan x="15" y="330">|------\  \/  /------|     |U|</tspan>
-    <tspan x="15" y="350">|       '.__.'       |     |'|</tspan>
-    <tspan x="15" y="370">|        |  |        |     |.|</tspan>
-    <tspan x="15" y="390">:        |  |        :     |N|</tspan>
-    <tspan x="15" y="410"> \&lt;&gt;     |  |     &lt;&gt;/      |'|</tspan>
-    <tspan x="15" y="430">  \&lt;&gt;    |  |    &lt;&gt;/       |.|</tspan>
-    <tspan x="15" y="450">   \&lt;&gt;   |  |   &lt;&gt;/        |K|</tspan>
-    <tspan x="15" y="470">    `\&lt;&gt; |  | &lt;&gt;/'         |'|</tspan>
-    <tspan x="15" y="490">      `-.|  |.-`           \ /</tspan>
-    <tspan x="15" y="510">         '--'               ^</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/6.txt">
+    <tspan x="15" y="30">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="50"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="70"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="90">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="110">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -51,12 +31,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="60" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -——————————————————————————————————-—-
-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">...................................... </tspan><tspan class="value">Play Boy - </tspan><tspan class="artistColor">PaFOSS</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................. </tspan><tspan class="value">BE ALONE - </tspan><tspan class="artistColor">SHINING BREEZZE</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................................. </tspan><tspan class="value">stress - </tspan><tspan class="artistColor">COMPUTER DATA</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">tired - </tspan><tspan class="artistColor">fadinglight</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................. </tspan><tspan class="value">SAID I CAN'T - </tspan><tspan class="artistColor">Judgement G</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">34837</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">... </tspan><tspan class="value">17</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">......................... </tspan><tspan class="value">Glamour 2 (Slowed) - </tspan><tspan class="artistColor">Aver King</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">................................ </tspan><tspan class="value">HOLD ON - </tspan><tspan class="artistColor">Calmfy &amp; 2Ray</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">...................................... </tspan><tspan class="value">Play Boy - </tspan><tspan class="artistColor">PaFOSS</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............................. </tspan><tspan class="value">BE ALONE - </tspan><tspan class="artistColor">SHINING BREEZZE</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................. </tspan><tspan class="value">stress - </tspan><tspan class="artistColor">COMPUTER DATA</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">tired - </tspan><tspan class="artistColor">fadinglight</tspan>
 </text><text x="390" y="220" fill="#24292f" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">78.6%</tspan><tspan fill="#3572A5" class="artistColor"> (5.5MB)</tspan>
