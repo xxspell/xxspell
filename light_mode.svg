@@ -16,31 +16,34 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/17.txt">
-    <tspan x="15" y="30"/>
-    <tspan x="15" y="50"/>
-    <tspan x="15" y="70"/>
-    <tspan x="15" y="90"/>
-    <tspan x="15" y="110"/>
-    <tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠛⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⢰⣶⣶⣶⠀⣶⣶⣶⣶⠀⢰⣶⣶⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="210">⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⣿⣿⣿⣿⠀⢸⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="230">⠀⢠⣤⣤⣤⠀⢠⣤⣤⣤⠀⣤⣤⣤⣤⠀⢠⣤⣤⣤⠀⣰⣿⣿⣦⡀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="250">⠀⢸⣿⣿⣿⠀⢸⣿⣿⣿⠀⣿⣿⣿⣿⠀⢸⣿⣿⣿⠀⣿⣿⠹⣿⣷⣀⠀⠀⠀</tspan>
-    <tspan x="15" y="270">⠀⠘⠛⠛⠛⠀⠘⠛⠛⠛⠀⠛⠛⠛⠛⠀⠘⠛⠛⠛⢀⣿⣿⡀⠙⠿⠿⣿⣶⣆</tspan>
-    <tspan x="15" y="290">⣴⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⠟⢁⣤⣴⣶⣾⡿⠋</tspan>
-    <tspan x="15" y="310">⣿⣿⣿⣛⣛⣛⣛⣿⣟⣛⣛⣻⣿⣟⣛⣛⣻⣿⣟⣋⣉⣠⣤⣾⣿⣟⣻⣍⠀⠀</tspan>
-    <tspan x="15" y="330">⢹⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠋⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="350">⠈⢻⣿⣿⣿⡿⠿⠿⠿⠛⠉⠀⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="370">⠀⠀⠙⢿⣿⣿⣶⣦⣤⣤⣤⣤⣤⣴⣶⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="390">⠀⠀⠀⠀⠈⠙⠛⠛⠿⠿⠿⠿⠿⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="410"/>
-    <tspan x="15" y="430"/>
-    <tspan x="15" y="450"/>
-    <tspan x="15" y="470"/>
-    <tspan x="15" y="490">⠀⠀⠀</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/37.txt">
+    <tspan x="15" y="30">         .     .</tspan>
+    <tspan x="15" y="50">    ..   8"=,,88,   _.</tspan>
+    <tspan x="15" y="70">     8""=""8'  "88a88'</tspan>
+    <tspan x="15" y="90">.. .;88m a8   ,8"" "8</tspan>
+    <tspan x="15" y="110"> "8"'  "88"  A"     8;</tspan>
+    <tspan x="15" y="130">   "8,  "8   8       "8,</tspan>
+    <tspan x="15" y="150">    "8   8,  8,       "8</tspan>
+    <tspan x="15" y="170">     8,  "8, "8,    ___8,</tspan>
+    <tspan x="15" y="190">     "8,  "8, "8mm""""""8m.</tspan>
+    <tspan x="15" y="210">      "8,am888i"'   ,mm"</tspan>
+    <tspan x="15" y="230">      ,8"  _8"  .m888"</tspan>
+    <tspan x="15" y="250">     ,88P"""""I888888</tspan>
+    <tspan x="15" y="270">     "'         "I888</tspan>
+    <tspan x="15" y="290">                  "I8,</tspan>
+    <tspan x="15" y="310">                   "I8</tspan>
+    <tspan x="15" y="330">                    "I8_</tspan>
+    <tspan x="15" y="350">        ,mmeem.m""i, I8""  ,mmeem,'.</tspan>
+    <tspan x="15" y="370">       m""    . "8.8 I8  ,8"   .  "88</tspan>
+    <tspan x="15" y="390">      i8  . '  ,mi""8I8 ,8 . '  ,8" 88</tspan>
+    <tspan x="15" y="410">      88.' ,mm""    "8I88"m,,mm'"    8</tspan>
+    <tspan x="15" y="430">      "8_m""         "I8   ""'</tspan>
+    <tspan x="15" y="450">       "8             I8</tspan>
+    <tspan x="15" y="470">                      I8_</tspan>
+    <tspan x="15" y="490">                      I8""</tspan>
+    <tspan x="15" y="510">                      I8</tspan>
+    <tspan x="15" y="530">                     _I8</tspan>
+    <tspan x="15" y="550">                    ""I8</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -50,12 +53,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="60" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -——————————————————————————————————-—-
-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................. </tspan><tspan class="value">Love Sosa - </tspan><tspan class="artistColor">Chief Keef</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">........ </tspan><tspan class="value">EMBER (crashed) (crashed)_PHOLO - </tspan><tspan class="artistColor">BABii &amp; Pholo</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">...................................... </tspan><tspan class="value">Break Up - </tspan><tspan class="artistColor">Kizaru</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............................. </tspan><tspan class="value">Belly of the Beast - </tspan><tspan class="artistColor">Gunna</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................... </tspan><tspan class="value">DID IT FIRST - </tspan><tspan class="artistColor">Ice Spice</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">. </tspan><tspan class="value">Marea (We’ve Lost Dancing) - </tspan><tspan class="artistColor">Fred again.. &amp; The Ble...</tspan>
+<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">....................... </tspan><tspan class="value">they called me Violet - </tspan><tspan class="artistColor">usedcvnt</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">................................. </tspan><tspan class="value">This Feeling - </tspan><tspan class="artistColor">my!lane</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">............ </tspan><tspan class="value">Silent - </tspan><tspan class="artistColor">sydex.exe &amp; byBllessed &amp; 1NZZiDENT</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">...................... </tspan><tspan class="value">THE SHEEP LOOK UP - </tspan><tspan class="artistColor">DEVILISH TRIO</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................... </tspan><tspan class="value">3 minute - </tspan><tspan class="artistColor">RFM Beats</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">............................... </tspan><tspan class="value">Tokyo Night - </tspan><tspan class="artistColor">Money Flip</tspan>
 </text><text x="390" y="220" fill="#24292f" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">76.0%</tspan><tspan fill="#3572A5" class="artistColor"> (5.5MB)</tspan>
