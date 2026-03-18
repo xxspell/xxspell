@@ -17,12 +17,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/6.txt">
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/9.txt">
     <tspan x="15" y="30">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
     <tspan x="15" y="50"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
     <tspan x="15" y="70"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
     <tspan x="15" y="90">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
     <tspan x="15" y="110">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <tspan x="15" y="130">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="150"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="170"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="190">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="210">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <tspan x="15" y="230">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="250"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="270"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="290">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="310">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <tspan x="15" y="330">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="350"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="370"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="390">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="410">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
+    <tspan x="15" y="430">▐▄• ▄ ▐▄• ▄ .▄▄ ·  ▄▄▄·▄▄▄ .▄▄▌  ▄▄▌</tspan>
+    <tspan x="15" y="450"> █▌█▌▪ █▌█▌▪▐█ ▀. ▐█ ▄█▀▄.▀·██•  ██•</tspan>
+    <tspan x="15" y="470"> ·██·  ·██· ▄▀▀▀█▄ ██▀·▐▀▀▪▄██▪  ██▪</tspan>
+    <tspan x="15" y="490">▪▐█·█▌▪▐█·█▌▐█▄▪▐█▐█▪·•▐█▄▄▌▐█▌▐▌▐█▌▐▌</tspan>
+    <tspan x="15" y="510">•▀▀ ▀▀•▀▀ ▀▀ ▀▀▀▀ .▀    ▀▀▀ .▀▀▀ .▀▀▀</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -32,24 +52,24 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="60" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -——————————————————————————————————-—-
-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">....... </tspan><tspan class="value">Anhedoniac (feat. Kučka) - </tspan><tspan class="artistColor">Kučka &amp; Andrei Eremin</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">overseas - </tspan><tspan class="artistColor">Ken Car$on</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">............................... </tspan><tspan class="value">Hot - </tspan><tspan class="artistColor">Young Thug &amp; Gunna</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............ </tspan><tspan class="value">Bent - </tspan><tspan class="artistColor">41 &amp; Kyle Richh &amp; Jenn Carter &amp; TaTa</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">TARO - </tspan><tspan class="artistColor">Zynyx &amp; KREZUS</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................................. </tspan><tspan class="value">BET YOU NEVER - </tspan><tspan class="artistColor">SBTRKT</tspan>
+<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">No Morë Talk - </tspan><tspan class="artistColor">Yeat</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................... </tspan><tspan class="value">fly sht - </tspan><tspan class="artistColor">Destroy Lonely</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">........... </tspan><tspan class="value">Dig The Connection - </tspan><tspan class="artistColor">Diversion &amp; Emily Zuzik</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.................... </tspan><tspan class="value">Lost Angeles - </tspan><tspan class="artistColor">FRIENDLY THUG 52 NGG</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">........................ </tspan><tspan class="value">WAITING - </tspan><tspan class="artistColor">NOTION &amp; Willow Kayne</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................ </tspan><tspan class="value">NEW CHAINS, SAME SHACKLES - </tspan><tspan class="artistColor">$uicideboy$</tspan>
 </text><text x="390" y="220" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -—————————————————————————————-—-
-    <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">74.3%</tspan><tspan fill="#3572A5" class="artistColor"> (5.5MB)</tspan>
-    <tspan x="390" y="260" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.............................. </tspan><tspan fill="#2b7489">TypeScript</tspan> <tspan class="value">9.9%</tspan><tspan fill="#2b7489" class="artistColor"> (745.1KB)</tspan>
+    <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">74.4%</tspan><tspan fill="#3572A5" class="artistColor"> (5.5MB)</tspan>
+    <tspan x="390" y="260" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.............................. </tspan><tspan fill="#2b7489">TypeScript</tspan> <tspan class="value">9.8%</tspan><tspan fill="#2b7489" class="artistColor"> (745.1KB)</tspan>
     <tspan x="390" y="280" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................................... </tspan><tspan fill="#fa7343">Swift</tspan> <tspan class="value">6.9%</tspan><tspan fill="#fa7343" class="artistColor"> (522.3KB)</tspan>
     <tspan x="390" y="300" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.............................. </tspan><tspan fill="#c9bb4d">JavaScript</tspan> <tspan class="value">4.8%</tspan><tspan fill="#c9bb4d" class="artistColor"> (365.2KB)</tspan>
-    <tspan x="390" y="320" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................... </tspan><tspan fill="#89e051">Shell</tspan> <tspan class="value">4.1%</tspan><tspan fill="#89e051" class="artistColor"> (306.9KB)</tspan>
-<tspan x="390" y="350" font-family="monospace">   </tspan><tspan fill="#3572A5" font-family="monospace">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</tspan><tspan fill="#2b7489" font-family="monospace">▓▓▓▓▓▓</tspan><tspan fill="#fa7343" font-family="monospace">▓▓▓▓</tspan><tspan fill="#c9bb4d" font-family="monospace">▓▓▓</tspan><tspan fill="#89e051" font-family="monospace">▓▓</tspan><tspan font-family="monospace">   </tspan>
+    <tspan x="390" y="320" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................... </tspan><tspan fill="#89e051">Shell</tspan> <tspan class="value">4.1%</tspan><tspan fill="#89e051" class="artistColor"> (311.2KB)</tspan>
+<tspan x="390" y="350" font-family="monospace">   </tspan><tspan fill="#3572A5" font-family="monospace">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</tspan><tspan fill="#2b7489" font-family="monospace">▓▓▓▓▓</tspan><tspan fill="#fa7343" font-family="monospace">▓▓▓▓</tspan><tspan fill="#c9bb4d" font-family="monospace">▓▓▓</tspan><tspan fill="#89e051" font-family="monospace">▓▓</tspan><tspan font-family="monospace">   </tspan>
 </text><text x="390" y="390" fill="#c9d1d9" id="github_stats">
     <tspan x="390" y="390">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-    <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">92</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">95</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">243</tspan>
-    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,679</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,419</tspan>
-    <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits (7d)</tspan>:<tspan class="cc" id="recent_commit_dots"> ................ </tspan><tspan class="value" id="recent_commit_data">46</tspan> | <tspan class="key">Streak</tspan>:<tspan class="cc" id="streak_dots"> ...... </tspan><tspan class="value" id="streak_data">13 days</tspan>
-    <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">587,568</tspan> ( <tspan class="addColor" id="loc_add">768,465</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"/><tspan class="delColor" id="loc_del">180,897</tspan><tspan class="delColor">--</tspan> )
+    <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">93</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">96</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">243</tspan>
+    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,684</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,419</tspan>
+    <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits (7d)</tspan>:<tspan class="cc" id="recent_commit_dots"> ................ </tspan><tspan class="value" id="recent_commit_data">48</tspan> | <tspan class="key">Streak</tspan>:<tspan class="cc" id="streak_dots"> ...... </tspan><tspan class="value" id="streak_data">15 days</tspan>
+    <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">589,789</tspan> ( <tspan class="addColor" id="loc_add">771,468</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"/><tspan class="delColor" id="loc_del">181,679</tspan><tspan class="delColor">--</tspan> )
 </text></svg>
