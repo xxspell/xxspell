@@ -51,12 +51,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="60" fill="#24292f" id="lastfm_block">
 <tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -——————————————————————————————————-—-
-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">..................... </tspan><tspan class="value">Aesthetic - </tspan><tspan class="artistColor">Immortal Spich &amp; HSXRD</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">......... </tspan><tspan class="value">Pilates - </tspan><tspan class="artistColor">41 &amp; Kyle Richh &amp; Jenn Carter &amp; TaTa</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................................. </tspan><tspan class="value">This Feeling - </tspan><tspan class="artistColor">my!lane</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............................ </tspan><tspan class="value">Kackwursthouse - </tspan><tspan class="artistColor">CTEPEO '57</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................. </tspan><tspan class="value">POP DAT THANG - </tspan><tspan class="artistColor">DaBaby</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................................. </tspan><tspan class="value">Wine Pon You - </tspan><tspan class="artistColor">Aeloria</tspan>
+<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">...................................... </tspan><tspan class="value">NEED YOU - </tspan><tspan class="artistColor">Nemzzz</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">......................... </tspan><tspan class="value">I'll Be Right There - </tspan><tspan class="artistColor">Øneheart</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.................. </tspan><tspan class="value">GO AGAIN - </tspan><tspan class="artistColor">BNYX® &amp; Yeat &amp; Superheaven</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">....................................... </tspan><tspan class="value">Bayside - </tspan><tspan class="artistColor">Obskür</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">. </tspan><tspan class="value">Burn (Super Slowed) - </tspan><tspan class="artistColor">sydex.exe &amp; byBllessed &amp; Bale...</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................................ </tspan><tspan class="value">Killing - </tspan><tspan class="artistColor">Ally Nicholas</tspan>
 </text><text x="390" y="220" fill="#24292f" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">74.7%</tspan><tspan fill="#3572A5" class="artistColor"> (5.6MB)</tspan>
