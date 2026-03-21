@@ -17,28 +17,31 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/21.txt">
-    <tspan x="15" y="30"/>
-    <tspan x="15" y="50"/>
-    <tspan x="15" y="70"/>
-    <tspan x="15" y="90"/>
-    <tspan x="15" y="110"/>
-    <tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⢠⢠⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠄⠀⠀⠄⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="170">⠀⠀⠀⠀⢀⠀⠀⠀⠀⣸⣦⣸⣧⣼⣿⣦⣄⣀⣈⣴⣾⣿⣿⣦⡐⠄⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="190">⠀⢠⣶⣶⣦⣤⣤⣤⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="210">⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡌⡀⠀⠀</tspan>
-    <tspan x="15" y="230">⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⢠⠀⠀</tspan>
-    <tspan x="15" y="250">⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⡙⢿⡿⠛⢿⣿⣿⣿⠀⠀⠀</tspan>
-    <tspan x="15" y="270">⠀⠄⢿⣿⣿⣿⡿⠿⣿⡿⠉⠙⣿⣿⣿⣿⣿⡇⢘⠐⠨⠄⠁⠄⢻⣿⣿⠀⠀⠀</tspan>
-    <tspan x="15" y="290">⠀⠀⡈⢿⣿⣿⡇⠆⠈⠃⠃⠁⠸⣿⣿⣿⣿⣷⢸⠀⠀⠀⠀⠈⡈⢿⡿⢀⠀⠀</tspan>
-    <tspan x="15" y="310">⠀⠀⠀⠄⠻⣿⣇⠠⠀⠀⠀⠀⠂⢹⣿⣿⣿⣿⠈⠀⠀⠀⠀⠀⢀⠸⠋⠄⠀⠀</tspan>
-    <tspan x="15" y="330">⠀⠀⠀⠀⠀⠈⠻⡆⠀⠀⠀⠀⠈⠄⢿⣿⣿⣿⡆⠂⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀</tspan>
-    <tspan x="15" y="350">⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀⠈⠄⢻⣿⣿⣧⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="370">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢀⠹⣿⣿⡆⢁⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="390">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡘⢿⣿⡀⠄⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="410">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⡙⠳⠈⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="430">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/35.txt">
+    <tspan x="15" y="30">     ------------..</tspan>
+    <tspan x="15" y="50">       ''........$$$$.</tspan>
+    <tspan x="15" y="70">        /'.' $;$   '$$.</tspan>
+    <tspan x="15" y="90">       !./'..$;$..  '$$</tspan>
+    <tspan x="15" y="110">       !'.$;;;;;;;$. $$</tspan>
+    <tspan x="15" y="130">       ' $;;;;;;;;;$ $$</tspan>
+    <tspan x="15" y="150">         $;; ;;;;;;$ $$</tspan>
+    <tspan x="15" y="170">         $;; ;;;;;;$ $$</tspan>
+    <tspan x="15" y="190">         $;; ;;;;;;$ $$</tspan>
+    <tspan x="15" y="210">         $;; ;;;;;;$ $$</tspan>
+    <tspan x="15" y="230">         $;; ;;;;;;$ $$</tspan>
+    <tspan x="15" y="250">         $;; ;;;;;;$ $$</tspan>
+    <tspan x="15" y="270">         $;; ;;;;;;$ $$</tspan>
+    <tspan x="15" y="290">         $;; ;;;;;;$ $$.</tspan>
+    <tspan x="15" y="310">         $;; ;;;;;;$ '$$</tspan>
+    <tspan x="15" y="330">         $;; ;;;;;;$</tspan>
+    <tspan x="15" y="350">         $;; ;;;;;;$</tspan>
+    <tspan x="15" y="370">         $;;;;;;;;;$</tspan>
+    <tspan x="15" y="390">         dp;;;;;;;;$</tspan>
+    <tspan x="15" y="410">          '$$$$$$$'</tspan>
+    <tspan x="15" y="430">..................................</tspan>
+    <tspan x="15" y="450">!    Pull pin, Press lever,      !</tspan>
+    <tspan x="15" y="470">! Direct spray at base of flames !</tspan>
+    <tspan x="15" y="490">!.................................</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -53,7 +56,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">........................ </tspan><tspan class="value">Obsessed with You - </tspan><tspan class="artistColor">Central Cee</tspan>
 <tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">....................................... </tspan><tspan class="value">OOOO - </tspan><tspan class="artistColor">ALBLAK 52</tspan>
 <tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................... </tspan><tspan class="value">DID IT FIRST - </tspan><tspan class="artistColor">Ice Spice</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">35525</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">... </tspan><tspan class="value">14</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">35525</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">... </tspan><tspan class="value">15</tspan> <tspan class="value">hours ago</tspan>
 </text><text x="390" y="220" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">65.4%</tspan><tspan fill="#3572A5" class="artistColor"> (5.6MB)</tspan>
