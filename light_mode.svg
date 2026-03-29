@@ -16,31 +16,29 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/26.txt">
-    <tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="50">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡻⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠔⠒⡿⠤⠟⡒⠢⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="90">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡜⢡⠟⠀⣸⠁⠀⠀⢳⠀⠐⡆⠱⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="110">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⣮⡤⢄⣁⢠⢀⡴⣊⡤⢴⢦⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣦⡹⠙⠢⠤⡿⠀⠞⠤⠔⠁⢇⡄⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⠻⡢⣄⡴⣄⠤⣠⠦⡤⢚⡿⢀⡧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⠸⣆⢳⠳⡴⣤⠶⣤⢦⠞⢪⣆⠞⡝⠲⣀⡤⡠⢤⣀⣠⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⠀⣤⣦⣼⠆⣇⡀⠀⠘⠲⠧⣜⣄⣀⣀⣧⣤⠞⠉⢚⣡⡞⠁⢹⡟⣛⡽⢿⣕⣄⠤⣤⠤⢤⣀⡀⠀</tspan>
-    <tspan x="15" y="210">⠀⠀⠀⠀⠀⡤⡲⢮⣿⣾⠎⠀⢸⠉⠓⠒⠤⠤⠬⢵⣦⡶⠭⠕⠒⠋⠉⠀⣸⠀⠀⠉⠁⠉⠲⠭⠕⠛⠳⡙⠭⢷⣳⡄</tspan>
-    <tspan x="15" y="230">⠀⠀⠀⢀⣼⢸⠬⠵⡃⠀⠀⠀⠘⢦⡤⠤⢖⣲⠎⢻⣻⣿⡉⠒⠒⢶⠤⡴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢉⡥⣚⡞</tspan>
-    <tspan x="15" y="250">⠀⣠⢖⣞⡼⠋⠀⠀⠀⠀⠀⠀⢀⡏⡠⠞⢉⣠⠴⡟⠉⢣⠑⣄⠀⠀⠱⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣸⣿⠇</tspan>
-    <tspan x="15" y="270">⢠⣷⡿⠽⠁⠀⠀⠀⠀⠀⣠⠖⢉⡤⠖⠊⠉⠀⡴⠁⡀⠈⢧⠀⠉⠒⠦⢼⡙⠲⢤⡀⠀⠀⠀⠀⠀⠀⢠⡏⣞⢏⠇⠀</tspan>
-    <tspan x="15" y="290">⢻⢢⣈⠀⠀⠀⠀⠀⢀⡞⠁⠐⢱⣀⠀⠀⡠⠚⢁⠞⠀⢰⡈⠳⣀⠀⠀⠀⠙⢦⠀⠙⡆⠀⣀⢀⡴⡄⢠⢫⢫⠁⠀⠀</tspan>
-    <tspan x="15" y="310">⢸⠸⣽⣇⠀⠀⠀⠀⣸⠔⠒⢦⡀⢯⢦⣎⣀⣰⣋⣀⣀⣈⣁⣀⣈⣳⡀⠀⢀⣈⣠⠤⠗⢀⣻⠻⣡⣷⡺⠟⠓⠢⣄⠀</tspan>
-    <tspan x="15" y="330">⠀⠹⣷⡜⡇⠀⠀⠀⠀⠀⠀⠀⠈⠉⡆⢻⡀⠀⠀⠀⠀⠀⠀⠀⢀⡈⠉⠉⠉⠀⠀⠀⠀⠻⠤⢬⣡⣝⣦⣲⡶⣶⠪⣇</tspan>
-    <tspan x="15" y="350">⠀⠀⠯⢷⣧⢄⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⡇⠀⠀⠀⠀⠀⠀⠀⡈⢿⢦⡀⠀⠀⠀⠀⠀⢀⣴⡯⣻⣷⣿⢿⣉⠙⠃⠀</tspan>
-    <tspan x="15" y="370">⠀⠀⠀⠈⢏⣉⣳⢠⠖⡆⠀⠀⣠⠞⠀⢠⠇⠀⠀⠀⠀⠀⠀⠀⠹⡺⢧⡉⠲⠤⠤⠤⢚⠕⣩⣾⣟⠟⠉⠓⠊⠀⠀⠀</tspan>
-    <tspan x="15" y="390">⠀⠀⠀⢠⡶⠧⢍⡧⣞⣁⠤⠚⠁⠀⡠⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⡷⣝⣶⣒⣒⣺⣵⠿⣫⠟⠁⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="410">⠀⠀⠀⠀⠉⠉⡹⣠⢎⣇⣀⡠⠔⢋⣀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠒⠫⠭⠭⠥⠒⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="430">⠀⠀⠀⠀⢀⠎⢀⠼⡋⣁⡇⠀⣴⣁⠠⣠⠤⣬⡑⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="450">⠀⠀⠀⠀⢸⡀⡏⠀⠉⠳⠽⠀⠋⠀⠀⠀⠳⢌⠻⣦⣈⠓⢤⡀⠀⠀⢀⡠⠒⢁⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="470">⡀⠀⠀⠀⠀⠙⠳⠄⡀⠀⠀⠀⢀⠀⠀⡀⠀⠀⠉⠢⣩⣛⣳⢾⢽⠭⢷⢾⣥⠋⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="490">⠛⠃⠛⠓⠛⠛⠛⠃⠻⠘⠓⠏⠚⠙⠓⠛⠇⠛⠛⠋⠛⠛⠻⠿⠾⠿⠟⠛⠛⠛⠛⠋⠛⠛⠻⠛⠛⠃⠛⠛⠛⠐⠒⠛</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/28.txt">
+    <tspan x="15" y="30">    ,__                   __</tspan>
+    <tspan x="15" y="50">    '~~****Nm_    _mZ*****~~</tspan>
+    <tspan x="15" y="70">            _8@mm@K_</tspan>
+    <tspan x="15" y="90">           W~@`  '@~W</tspan>
+    <tspan x="15" y="110">          ][][    ][][</tspan>
+    <tspan x="15" y="130">    gz    'W'W.  ,W`W`    es</tspan>
+    <tspan x="15" y="150">  ,Wf    gZ****MA****Ns    VW.</tspan>
+    <tspan x="15" y="170"> gA`   ,Wf     ][     VW.   'Ms</tspan>
+    <tspan x="15" y="190">Wf    ,@`      ][      '@.    VW</tspan>
+    <tspan x="15" y="210">M.    W`  _mm_ ][ _mm_  'W    ,A</tspan>
+    <tspan x="15" y="230">'W   ][  i@@@@i][i@@@@i  ][   W`</tspan>
+    <tspan x="15" y="250"> !b  @   !@@@@!][!@@@@!   @  d!</tspan>
+    <tspan x="15" y="270">  VWmP    ~**~ ][ ~**~    YmWf</tspan>
+    <tspan x="15" y="290">    ][         ][         ][</tspan>
+    <tspan x="15" y="310">  ,mW[         ][         ]Wm.</tspan>
+    <tspan x="15" y="330"> ,A` @  ,gms.  ][  ,gms.  @ 'M.</tspan>
+    <tspan x="15" y="350"> W`  Yi W@@@W  ][  W@@@W iP  'W</tspan>
+    <tspan x="15" y="370">d!   'W M@@@A  ][  M@@@A W`   !b</tspan>
+    <tspan x="15" y="390">@.    !b'V*f`  ][  'V*f`d!    ,@</tspan>
+    <tspan x="15" y="410">'Ms    VW.     ][     ,Wf    gA`</tspan>
+    <tspan x="15" y="430">  VW.   'Ms.   ][   ,gA`   ,Wf</tspan>
+    <tspan x="15" y="450">   'Ms    'V*mmWWmm*f`    gA`</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -67,7 +65,7 @@ text, tspan {white-space: pre;}
 </text><text x="390" y="390" fill="#24292f" id="github_stats">
     <tspan x="390" y="390">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
     <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">96</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">99</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">243</tspan>
-    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,735</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,416</tspan>
+    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,735</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,415</tspan>
     <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits (7d)</tspan>:<tspan class="cc" id="recent_commit_dots"> ................ </tspan><tspan class="value" id="recent_commit_data">49</tspan> | <tspan class="key">Streak</tspan>:<tspan class="cc" id="streak_dots"> ...... </tspan><tspan class="value" id="streak_data">25 days</tspan>
     <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">624,367</tspan> ( <tspan class="addColor" id="loc_add">817,208</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"/><tspan class="delColor" id="loc_del">192,841</tspan><tspan class="delColor">--</tspan> )
 </text></svg>
