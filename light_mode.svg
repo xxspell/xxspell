@@ -16,31 +16,31 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/10.txt">
-    <tspan x="15" y="30"/>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/12.txt">
+    <tspan x="15" y="30">⠀⠀</tspan>
     <tspan x="15" y="50"/>
-    <tspan x="15" y="70">               TSNJJJJJJJJJKT</tspan>
-    <tspan x="15" y="90">             WHQQ         ZQLIS</tspan>
-    <tspan x="15" y="110">            WM                KK</tspan>
-    <tspan x="15" y="130">           OH     VDCKOTWXRCCHIII</tspan>
-    <tspan x="15" y="150">           N      SAAHCJOFARNLLPXRJT</tspan>
-    <tspan x="15" y="170">           N      WMAAKUOAAKMX    TLI</tspan>
-    <tspan x="15" y="190">           NE        Z QFAAAAGPOOU ZQE</tspan>
-    <tspan x="15" y="210">         VKCAAGU       NFFEAEFCAADQQXJ</tspan>
-    <tspan x="15" y="230">      ZYKBAAACQBS         ZQKWUQMCBCPI</tspan>
-    <tspan x="15" y="250">     WLAAAIHI   OM          NMU    PU</tspan>
-    <tspan x="15" y="270">    WMAAHILOY    K           FP</tspan>
-    <tspan x="15" y="290">   YMAABXWGDMWY  K          LPLP</tspan>
-    <tspan x="15" y="310">   KAAAELBAAACR QM          ETKK</tspan>
-    <tspan x="15" y="330">  HAAFKAAABACK RK          RKNGK</tspan>
-    <tspan x="15" y="350"> GBAAAAALEDLVUKR          YBLFMW</tspan>
-    <tspan x="15" y="370">LAAAAAAANX SM            UHBCU</tspan>
-    <tspan x="15" y="390">AAAAAAAANCG            TLFBAV</tspan>
-    <tspan x="15" y="410">AAAACGGGAALV XEJLN   THBAFGVZ</tspan>
-    <tspan x="15" y="430">BBBKV   QBADJHAABAFEFGAAAFLJJJJS</tspan>
-    <tspan x="15" y="450">        CAAACJMMNLHHZAAAAAETLBLGK</tspan>
-    <tspan x="15" y="470">        XKHEAAEQDGIL XXKHHIJAHHRY</tspan>
-    <tspan x="15" y="490">           WSSSSSX         ZSZ</tspan>
+    <tspan x="15" y="70"/>
+    <tspan x="15" y="90"/>
+    <tspan x="15" y="110"/>
+    <tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⠤⠤⢤⣄⡀⠀⠀⢰⠿⢧⣿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⠁⠀⠀⠀⢀⣬⠽⠳⣤⢞⡴⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⢀⡀⠀⠠⠉⣠⣤⡄⠀⠸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="210">⠀⢀⣶⣤⡀⠀⢠⡷⠋⣁⣀⢰⡀⠀⠘⠓⠊⠁⠀⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="230">⠀⠸⣧⣇⡩⣟⡛⠀⠸⠯⠍⡻⠛⠉⠉⢉⣽⠠⠤⠤⡀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="250">⠀⠀⠈⠀⠀⠀⢸⠀⠀⠈⠀⢧⠤⠤⠖⢡⠀⠀⠀⣠⠄⠀⠸⣷⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="270">⠀⠀⠀⠀⠀⠀⠀⡇⠀⢀⠎⠀⠀⠘⠀⢀⣠⡴⠚⡙⠀⠀⠀⠇⠉⠻⣯⠙⠲⠶⠛⣆⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="290">⠀⠀⠀⠀⢀⣀⣠⣿⡀⠸⠄⠶⣖⠒⠚⢉⣠⣴⡞⠁⠀⠀⠀⡆⠀⠀⣿⡇⠀⠰⡀⢹⠉</tspan>
+    <tspan x="15" y="310">⠀⠀⠀⣰⠏⣔⢠⡿⢳⣄⠀⠀⠈⠉⠙⠛⠋⠁⠀⠀⠀⠀⡼⠀⠀⣼⡟⠀⢀⠀⣧⠸⡇</tspan>
+    <tspan x="15" y="330">⠀⣰⠞⡿⣸⣿⠻⣷⠀⠙⠷⣄⡀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⣠⣾⢏⢰⡿⢷⣅⢸⢠</tspan>
+    <tspan x="15" y="350"/>
+    <tspan x="15" y="370"/>
+    <tspan x="15" y="390"/>
+    <tspan x="15" y="410"/>
+    <tspan x="15" y="430"/>
+    <tspan x="15" y="450"/>
+    <tspan x="15" y="470"/>
+    <tspan x="15" y="490"/>
     <tspan x="15" y="510"/>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
