@@ -17,31 +17,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/35.txt">
-    <tspan x="15" y="30">     ------------..</tspan>
-    <tspan x="15" y="50">       ''........$$$$.</tspan>
-    <tspan x="15" y="70">        /'.' $;$   '$$.</tspan>
-    <tspan x="15" y="90">       !./'..$;$..  '$$</tspan>
-    <tspan x="15" y="110">       !'.$;;;;;;;$. $$</tspan>
-    <tspan x="15" y="130">       ' $;;;;;;;;;$ $$</tspan>
-    <tspan x="15" y="150">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="170">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="190">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="210">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="230">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="250">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="270">         $;; ;;;;;;$ $$</tspan>
-    <tspan x="15" y="290">         $;; ;;;;;;$ $$.</tspan>
-    <tspan x="15" y="310">         $;; ;;;;;;$ '$$</tspan>
-    <tspan x="15" y="330">         $;; ;;;;;;$</tspan>
-    <tspan x="15" y="350">         $;; ;;;;;;$</tspan>
-    <tspan x="15" y="370">         $;;;;;;;;;$</tspan>
-    <tspan x="15" y="390">         dp;;;;;;;;$</tspan>
-    <tspan x="15" y="410">          '$$$$$$$'</tspan>
-    <tspan x="15" y="430">..................................</tspan>
-    <tspan x="15" y="450">!    Pull pin, Press lever,      !</tspan>
-    <tspan x="15" y="470">! Direct spray at base of flames !</tspan>
-    <tspan x="15" y="490">!.................................</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/24.txt">
+    <tspan x="15" y="30">⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="50">⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="70">⣿⣿⣿⣿⡏⣀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿</tspan>
+    <tspan x="15" y="90">⣿⣿⣿⢏⣴⣿⣷⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿</tspan>
+    <tspan x="15" y="110">⣿⣿⣟⣾⣿⡟⠁⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣷⢢⠀⠀⠀⠀⠀⠀⠀⢸⣿</tspan>
+    <tspan x="15" y="130">⣿⣿⣿⣿⣟⠀⡴⠄⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⣿</tspan>
+    <tspan x="15" y="150">⣿⣿⣿⠟⠻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⢴⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⣿</tspan>
+    <tspan x="15" y="170">⣿⣁⡀⠀⠀⢰⢠⣦⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⡄⠀⣴⣶⣿⡄⣿</tspan>
+    <tspan x="15" y="190">⣿⡋⠀⠀⠀⠎⢸⣿⡆⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠗⢘⣿⣟⠛⠿⣼</tspan>
+    <tspan x="15" y="210">⣿⣿⠋⢀⡌⢰⣿⡿⢿⡀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣧⢀⣼</tspan>
+    <tspan x="15" y="230">⣿⣿⣷⢻⠄⠘⠛⠋⠛⠃⠀⠀⠀⠀⠀⢿⣧⠈⠉⠙⠛⠋⠀⠀⠀⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="250">⣿⣿⣧⠀⠈⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠟⠀⠀⠀⠀⢀⢃⠀⠀⢸⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="270">⣿⣿⡿⠀⠴⢗⣠⣤⣴⡶⠶⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡸⠀⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="290">⣿⣿⣿⡀⢠⣾⣿⠏⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠉⠀⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="310">⣿⣿⣿⣧⠈⢹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="330">⣿⣿⣿⣿⡄⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="350">⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="370">⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="390">⣿⣿⣿⣿⣿⣦⣄⣀⣀⣀⣀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="410">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="430">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠙⣿⣿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="450">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠁⠀⠀⠹⣿⠃⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="470">⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="15" y="490">⣿⣿⣿⣿⠿⠛⠉⠉⠁⠀⢻⣿⡇⠀⠀⠀⠀⠀⠀⢀⠈⣿⣿⡿⠉⠛⠛⠛⠉⠉</tspan>
+    <tspan x="15" y="510">⣿⡿⠋⠁⠀⠀⢀⣀⣠⡴⣸⣿⣇⡄⠀⠀⠀⠀⢀⡿⠄⠙⠛⠀⣀⣠⣤⣤⠄</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -51,12 +52,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="60" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -——————————————————————————————————-—-
-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Genesis - </tspan><tspan class="artistColor">onimanxd</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">. </tspan><tspan class="value">Sol Letal! (Ultra Slowed) - </tspan><tspan class="artistColor">Sayfalse &amp; TESOROX &amp; Maeve</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">Warmin' Up - </tspan><tspan class="artistColor">EsDeeKid</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">................................... </tspan><tspan class="value">LUMINATE - </tspan><tspan class="artistColor">yakoozzaa</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................. </tspan><tspan class="value">Heart Attack - </tspan><tspan class="artistColor">Immortal Spich &amp; HSXRD</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">........................... </tspan><tspan class="value">UBEENONMYMINDALOT - </tspan><tspan class="artistColor">T-Choppa</tspan>
+<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................. </tspan><tspan class="value">resolution - </tspan><tspan class="artistColor">seawansia</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">....................................... </tspan><tspan class="value">OOOO - </tspan><tspan class="artistColor">ALBLAK 52</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">........... </tspan><tspan class="value">No Sides - </tspan><tspan class="artistColor">Devaloop &amp; Pete Flux &amp; Debonair P</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">........................................... </tspan><tspan class="value">AITA - </tspan><tspan class="artistColor">MVRTX</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................................ </tspan><tspan class="value">WOE - </tspan><tspan class="artistColor">shxpe</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">35660</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">..... </tspan><tspan class="value">1</tspan> <tspan class="value">hour ago</tspan>
 </text><text x="390" y="220" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">65.3%</tspan><tspan fill="#3572A5" class="artistColor"> (7.9MB)</tspan>
@@ -67,8 +68,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="350" font-family="monospace">   </tspan><tspan fill="#3572A5" font-family="monospace">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</tspan><tspan fill="#2b7489" font-family="monospace">▓▓▓▓▓▓▓▓▓</tspan><tspan fill="#fa7343" font-family="monospace">▓▓▓▓▓▓</tspan><tspan fill="#dea584" font-family="monospace">▓▓▓</tspan><tspan fill="#c9bb4d" font-family="monospace">▓▓</tspan><tspan font-family="monospace">   </tspan>
 </text><text x="390" y="390" fill="#c9d1d9" id="github_stats">
     <tspan x="390" y="390">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-    <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">99</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">103</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">244</tspan>
-    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,779</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,417</tspan>
-    <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits (7d)</tspan>:<tspan class="cc" id="recent_commit_dots"> ................ </tspan><tspan class="value" id="recent_commit_data">35</tspan> | <tspan class="key">Streak</tspan>:<tspan class="cc" id="streak_dots"> ....... </tspan><tspan class="value" id="streak_data">2 days</tspan>
-    <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">665,015</tspan> ( <tspan class="addColor" id="loc_add">859,381</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"/><tspan class="delColor" id="loc_del">194,366</tspan><tspan class="delColor">--</tspan> )
+    <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">100</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">104</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">244</tspan>
+    <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,780</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..... </tspan><tspan class="value" id="follower_data">1,417</tspan>
+    <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits (7d)</tspan>:<tspan class="cc" id="recent_commit_dots"> ................ </tspan><tspan class="value" id="recent_commit_data">37</tspan> | <tspan class="key">Streak</tspan>:<tspan class="cc" id="streak_dots"> ....... </tspan><tspan class="value" id="streak_data">2 days</tspan>
+    <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">723,754</tspan> ( <tspan class="addColor" id="loc_add">918,120</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"/><tspan class="delColor" id="loc_del">194,366</tspan><tspan class="delColor">--</tspan> )
 </text></svg>
