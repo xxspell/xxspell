@@ -17,29 +17,31 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/22.txt">
-    <tspan x="15" y="30"/>
-    <tspan x="15" y="50"/>
-    <tspan x="15" y="70"/>
-    <tspan x="15" y="90"/>
-    <tspan x="15" y="110">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="130">⠀⠀⣴⠚⡄⢫⠉⢩⠃⠀⣰⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡄⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="150">⡞⠳⡜⠦⠚⠘⠒⠋⠀⢰⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="170">⠈⠚⠁⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="210">⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="230">⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣤⣄⣀⡀⣠⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="250">⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⢸⠉⠉⢰⠂</tspan>
-    <tspan x="15" y="270">⠀⠀⠀⠀⣾⣿⣿⠟⠛⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⡇⠀⡰⠃⠀</tspan>
-    <tspan x="15" y="290">⠀⠀⠀⢰⣿⣿⠃⠀⠀⢰⡆⢻⣿⣿⣿⣿⣿⡿⠛⠛⠻⣿⣿⣿⣿⠀⠀⠀⠀⢰⠁⡰⠁⠀⠀</tspan>
-    <tspan x="15" y="310">⣶⣦⣤⠘⣿⣿⣆⠀⠀⢿⠇⣼⣿⣿⣿⣿⠛⢸⡇⠀⠀⠙⣿⣿⣿⣇⠀⠀⠀⠈⠒⠁⠀⠀⠀</tspan>
-    <tspan x="15" y="330">⢀⣀⣁⠀⠻⣿⣿⣷⣦⣤⣶⣿⣿⣿⣿⣇⡀⣾⠃⠀⠀⢠⣿⣿⣿⡇⠀⡔⠒⠲⡄⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="350">⠛⠋⠉⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣤⣴⣾⣿⣿⠟⠀⠀⠱⠤⣀⠇⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="370">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⢀⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="390">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠀⠀⣀⡀⠀⠉⠙⠓⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="410"> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="430">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-    <tspan x="15" y="450">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/32.txt">
+    <tspan x="15" y="30">      _ _,---._</tspan>
+    <tspan x="15" y="50">   ,-','       `-.___</tspan>
+    <tspan x="15" y="70">  /-;'               `._</tspan>
+    <tspan x="15" y="90"> /\/          ._   _,'o \</tspan>
+    <tspan x="15" y="110">( /\       _,--'\,','"`. )</tspan>
+    <tspan x="15" y="130"> |\      ,'o     \'    //\</tspan>
+    <tspan x="15" y="150"> |      \        /   ,--'""`-.</tspan>
+    <tspan x="15" y="170"> :       \_    _/ ,-'         `-._</tspan>
+    <tspan x="15" y="190">  \        `--'  /                )</tspan>
+    <tspan x="15" y="210">   `.  \`._    ,'     ________,','</tspan>
+    <tspan x="15" y="230">     .--`     ,'  ,--` __\___,;'</tspan>
+    <tspan x="15" y="250">      \`.,-- ,' ,`_)--'  /`.,'</tspan>
+    <tspan x="15" y="270">       \( ;  | | )      (`-/</tspan>
+    <tspan x="15" y="290">         `--'| |)       |-/</tspan>
+    <tspan x="15" y="310">           | | |        | |</tspan>
+    <tspan x="15" y="330">           | | |,.,-.   | |_</tspan>
+    <tspan x="15" y="350">           | `./ /   )---`  )</tspan>
+    <tspan x="15" y="370">          _|  /    ,',   ,-'</tspan>
+    <tspan x="15" y="390">         ,'|_(    /-&lt;._,' |--,</tspan>
+    <tspan x="15" y="410">         |    `--'---.     \/ \</tspan>
+    <tspan x="15" y="430">         |          / \    /\  \</tspan>
+    <tspan x="15" y="450">       ,-^---._     |  \  /  \  \</tspan>
+    <tspan x="15" y="470">    ,-'        \----'   \/    \--`.</tspan>
+    <tspan x="15" y="490">   /            \              \   \</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-
 <!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -49,12 +51,12 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="60" fill="#c9d1d9" id="lastfm_block">
 <tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -——————————————————————————————————-—-
-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">ULT - </tspan><tspan class="artistColor">Denzel Curry</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">....................................... </tspan><tspan class="value">runt - </tspan><tspan class="artistColor">Voda Fuji</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">............................................. </tspan><tspan class="value">art - </tspan><tspan class="artistColor">AGK.</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">....... </tspan><tspan class="value">GROW A GARDEN FUNK (Slowed) - </tspan><tspan class="artistColor">SHX4 &amp; SXYGX &amp; Fyu</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">........................................... </tspan><tspan class="value">Ciani - </tspan><tspan class="artistColor">Gemi</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">FEEL LIKE ME - </tspan><tspan class="artistColor">Notion</tspan>
+<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.............. </tspan><tspan class="value">meaningful love - </tspan><tspan class="artistColor">Silo &amp; Steven Cranberry</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............ </tspan><tspan class="value">MONTAGEM WINTER RENITCH - </tspan><tspan class="artistColor">MVRTX &amp; DJ SPXRKY</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">KAIZO ASTRAL (SLOWED) - </tspan><tspan class="artistColor">Zynyx</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............. </tspan><tspan class="value">FELTIÇÃO DE MALDIÇÃO 2 - </tspan><tspan class="artistColor">heapper &amp; DJ TUUV</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................ </tspan><tspan class="value">RESPLENDOR - </tspan><tspan class="artistColor">DEXDMOON &amp; QMIIR &amp; RONVXER</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">............................. </tspan><tspan class="value">CHOPPED IT DOWN - </tspan><tspan class="artistColor">Sunderss</tspan>
 </text><text x="390" y="220" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -—————————————————————————————-—-
     <tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">66.8%</tspan><tspan fill="#3572A5" class="artistColor"> (8.7MB)</tspan>
