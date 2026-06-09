@@ -48,12 +48,12 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="390" y="60" fill="#24292f" id="lastfm_block">
-<tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">............................ </tspan><tspan class="value">GET + OUT + MY + WAY - </tspan><tspan class="artistColor">$NOT</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................ </tspan><tspan class="value">SHEN YENG - </tspan><tspan class="artistColor">Kairo Keyz &amp; 36</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Numb - </tspan><tspan class="artistColor">Linkin Park</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Numb - </tspan><tspan class="artistColor">Linkin Park</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............. </tspan><tspan class="value">Young World - </tspan><tspan class="artistColor">A.D.O.R. &amp; Smokey Bubblin' B</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">........................ </tspan><tspan class="value">Miss You - </tspan><tspan class="artistColor">FRIENDLY THUG 52 NGG</tspan>
+<tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.... </tspan><tspan class="value">Swag Surfin' - </tspan><tspan class="artistColor">F.L.Y. (Fast Life Yungstaz) &amp; Easton</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.................. </tspan><tspan class="value">Bad and Boujee - </tspan><tspan class="artistColor">Migos &amp; Lil Uzi Vert</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">................... </tspan><tspan class="value">1942 - </tspan><tspan class="artistColor">plaqueboymax &amp; Nemzzz &amp; 5Star</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Bando - </tspan><tspan class="artistColor">Junior RCE</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................. </tspan><tspan class="value">Make Them Know - </tspan><tspan class="artistColor">Drake</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.................... </tspan><tspan class="value">alone with you - </tspan><tspan class="artistColor">LONOWN &amp; Baby Jane</tspan>
 </text><text x="390" y="220" fill="#24292f" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -——————————————————————————————————-—-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">66.8%</tspan><tspan fill="#3572A5" class="artistColor"> (9.0MB)</tspan>
     <tspan x="390" y="260" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................... </tspan><tspan fill="#2b7489">TypeScript</tspan> <tspan class="value">14.0%</tspan><tspan fill="#2b7489" class="artistColor"> (1.9MB)</tspan>
