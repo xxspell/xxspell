@@ -48,12 +48,12 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="390" y="60" fill="#24292f" id="lastfm_block">
-<tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.................. </tspan><tspan class="value">I Know You Care - </tspan><tspan class="artistColor">Nemzzz &amp; Headie One</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................................ </tspan><tspan class="value">Messy - </tspan><tspan class="artistColor">MRJ</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">............................ </tspan><tspan class="value">Diamondz n Roses - </tspan><tspan class="artistColor">VaporGod</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">..................................... </tspan><tspan class="value">C’est La Vie - </tspan><tspan class="artistColor">J4Y</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">Janice STFU - </tspan><tspan class="artistColor">Drake</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">............................... </tspan><tspan class="value">YOU WANT THIS - </tspan><tspan class="artistColor">tope2die</tspan>
+<tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">2am - </tspan><tspan class="artistColor">Akada &amp; Wilee</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">. </tspan><tspan class="value">Money On My Mind (Feat. Kurupt) - </tspan><tspan class="artistColor">Daz Dillinger &amp; K...</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">........................ </tspan><tspan class="value">protostar - </tspan><tspan class="artistColor">s4turnine &amp; sadance</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">Spend The Night - </tspan><tspan class="artistColor">MPH</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">............................ </tspan><tspan class="value">1 Affoe X 2 - </tspan><tspan class="artistColor">Yung Internet</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................................... </tspan><tspan class="value">Selene - </tspan><tspan class="artistColor">Night Tapes</tspan>
 </text><text x="390" y="220" fill="#24292f" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -——————————————————————————————————-—-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">65.6%</tspan><tspan fill="#3572A5" class="artistColor"> (9.2MB)</tspan>
     <tspan x="390" y="260" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................... </tspan><tspan fill="#2b7489">TypeScript</tspan> <tspan class="value">13.8%</tspan><tspan fill="#2b7489" class="artistColor"> (1.9MB)</tspan>
