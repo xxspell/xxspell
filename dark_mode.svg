@@ -17,32 +17,31 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/2.txt">
-    <tspan x="15" y="30"/>
-    <tspan x="15" y="50"/>
-    <tspan x="15" y="70"/>
-    <tspan x="15" y="90"/>
-    <tspan x="15" y="110">             ;;;;    :;;;</tspan>
-    <tspan x="15" y="130">             ;;;;;;;;;;;;</tspan>
-    <tspan x="15" y="150"> ;;;;;;;;;;;;    ;;;;   :;;;;;;;;;;;;</tspan>
-    <tspan x="15" y="170"> ;;ffffffffft;;;  ;;  ;;;ttffffffff;;</tspan>
-    <tspan x="15" y="190"> ;;fLctttttfcc1;;;ii;;;tccftttttcLf;;</tspan>
-    <tspan x="15" y="210">  ;iLf;ittt1;cL1;;XX;;1Lf;1ttti;cLi;</tspan>
-    <tspan x="15" y="230">  ;;tLf;tLLLi1Lf;1001;fL1iLLLt;fLt;;</tspan>
-    <tspan x="15" y="250">   ;;fLfiicLi1Lf;c00c;fL1iLfiicLf;;</tspan>
-    <tspan x="15" y="270">    ;;1cLfiii1Lf;C00C;fL1iiifLc1;;</tspan>
-    <tspan x="15" y="290">     ;;;tcLctfLf;X00X;fLftcLc1;;;</tspan>
-    <tspan x="15" y="310">       ;;;1cLLLf;fcXX;fLLLc1;;;</tspan>
-    <tspan x="15" y="330">       :;;tLLLLf;fcXC;fLLLLt;;:</tspan>
-    <tspan x="15" y="350">      ;;iccticLf;cX0C;fLcitcci;:</tspan>
-    <tspan x="15" y="370">      ;icLiifLLt;1L0f;tLLfiiLci;</tspan>
-    <tspan x="15" y="390">     ;;fLLfcLLf;;i00i;;fLLcfLLf;;</tspan>
-    <tspan x="15" y="410">     ;;ttttt1i;;;;ff;;;;itttttt;;</tspan>
-    <tspan x="15" y="430">     ;;;;;;;;;;  ;;;:  ;;;;;;;;;;</tspan>
-    <tspan x="15" y="450"/>
-    <tspan x="15" y="470"/>
-    <tspan x="15" y="490"/>
-    <tspan x="15" y="510"/>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/16.txt">
+    <tspan x="15" y="30">⠀⠀⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="50">⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="70">⢀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="90">⠘⡀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="110">⠀⣧⠀⢸⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="130">⠀⢸⣆⠀⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="150">⢱⡀⢿⣆⠸⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="170">⠀⢷⡈⢿⣧⣻⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="190">⢀⠈⢷⣌⢿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="210">⠀⠳⡈⢻⣦⡻⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="230">⠀⠀⠙⢦⡹⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="250">⠀⠀⠀⡈⠻⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="270">⠀⠀⠀⠈⠢⣌⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣄⣀⡀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="290">⠀⠀⠀⠀⢀⠈⠛⢶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀</tspan>
+    <tspan x="15" y="310">⠀⠀⠀⠀⠀⠉⠒⠦⣬⣛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀</tspan>
+    <tspan x="15" y="330">⠀⠀⠀⠀⠀⠀⠠⠤⢤⣌⣉⣛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀</tspan>
+    <tspan x="15" y="350">⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣉⣭⣭⣽⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="370">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⢉⣉⣭⣽⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="390">⠀⠀⠀⠀⠀⠀⠀⠀⠒⠒⠛⠛⠛⠛⢛⣩⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="410">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠴⠾⠟⠛⣫⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="430">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠶⠟⠛⣫⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀</tspan>
+    <tspan x="15" y="450">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠾⠛⣡⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀</tspan>
+    <tspan x="15" y="470">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠚⠋⢀⠿⠋⡿⣿⣿⣿⡇⠀⠀</tspan>
+    <tspan x="15" y="490">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀             ⠚⠋⠋</tspan>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-<!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
 <!--<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -55,7 +54,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">....................... </tspan><tspan class="value">Do Sum With It - </tspan><tspan class="artistColor">Shordie Shordie</tspan>
 <tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............................ </tspan><tspan class="value">WHERE I BE - </tspan><tspan class="artistColor">Lucki &amp; F1LTHY</tspan>
 <tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................... </tspan><tspan class="value">ONLY - </tspan><tspan class="artistColor">Flansie &amp; Dej</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">37003</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.... </tspan><tspan class="value">4</tspan> <tspan class="value">hours ago</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">Total: </tspan><tspan class="cc">.......... </tspan><tspan class="value">37003</tspan><tspan class="value"> scrobbles</tspan> | <tspan class="key">Last: </tspan><tspan class="cc">.... </tspan><tspan class="value">5</tspan> <tspan class="value">hours ago</tspan>
 </text><text x="390" y="220" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -——————————————————————————————————-—-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">65.7%</tspan><tspan fill="#3572A5" class="artistColor"> (9.2MB)</tspan>
     <tspan x="390" y="260" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................... </tspan><tspan fill="#2b7489">TypeScript</tspan> <tspan class="value">13.8%</tspan><tspan fill="#2b7489" class="artistColor"> (1.9MB)</tspan>
