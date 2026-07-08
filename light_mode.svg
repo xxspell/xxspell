@@ -16,31 +16,30 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/39.txt">
-    <tspan x="15" y="30">              .andAHHAbnn.</tspan>
-    <tspan x="15" y="50">           .aAHHHAAUUAAHHHAn.</tspan>
-    <tspan x="15" y="70">          dHP^~"        "~^THb.</tspan>
-    <tspan x="15" y="90">    .   .AHF                YHA.   .</tspan>
-    <tspan x="15" y="110">    |  .AHHb.              .dHHA.  |</tspan>
-    <tspan x="15" y="130">    |  HHAUAAHAbn      adAHAAUAHA  |</tspan>
-    <tspan x="15" y="150">    I  HF~"_____        ____ ]HHH  I</tspan>
-    <tspan x="15" y="170">   HHI HAPK""~^YUHb  dAHHHHHHHHHH IHH</tspan>
-    <tspan x="15" y="190">   HHI HHHD&gt; .andHH  HHUUP^~YHHHH IHH</tspan>
-    <tspan x="15" y="210">   YUI ]HHP     "~Y  P~"     THH[ IUP</tspan>
-    <tspan x="15" y="230">    "  `HK                   ]HH'  "</tspan>
-    <tspan x="15" y="250">        THAn.  .d.aAAn.b.  .dHHP</tspan>
-    <tspan x="15" y="270">        ]HHHHAAUP" ~~ "YUAAHHHH[</tspan>
-    <tspan x="15" y="290">        `HHP^~"  .annn.  "~^YHH'</tspan>
-    <tspan x="15" y="310">         YHb    ~" "" "~    dHF</tspan>
-    <tspan x="15" y="330">          "YAb..abdHHbndbndAP"</tspan>
-    <tspan x="15" y="350">            THHAAb.  .adAHHF</tspan>
-    <tspan x="15" y="370">            "UHHHHHHHHHHU"      -Row</tspan>
-    <tspan x="15" y="390">              ]HHUUHHHHHH[</tspan>
-    <tspan x="15" y="410">            .adHHb "HHHHHbn.</tspan>
-    <tspan x="15" y="430">     ..andAAHHHHHHb.AHHHHHHHAAbnn..</tspan>
-    <tspan x="15" y="450">.ndAAHHHHHHUUHHHHHHHHHHUP^~"~^YUHHHAAbn.</tspan>
-    <tspan x="15" y="470">  "~^YUHHP"   "~^YUHHUP"        "^YUP^"</tspan>
-    <tspan x="15" y="490">       ""         "~~"</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii" id="ascii" data-filename="arts/36.txt">
+    <tspan x="15" y="30"/>
+    <tspan x="15" y="50"/>
+    <tspan x="15" y="70">                /||\</tspan>
+    <tspan x="15" y="90">                ||||</tspan>
+    <tspan x="15" y="110">                ||||</tspan>
+    <tspan x="15" y="130">                |||| /|\</tspan>
+    <tspan x="15" y="150">           /|\  |||| |||</tspan>
+    <tspan x="15" y="170">           |||  |||| |||</tspan>
+    <tspan x="15" y="190">           |||  |||| |||</tspan>
+    <tspan x="15" y="210">           |||  |||| d||</tspan>
+    <tspan x="15" y="230">           |||  |||||||/</tspan>
+    <tspan x="15" y="250">           ||b._||||~~'</tspan>
+    <tspan x="15" y="270">           \||||||||</tspan>
+    <tspan x="15" y="290">            `~~~||||</tspan>
+    <tspan x="15" y="310">                ||||</tspan>
+    <tspan x="15" y="330">                ||||</tspan>
+    <tspan x="15" y="350">~~~~~~~~~~~~~~~~||||~~~~~~~~~~~~~~</tspan>
+    <tspan x="15" y="370">  \/..__..--  . |||| \/  .  ..</tspan>
+    <tspan x="15" y="390">\/         \/ \/    \/</tspan>
+    <tspan x="15" y="410">        .  \/              \/    .</tspan>
+    <tspan x="15" y="430">. \/             .   \/     .</tspan>
+    <tspan x="15" y="450">   __...--..__..__       .     \/</tspan>
+    <tspan x="15" y="470">\/  .   .    \/     \/    __..--..</tspan>
   </text><text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-<!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
 <!--<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -48,12 +47,12 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="390" y="60" fill="#24292f" id="lastfm_block">
-<tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................... </tspan><tspan class="value">I Still Love You - </tspan><tspan class="artistColor">Long Island Sound</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.................... </tspan><tspan class="value">Deserted Locations - </tspan><tspan class="artistColor">АЛ-90 &amp; Sangam</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">Pascià - </tspan><tspan class="artistColor">V.I.C.A.R.I.</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">.................... </tspan><tspan class="value">Time Train - </tspan><tspan class="artistColor">Ev Darko &amp; Deep Spelle</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">SAPPHIRE STRIP - </tspan><tspan class="artistColor">DJ ТРАХОДРОН</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">....................... </tspan><tspan class="value">Dusty Sundays - </tspan><tspan class="artistColor">Chaos in the CBD</tspan>
+<tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.................................... </tspan><tspan class="value">VFP - </tspan><tspan class="artistColor">COMPUTER DATA</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.......... </tspan><tspan class="value">The L Word - </tspan><tspan class="artistColor">Deniz Kurtel &amp; Jada &amp; Guy Gerber</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">........ </tspan><tspan class="value">Back To Back - </tspan><tspan class="artistColor">FRIENDLY THUG 52 NGG &amp; Hugo Loud</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">............ </tspan><tspan class="value">Shyne Boyz 2k16 - </tspan><tspan class="artistColor">Kane Grocerys &amp; Yngx Dior</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................. </tspan><tspan class="value">No Type - </tspan><tspan class="artistColor">Rae Sremmurd</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">................................... </tspan><tspan class="value">bought it - </tspan><tspan class="artistColor">SOSOCAMO</tspan>
 </text><text x="390" y="220" fill="#24292f" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -——————————————————————————————————-—-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................................... </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">66.4%</tspan><tspan fill="#3572A5" class="artistColor"> (9.8MB)</tspan>
     <tspan x="390" y="260" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................... </tspan><tspan fill="#2b7489">TypeScript</tspan> <tspan class="value">13.2%</tspan><tspan fill="#2b7489" class="artistColor"> (1.9MB)</tspan>
