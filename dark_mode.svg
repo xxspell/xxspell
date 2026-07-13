@@ -17,30 +17,32 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/34.txt">
-    <tspan x="15" y="30">                  ^</tspan>
-    <tspan x="15" y="50">                 / \</tspan>
-    <tspan x="15" y="70">            ^   _|.|_   ^</tspan>
-    <tspan x="15" y="90">          _|I|  |I .|  |.|_</tspan>
-    <tspan x="15" y="110">          \II||~~| |~~||  /</tspan>
-    <tspan x="15" y="130">           ~\~|~~~~~~~|~/~</tspan>
-    <tspan x="15" y="150">             \|II I ..|/</tspan>
-    <tspan x="15" y="170">        /\    |II.    |    /\</tspan>
-    <tspan x="15" y="190">       /  \  _|III .  |_  /  \</tspan>
-    <tspan x="15" y="210">       |-~| /(|I.I I  |)\ |~-|</tspan>
-    <tspan x="15" y="230">     _/(I | +-----------+ |. )\_</tspan>
-    <tspan x="15" y="250">     \~-----/____-~-____\-----~/</tspan>
-    <tspan x="15" y="270">      |I.III|  /(===)\  |  .. |</tspan>
-    <tspan x="15" y="290">      /~~~-----_________---~~~\</tspan>
-    <tspan x="15" y="310">     `##########!\-#####%!!!!!| |\</tspan>
-    <tspan x="15" y="330">    _/###########!!\~~-_##%!!!\_/|</tspan>
-    <tspan x="15" y="350">    \##############!!!!!/~~-_%!!!!\</tspan>
-    <tspan x="15" y="370">     ~)#################!!!!!/~~--\_</tspan>
-    <tspan x="15" y="390">  __ /#####################%%!!!!/ /</tspan>
-    <tspan x="15" y="410">  \,~\-_____##############%%%!!!!\/</tspan>
-    <tspan x="15" y="430">  /!!!!\ \ \~-_###########%%%!!!!\</tspan>
-    <tspan x="15" y="450"> /#####!!!!!!!\~-_#######%%%!!!!!!\_</tspan>
-    <tspan x="15" y="470">/#############!!!\#########%%%!!!!!!\</tspan>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii" id="ascii" data-filename="arts/3.txt">
+    <tspan x="15" y="30">                            :,,,,.</tspan>
+    <tspan x="15" y="50">                            :,,,,,</tspan>
+    <tspan x="15" y="70">                           :,,,:</tspan>
+    <tspan x="15" y="90">                         ,:,,:,</tspan>
+    <tspan x="15" y="110">                       ,:::,:,</tspan>
+    <tspan x="15" y="130">                     .,,::,:,</tspan>
+    <tspan x="15" y="150">                    ,:ii:,,</tspan>
+    <tspan x="15" y="170">                   ,;t1i,,</tspan>
+    <tspan x="15" y="190">                 ,::;ti,,</tspan>
+    <tspan x="15" y="210">                ::;:t1,.</tspan>
+    <tspan x="15" y="230">               ,:i;;,,:</tspan>
+    <tspan x="15" y="250">             ,::1;;::</tspan>
+    <tspan x="15" y="270">            ,::;;;;;;::::::::</tspan>
+    <tspan x="15" y="290">           :;;:;;:;i111iiiii:,</tspan>
+    <tspan x="15" y="310">          :;1;;::,:::::::::,:</tspan>
+    <tspan x="15" y="330">          :1ii::,,,</tspan>
+    <tspan x="15" y="350">         ,,:;;it;,.</tspan>
+    <tspan x="15" y="370">         ,:i:,:i1;,</tspan>
+    <tspan x="15" y="390">       .,:ti,  ,:;,,</tspan>
+    <tspan x="15" y="410">      .,;t1:,</tspan>
+    <tspan x="15" y="430">     .,itti,</tspan>
+    <tspan x="15" y="450">    ,,ift1,,</tspan>
+    <tspan x="15" y="470">    ,:1tti,</tspan>
+    <tspan x="15" y="490">     ,,,:,,</tspan>
+    <tspan x="15" y="510"/>
   </text><text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xxspell@hachimaru</tspan> -——————————————————————————————————————-—-<!--<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
 <!--<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">1</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">1</tspan>-->
@@ -48,12 +50,12 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="390" y="60" fill="#c9d1d9" id="lastfm_block">
-<tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">......................... </tspan><tspan class="value">You - </tspan><tspan class="artistColor">DJ Cinema Quartier Latin</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................. </tspan><tspan class="value">Ugly Truth - </tspan><tspan class="artistColor">Taiki Nulight</tspan>
-<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">Shores Club Mix - </tspan><tspan class="artistColor">Dreamkiller</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">........ </tspan><tspan class="value">crazy caveman frog - </tspan><tspan class="artistColor">Cult Shφtta &amp; don! &amp; Jords</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................ </tspan><tspan class="value">PARTY ALL NIGHT! - Slowed - </tspan><tspan class="artistColor">Lumi Athena</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.......................... </tspan><tspan class="value">KISS OF DEATH - </tspan><tspan class="artistColor">DEVILISH TRIO</tspan>
+<tspan x="390" y="60">- Last.fm Recent Scrobbles</tspan> -—————————————————————————————-—-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">................... </tspan><tspan class="value">Sometimes Not Serious - </tspan><tspan class="artistColor">Night Lovell</tspan>
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">.................................. </tspan><tspan class="value">GREED - </tspan><tspan class="artistColor">Freddie Dredd</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">3.</tspan><tspan class="cc">.... </tspan><tspan class="value">MONTAGEM GREEN RENITCH V1 - </tspan><tspan class="artistColor">Tsk.4 &amp; Fyex &amp; Dj Samir</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">4.</tspan><tspan class="cc">....... </tspan><tspan class="value">Watch This - </tspan><tspan class="artistColor">yamix31 &amp; Whybaby_ff &amp; Symere Woods</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">5.</tspan><tspan class="cc">................................... </tspan><tspan class="value">Single Stint - </tspan><tspan class="artistColor">BlIJE</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">6.</tspan><tspan class="cc">.............................. </tspan><tspan class="value">мне это не нужно - </tspan><tspan class="artistColor">Kizaru</tspan>
 </text><text x="390" y="220" fill="#c9d1d9" id="languages_block">
     <tspan x="390" y="220">- Most used languages</tspan> -——————————————————————————————————-—-<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">1.</tspan><tspan class="cc">.................................. </tspan><tspan fill="#3572A5">Python</tspan> <tspan class="value">66.5%</tspan><tspan fill="#3572A5" class="artistColor"> (10.1MB)</tspan>
     <tspan x="390" y="260" class="cc">. </tspan><tspan class="key">2.</tspan><tspan class="cc">............................... </tspan><tspan fill="#2b7489">TypeScript</tspan> <tspan class="value">13.6%</tspan><tspan fill="#2b7489" class="artistColor"> (2.1MB)</tspan>
