@@ -1,0 +1,354 @@
+{
+  "version": 1,
+  "zone": {
+    "x": 15,
+    "y": 15,
+    "width": 370,
+    "height": 500
+  },
+  "themes": {
+    "dark": "#c9d1d9",
+    "light": "#24292f"
+  },
+  "ramps": {},
+  "arts": [
+    {
+      "id": "10",
+      "type": "text",
+      "source": "arts/10.txt",
+      "enabled": true
+    },
+    {
+      "id": "11",
+      "type": "text",
+      "source": "arts/11.txt",
+      "enabled": true
+    },
+    {
+      "id": "12",
+      "type": "text",
+      "source": "arts/12.txt",
+      "enabled": true
+    },
+    {
+      "id": "13",
+      "type": "text",
+      "source": "arts/13.txt",
+      "enabled": true
+    },
+    {
+      "id": "14",
+      "type": "text",
+      "source": "arts/14.txt",
+      "enabled": true
+    },
+    {
+      "id": "15",
+      "type": "text",
+      "source": "arts/15.txt",
+      "enabled": true
+    },
+    {
+      "id": "16",
+      "type": "text",
+      "source": "arts/16.txt",
+      "enabled": true
+    },
+    {
+      "id": "17",
+      "type": "text",
+      "source": "arts/17.txt",
+      "enabled": true
+    },
+    {
+      "id": "18",
+      "type": "text",
+      "source": "arts/18.txt",
+      "enabled": true
+    },
+    {
+      "id": "19",
+      "type": "text",
+      "source": "arts/19.txt",
+      "enabled": true
+    },
+    {
+      "id": "2",
+      "type": "text",
+      "source": "arts/2.txt",
+      "enabled": true
+    },
+    {
+      "id": "20",
+      "type": "text",
+      "source": "arts/20.txt",
+      "enabled": true
+    },
+    {
+      "id": "21",
+      "type": "text",
+      "source": "arts/21.txt",
+      "enabled": true
+    },
+    {
+      "id": "22",
+      "type": "text",
+      "source": "arts/22.txt",
+      "enabled": true
+    },
+    {
+      "id": "23",
+      "type": "text",
+      "source": "arts/23.txt",
+      "enabled": true
+    },
+    {
+      "id": "24",
+      "type": "text",
+      "source": "arts/24.txt",
+      "enabled": true
+    },
+    {
+      "id": "25",
+      "type": "text",
+      "source": "arts/25.txt",
+      "enabled": true
+    },
+    {
+      "id": "26",
+      "type": "text",
+      "source": "arts/26.txt",
+      "enabled": true
+    },
+    {
+      "id": "28",
+      "type": "text",
+      "source": "arts/28.txt",
+      "enabled": true
+    },
+    {
+      "id": "29",
+      "type": "text",
+      "source": "arts/29.txt",
+      "enabled": true
+    },
+    {
+      "id": "3",
+      "type": "text",
+      "source": "arts/3.txt",
+      "enabled": true
+    },
+    {
+      "id": "30",
+      "type": "text",
+      "source": "arts/30.txt",
+      "enabled": true
+    },
+    {
+      "id": "31",
+      "type": "text",
+      "source": "arts/31.txt",
+      "enabled": true
+    },
+    {
+      "id": "32",
+      "type": "text",
+      "source": "arts/32.txt",
+      "enabled": true
+    },
+    {
+      "id": "34",
+      "type": "text",
+      "source": "arts/34.txt",
+      "enabled": true
+    },
+    {
+      "id": "35",
+      "type": "text",
+      "source": "arts/35.txt",
+      "enabled": true
+    },
+    {
+      "id": "36",
+      "type": "text",
+      "source": "arts/36.txt",
+      "enabled": true
+    },
+    {
+      "id": "37",
+      "type": "text",
+      "source": "arts/37.txt",
+      "enabled": true
+    },
+    {
+      "id": "38",
+      "type": "text",
+      "source": "arts/38.txt",
+      "enabled": true
+    },
+    {
+      "id": "39",
+      "type": "text",
+      "source": "arts/39.txt",
+      "enabled": true
+    },
+    {
+      "id": "4",
+      "type": "text",
+      "source": "arts/4.txt",
+      "enabled": true
+    },
+    {
+      "id": "40",
+      "type": "text",
+      "source": "arts/40.txt",
+      "enabled": true
+    },
+    {
+      "id": "41",
+      "type": "text",
+      "source": "arts/41.txt",
+      "enabled": true
+    },
+    {
+      "id": "42",
+      "type": "text",
+      "source": "arts/42.txt",
+      "enabled": true
+    },
+    {
+      "id": "43",
+      "type": "text",
+      "source": "arts/43.txt",
+      "enabled": true
+    },
+    {
+      "id": "44",
+      "type": "text",
+      "source": "arts/44.txt",
+      "enabled": true
+    },
+    {
+      "id": "5",
+      "type": "text",
+      "source": "arts/5.txt",
+      "enabled": true
+    },
+    {
+      "id": "6",
+      "type": "text",
+      "source": "arts/6.txt",
+      "enabled": true
+    },
+    {
+      "id": "7",
+      "type": "text",
+      "source": "arts/7.txt",
+      "enabled": true
+    },
+    {
+      "id": "8",
+      "type": "text",
+      "source": "arts/8.txt",
+      "enabled": true
+    },
+    {
+      "id": "9",
+      "type": "text",
+      "source": "arts/9.txt",
+      "enabled": true
+    },
+    {
+      "id": "dexter-superman",
+      "type": "render",
+      "source": "arts/src/dexter-superman.jpg",
+      "enabled": true,
+      "render": {
+        "cols": 82,
+        "edges": 0.3,
+        "brightness": 0.04,
+        "gamma": 1.3,
+        "glow": 0.5,
+        "vignette": 0.55,
+        "levels": false,
+        "underlay": 0.55
+      },
+      "key": "4e51b4095d"
+    },
+    {
+      "id": "griffith",
+      "type": "render",
+      "source": "arts/src/griffith.jpg",
+      "enabled": true,
+      "render": {
+        "cols": 58,
+        "saturation": 1.4,
+        "glow": 0.8,
+        "vignette": 0.5,
+        "underlay": 0.3
+      },
+      "key": "1b28bf11f0"
+    },
+    {
+      "id": "girl-gun",
+      "type": "render",
+      "source": "arts/src/girl-gun.png",
+      "enabled": true,
+      "render": {
+        "cols": 92,
+        "edges": 0.3,
+        "gamma": 0.75,
+        "glow": 0.5,
+        "crop": [
+          0.1506,
+          0,
+          0.4487,
+          0.9509
+        ],
+        "underlay": 0.3
+      },
+      "scale": 1.1,
+      "key": "1fa96fbe49"
+    },
+    {
+      "id": "violet-cat",
+      "type": "render",
+      "source": "arts/src/violet-cat.jpg",
+      "enabled": true,
+      "render": {
+        "cols": 65,
+        "saturation": 1.4,
+        "brightness": 0.14,
+        "gamma": 1.45,
+        "glow": 0.8,
+        "levels": false,
+        "underlay": 0.15
+      },
+      "key": "2873a4f93c"
+    },
+    {
+      "id": "cat-cigarette",
+      "type": "render",
+      "source": "arts/src/cat-cigarette.png",
+      "enabled": true,
+      "render": {
+        "cols": 81,
+        "chars": " .'`^\",:;Il!i><~+_-?][}{1)(|/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$",
+        "saturation": 1.4,
+        "glow": 0.8,
+        "crop": [
+          0.0866,
+          0.4035,
+          0.7435,
+          0.5965
+        ],
+        "underlay": 0.25
+      },
+      "scale": 1.05,
+      "key": "63a30bebf3"
+    }
+  ],
+  "rotation": {
+    "render_share": 0.35
+  }
+}
