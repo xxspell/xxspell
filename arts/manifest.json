@@ -273,7 +273,7 @@
         "levels": false,
         "underlay": 0.55
       },
-      "key": "4e51b4095d"
+      "key": "8103c5b8a8"
     },
     {
       "id": "griffith",
@@ -287,7 +287,7 @@
         "vignette": 0.5,
         "underlay": 0.3
       },
-      "key": "1b28bf11f0"
+      "key": "4030d28f4a"
     },
     {
       "id": "girl-gun",
@@ -308,7 +308,7 @@
         "underlay": 0.3
       },
       "scale": 1.1,
-      "key": "1fa96fbe49"
+      "key": "14576d0830"
     },
     {
       "id": "violet-cat",
@@ -324,7 +324,7 @@
         "levels": false,
         "underlay": 0.15
       },
-      "key": "2873a4f93c"
+      "key": "1763adf912"
     },
     {
       "id": "cat-cigarette",
@@ -345,7 +345,86 @@
         "underlay": 0.25
       },
       "scale": 1.05,
-      "key": "63a30bebf3"
+      "key": "3fcce9047a"
+    },
+    {
+      "id": "ak47",
+      "type": "render",
+      "source": "arts/src/ak47.png",
+      "enabled": true,
+      "render": {
+        "cols": 108,
+        "saturation": 1.4,
+        "glow": 0.8,
+        "edge_shape": "brush",
+        "underlay": 0.15,
+        "light_style": "match"
+      },
+      "key": "9edf11bd21"
+    },
+    {
+      "id": "rose",
+      "type": "render",
+      "source": "arts/src/rose.png",
+      "enabled": true,
+      "render": {
+        "cols": 81,
+        "saturation": 1.2,
+        "contrast": 0.8,
+        "glow": 0.8,
+        "bg_remove": 0.26,
+        "cutout": "key",
+        "underlay": 0.15
+      },
+      "scale": 1.5,
+      "key": "9b6efaf853"
+    },
+    {
+      "id": "clouds",
+      "type": "render",
+      "source": "arts/src/clouds.png",
+      "enabled": true,
+      "render": {
+        "cols": 64,
+        "saturation": 1.4,
+        "glow": 0.8,
+        "vignette": 0.3,
+        "edge_shape": "brush",
+        "seed": 2,
+        "underlay": 0.15
+      },
+      "key": "073b081e08"
+    },
+    {
+      "id": "tower",
+      "type": "render",
+      "source": "arts/src/tower.png",
+      "enabled": true,
+      "render": {
+        "cols": 93,
+        "saturation": 1.4,
+        "glow": 0.8,
+        "edge_shape": "torn",
+        "seed": 3,
+        "underlay": 0.15
+      },
+      "key": "0e01b4e9b9"
+    },
+    {
+      "id": "fire",
+      "type": "render",
+      "source": "arts/src/fire.png",
+      "enabled": true,
+      "render": {
+        "cols": 93,
+        "chars": " .'`^\",:;Il!i><~+_-?][}{1)(|/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$",
+        "saturation": 1.4,
+        "brightness": 0.14,
+        "glow": 0.8,
+        "edge_shape": "dissolve",
+        "underlay": 0.15
+      },
+      "key": "0da1165d5c"
     }
   ],
   "rotation": {
